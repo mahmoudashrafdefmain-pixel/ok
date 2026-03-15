@@ -1,1 +1,312 @@
 
+import sqlite3
+import os
+import sys
+
+# -------- CLEAR TERMINAL --------
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
+# -------- DATABASE SETUP --------
+conn = sqlite3.connect("bank.db")
+cursor = conn.cursor()
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS accounts (
+    account_number INTEGER PRIMARY KEY,
+    owner TEXT,
+    password TEXT,
+    balance REAL
+)
+""")
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS transactions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    account_number INTEGER,
+    type TEXT,
+    amount REAL
+)
+""")
+
+conn.commit()
+
+
+# -------- VALIDATION --------
+
+def get_int(prompt):
+    while True:
+        try:
+            value = input(prompt)
+
+            if value.lower() == "clear":
+                clear_screen()
+                continue
+
+            return int(value)
+        except ValueError:
+            print("Invalid number.")
+
+
+def get_float(prompt):
+    while True:
+        try:
+            value = input(prompt)
+
+            if value.lower() == "clear":
+                clear_screen()
+                continue
+
+            return float(value)
+        except ValueError:
+            print("Invalid amount.")
+
+
+# -------- ACCOUNT CLASS --------
+class BankAccount:
+
+    def __init__(self, acc_num, owner, password, balance):
+        self.account_number = acc_num
+        self.owner = owner
+        self.password = password
+        self.balance = balance
+
+    # -------- DEPOSIT --------
+    def deposit(self):
+
+        amount = get_float("Enter deposit amount: ")
+
+        if amount <= 0:
+            print("Amount must be positive")
+            return
+
+        self.balance += amount
+
+        cursor.execute(
+            "UPDATE accounts SET balance=? WHERE account_number=?",
+            (self.balance, self.account_number)
+        )
+
+        cursor.execute(
+            "INSERT INTO transactions(account_number,type,amount) VALUES (?,?,?)",
+            (self.account_number, "deposit", amount)
+        )
+
+        conn.commit()
+
+        print("Deposit successful")
+
+
+    # -------- WITHDRAW --------
+    def withdraw(self):
+
+        amount = get_float("Enter withdraw amount: ")
+
+        if amount > self.balance:
+            print("Insufficient funds")
+            return
+
+        if amount <= 0:
+            print("Invalid amount")
+            return
+
+        self.balance -= amount
+
+        cursor.execute(
+            "UPDATE accounts SET balance=? WHERE account_number=?",
+            (self.balance, self.account_number)
+        )
+
+        cursor.execute(
+            "INSERT INTO transactions(account_number,type,amount) VALUES (?,?,?)",
+            (self.account_number, "withdraw", amount)
+        )
+
+        conn.commit()
+
+        print("Withdraw successful")
+
+
+    # -------- TRANSFER --------
+    def transfer(self):
+
+        target = get_int("Enter target account number: ")
+
+        cursor.execute(
+            "SELECT balance FROM accounts WHERE account_number=?",
+            (target,)
+        )
+
+        data = cursor.fetchone()
+
+        if not data:
+            print("Account not found")
+            return
+
+        amount = get_float("Enter amount to transfer: ")
+
+        if amount > self.balance:
+            print("Not enough balance")
+            return
+
+        self.balance -= amount
+
+        cursor.execute(
+            "UPDATE accounts SET balance=? WHERE account_number=?",
+            (self.balance, self.account_number)
+        )
+
+        cursor.execute(
+            "UPDATE accounts SET balance=balance+? WHERE account_number=?",
+            (amount, target)
+        )
+
+        cursor.execute(
+            "INSERT INTO transactions(account_number,type,amount) VALUES (?,?,?)",
+            (self.account_number, "transfer", amount)
+        )
+
+        conn.commit()
+
+        print("Transfer successful")
+
+
+    # -------- BALANCE --------
+    def balance_info(self):
+        print(f"Balance: {self.balance}")
+
+
+    # -------- HISTORY --------
+    def history(self):
+
+        cursor.execute(
+            "SELECT type, amount FROM transactions WHERE account_number=?",
+            (self.account_number,)
+        )
+
+        rows = cursor.fetchall()
+
+        print("\nTransaction History")
+
+        for t in rows:
+            print(f"{t[0]} : {t[1]}")
+
+
+# -------- SIGNUP --------
+def sign_up():
+
+    acc = get_int("Account number: ")
+    owner = input("Owner name: ")
+    password = input("Password: ")
+    balance = get_float("Initial balance: ")
+
+    try:
+
+        cursor.execute(
+            "INSERT INTO accounts VALUES (?,?,?,?)",
+            (acc, owner, password, balance)
+        )
+
+        conn.commit()
+
+        print("Account created")
+
+    except:
+        print("Account already exists")
+
+
+# -------- LOGIN --------
+def login():
+
+    acc = get_int("Account number: ")
+    password = input("Password: ")
+
+    cursor.execute(
+        "SELECT * FROM accounts WHERE account_number=?",
+        (acc,)
+    )
+
+    data = cursor.fetchone()
+
+    if data and data[2] == password:
+
+        print(f"Welcome {data[1]}")
+
+        return BankAccount(data[0], data[1], data[2], data[3])
+
+    else:
+        print("Login failed")
+        return None
+
+
+# -------- MAIN MENU --------
+def main_menu(account):
+
+    while True:
+
+        print("\n---- BANK MENU ----")
+        print("1 Deposit")
+        print("2 Withdraw")
+        print("3 Transfer")
+        print("4 Balance")
+        print("5 History")
+        print("6 Clear Screen")
+        print("7 Logout")
+
+        choice = get_int("Choose: ")
+
+        if choice == 1:
+            account.deposit()
+
+        elif choice == 2:
+            account.withdraw()
+
+        elif choice == 3:
+            account.transfer()
+
+        elif choice == 4:
+            account.balance_info()
+
+        elif choice == 5:
+            account.history()
+
+        elif choice == 6:
+            clear_screen()
+
+        elif choice == 7:
+            break
+
+
+# -------- MAIN PROGRAM --------
+def main():
+
+    while True:
+
+        print("\n=== BANK SYSTEM ===")
+        print("1 Sign Up")
+        print("2 Login")
+        print("3 Clear Screen")
+        print("4 Exit")
+
+        choice = get_int("Choose: ")
+
+        if choice == 1:
+            sign_up()
+
+        elif choice == 2:
+            acc = login()
+
+            if acc:
+                main_menu(acc)
+
+        elif choice == 3:
+            clear_screen()
+
+        elif choice == 4:
+            print("Goodbye")
+            sys.exit()
+
+
+if __name__ == "__main__":
+    main()
