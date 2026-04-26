@@ -1,0 +1,192 @@
+#installing all the the libraries we need for the project
+
+import pandas as pd
+import matplotlib.pyplot as plt
+    
+#MENU
+def show_menu():
+    #
+    print("DATA OPTIONS MENU")
+    print("spaaaaaaaaaaaaaaaaaaaace")
+    print("1-Show Original Data")
+    print("2-Show Cleaned Data")
+    print("3-Show Analysis (Terminal)")
+    print("4-Show Analysis (Graphs Only)")
+    print("5-Save Cleaned / Analysis Data")
+    print("0-Exit")
+    print("spaaaaaaaaaaaaaaaaaaaace")
+
+
+#ANALYSIS
+def run_analysis(df, mode="text"):# showing the analysis result as text
+#dt is a short way to say DataFrame
+#mode="text" just a normal parameter with a text as default value
+
+#TEXT MODE
+    if mode == "text":#if the value stayed as the default
+
+        print("-----BASIC INFO----------- ")
+        print(f"Rows: {df.shape[0]}, Columns: {df.shape[1]}")#return the rows and columns [1]just the index
+        #
+        print("\n--------COLUMNS------------")
+        print(df.columns.tolist())#columns just gets the columns names 
+        #tolist Converts them into a Python list
+
+        print("\n-----DATA TYPES-----------")
+        print(df.dtypes)#Shows data types (int,float,string whatever)
+
+        print("\n----MISSING VALUES-----------")
+        print(df.isnull().sum())#returns True or False for the missing values True if missing and False if not missing
+        #sum() counts the True values(the missing one)
+
+        print("\n----NUMERICAL SUMMARY----------")
+        print(df.describe())#gives a Statistical summary for [mean,std,min,max]
+
+        print("\n-------CATEGORICAL SUMMARY---------")
+        print(df.describe(include='object'))
+        """
+        it returns things like:
+        count  number of non-missing values
+        unique  how many different values exist
+        top  most frequent value
+        freq  how many times the most frequent value appears
+        """
+
+        # Unique values
+        print("\n-----UNIQUE VALUES------------")
+       
+        for col in df.select_dtypes(include='object').columns:#select_dtypes() is a Pandas function used to choose columns based on their data type
+            #Give me only the columns that are of type object (usually text columns)
+            print(f"\n{col}:")
+            print(df[col].value_counts())#counts how many time the column df[col]appeared
+
+        # Correlation
+        print("\n----CORRELATION-----------")
+        print(df.corr(numeric_only=True))
+        """
+        df.corr()
+        Computes the correlation matrix, which shows how strongly numeric columns are related to each other
+        numeric_only=True
+        Only use numeric columns (ignore text/object columns)
+   What is correlation?
+
+Correlation measures the relationship between two variables:
+
++1  perfect positive relationship (they increase together)
+0  no relationship
+-1 perfect negative relationship (one increases, the other decreases)
+        """
+
+        # Loan analysis
+        if 'Loan_Status' in df.columns:
+            print("\n----------LOAN STATUS DISTRIBUTION------")
+            counts = df['Loan_Status'].value_counts()
+            percent = df['Loan_Status'].value_counts(normalize=True) * 100
+            print(pd.DataFrame({"Count": counts, "Percentage": percent}))
+
+            if 'Credit_History' in df.columns:
+                print("\nLoan Status vs Credit History:")
+                print(pd.crosstab(df['Credit_History'], df['Loan_Status'], normalize='index') * 100)
+
+            if 'Property_Area' in df.columns:
+                print("\nLoan Status vs Property Area:")
+                print(pd.crosstab(df['Property_Area'], df['Loan_Status'], normalize='index') * 100)
+
+        print("\n----END OF ANALYSIS------------")
+
+    # GRAPH MODE 
+    elif mode == "graph":
+
+        # Histograms
+        df.hist(figsize=(12, 10))
+        plt.suptitle("Histograms")
+        plt.show()
+
+        # Boxplots
+        for col in df.select_dtypes(include=['int64', 'float64']).columns:
+            plt.figure()
+            plt.boxplot(df[col].dropna())
+            plt.title(f"Boxplot of {col}")
+            plt.show()
+
+        # Loan Status Graph
+        if 'Loan_Status' in df.columns:
+            df['Loan_Status'].value_counts().plot(kind='bar')
+            plt.title("Loan Status Distribution")
+            plt.show()
+
+            if 'Credit_History' in df.columns:
+                pd.crosstab(df['Credit_History'], df['Loan_Status']).plot(kind='bar')
+                plt.title("Loan Status vs Credit History")
+                plt.show()
+
+            if 'Property_Area' in df.columns:
+                pd.crosstab(df['Property_Area'], df['Loan_Status']).plot(kind='bar')
+                plt.title("Loan Status vs Property Area")
+                plt.show()
+
+
+#LOAD DATA
+df_original = pd.read_csv(r"D:\train_u6lujuX_CVtuZ9i.csv")
+
+#CLEANING 
+df_cleaned = df_original.copy()
+
+df_cleaned = df_cleaned.drop(columns=[
+    "Loan_ID",
+    "Dependents",
+    "Married",
+    "Education",
+    "Self_Employed",
+    "Gender"
+], errors="ignore")
+
+df_cleaned = df_cleaned.rename(columns={"Loan_Amount_Term": "Loan_Deadline"})
+
+df_cleaned['CoapplicantIncome'] = pd.to_numeric(df_cleaned['CoapplicantIncome'], errors='coerce')
+
+df_cleaned = df_cleaned.dropna(subset=["Credit_History", "LoanAmount", "Loan_Deadline"])
+
+df_cleaned['Credit_History'] = df_cleaned['Credit_History'].astype(int)
+df_cleaned['LoanAmount'] = df_cleaned['LoanAmount'].astype(int)
+df_cleaned['Loan_Deadline'] = df_cleaned['Loan_Deadline'].astype(int)
+df_cleaned['CoapplicantIncome']=df_cleaned['CoapplicantIncome'].astype(int)
+
+#keep Loan_Status numeric
+if "Loan_Status" in df_cleaned.columns:
+    df_cleaned["Loan_Status"] = df_cleaned["Loan_Status"].map({"Y": 1, "N": 0})
+
+df_cleaned = df_cleaned.drop_duplicates(ignore_index=True)
+
+
+#main LOOP
+while True:
+    show_menu()
+    choice = input("Choose option: ")
+
+    if choice == "1":
+        print("\n-----ORIGINAL DATA----------")
+        print(df_original.head())
+
+    elif choice == "2":
+        print("\n----CLEANED DATA --------")
+        print(df_cleaned.head())
+
+    elif choice == "3":
+        run_analysis(df_cleaned, mode="text")
+
+    elif choice == "4":
+        run_analysis(df_cleaned, mode="graph")
+
+    elif choice == "5":
+        print("\nSaving files...")
+        df_cleaned.to_csv("cleaned_data.csv", index=False)
+        df_cleaned.describe().to_csv("analysis_summary.csv")
+        print("Saved successfully")
+
+    elif choice == "0":
+        print("Exiting program")
+        break
+
+    else:
+        print("Invalid choice!")
