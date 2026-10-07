@@ -17,9 +17,11 @@ from ui.widgets import (
     Button, draw_rounded_rect,
     BG_DARK, BG_CARD, CARD_BORDER, PRIMARY_GLOW, SECONDARY, ACCENT_GOLD, ACCENT_GREEN,
     ACCENT_RED, TEXT_WHITE, TEXT_MUTED
+)
 from paths import get_data_path
 
 _DATA_FILE = get_data_path("avatar_data.json")
+
 
 # ── ANIME CATALOGS ─────────────────────────────────────────────────────────────
 
