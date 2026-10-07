@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Dump's Test v17.0
+title = Dumps Test v17.0
 
 # (str) Package name
 package.name = dumpstest
