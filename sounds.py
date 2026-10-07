@@ -68,19 +68,24 @@ except Exception as e:
     print(f"[sounds] Mixer init notice: {e}")
 
 
-def _create_sound(samples: list) -> pygame.mixer.Sound:
-    buf = io.BytesIO()
-    with wave.open(buf, 'wb') as wav:
-        wav.setnchannels(2)
-        wav.setsampwidth(2)
-        wav.setframerate(44100)
-        packed = bytearray()
-        for s in samples:
-            clamped = max(-32767, min(32767, int(s)))
-            packed.extend(struct.pack('<hh', clamped, clamped))
-        wav.writeframes(packed)
-    buf.seek(0)
-    return pygame.mixer.Sound(buf)
+def _create_sound(samples: list):
+    try:
+        if not pygame.mixer.get_init():
+            return None
+        buf = io.BytesIO()
+        with wave.open(buf, 'wb') as wav:
+            wav.setnchannels(2)
+            wav.setsampwidth(2)
+            wav.setframerate(44100)
+            packed = bytearray()
+            for s in samples:
+                clamped = max(-32767, min(32767, int(s)))
+                packed.extend(struct.pack('<hh', clamped, clamped))
+            wav.writeframes(packed)
+        buf.seek(0)
+        return pygame.mixer.Sound(buf)
+    except Exception:
+        return None
 
 
 def _gen_wav(freq_seq: list, wave_type: str = "sine", master_vol: float = 1.0) -> pygame.mixer.Sound:
@@ -310,65 +315,64 @@ MUSIC_TRACKS = [
     "Titans' Reckoning (Epic)"
 ]
 
-_MUSIC_SOUNDS: list = []
+_MUSIC_SOUNDS: list = [None] * len(MUSIC_TRACKS)
 
+_TRACK_CHORD_DATA = [
+    # Track 0: Astral Lo-Fi Breeze (Original BGM)
+    [(261.63, 329.63, 392.00), (220.00, 261.63, 329.63), (293.66, 349.23, 440.00), (196.00, 246.94, 293.66)],
+    # Track 1: Cyber Nexus Pulse
+    [(329.63, 392.00, 493.88), (261.63, 329.63, 392.00), (196.00, 246.94, 293.66), (293.66, 369.99, 440.00)],
+    # Track 2: Epic Dungeon Synth
+    [(174.61, 220.00, 261.63), (196.00, 246.94, 293.66), (164.81, 207.65, 246.94), (130.81, 164.81, 196.00)],
+    # Track 3: Moonlight Serenade
+    [(293.66, 369.99, 440.00), (246.94, 293.66, 369.99), (392.00, 493.88, 587.33), (220.00, 277.18, 329.63)],
+    # Track 4: Champions Arena
+    [(349.23, 440.00, 523.25), (392.00, 493.88, 587.33), (261.63, 329.63, 392.00), (329.63, 415.30, 493.88)],
+    # Track 5: Midnight Asylum (Horror / Dark) — Creepy dissonant minor intervals
+    [(110.00, 155.56, 220.00), (103.83, 146.83, 207.65), (98.00, 138.59, 196.00), (116.54, 164.81, 233.08)],
+    # Track 6: Carnival Chaos (Funny / Comedy) — Bouncy playful ragtime
+    [(261.63, 329.63, 392.00, 440.00), (293.66, 369.99, 440.00, 493.88), (349.23, 440.00, 523.25, 587.33), (246.94, 311.13, 369.99, 415.30)],
+    # Track 7: Fallen Petals (Sad / Emotional) — Melancholic piano chords
+    [(220.00, 261.63, 329.63, 392.00), (174.61, 220.00, 261.63, 329.63), (164.81, 196.00, 246.94, 293.66), (146.83, 174.61, 220.00, 261.63)],
+    # Track 8: Victory Fiesta (Happy / Celebration) — Triumphant party brass
+    [(261.63, 329.63, 392.00, 523.25), (329.63, 392.00, 493.88, 659.25), (349.23, 440.00, 523.25, 698.46), (392.00, 493.88, 587.33, 783.99)],
+    # Track 9: Titans' Reckoning (Epic / Intense) — Heavy power fifths & brass
+    [(110.00, 164.81, 220.00, 329.63), (130.81, 196.00, 261.63, 392.00), (146.83, 220.00, 293.66, 440.00), (123.47, 185.00, 246.94, 369.99)],
+]
 
-def _prebuild_music():
-    track_chord_data = [
-        # Track 0: Astral Lo-Fi Breeze (Original BGM)
-        [(261.63, 329.63, 392.00), (220.00, 261.63, 329.63), (293.66, 349.23, 440.00), (196.00, 246.94, 293.66)],
-        # Track 1: Cyber Nexus Pulse
-        [(329.63, 392.00, 493.88), (261.63, 329.63, 392.00), (196.00, 246.94, 293.66), (293.66, 369.99, 440.00)],
-        # Track 2: Epic Dungeon Synth
-        [(174.61, 220.00, 261.63), (196.00, 246.94, 293.66), (164.81, 207.65, 246.94), (130.81, 164.81, 196.00)],
-        # Track 3: Moonlight Serenade
-        [(293.66, 369.99, 440.00), (246.94, 293.66, 369.99), (392.00, 493.88, 587.33), (220.00, 277.18, 329.63)],
-        # Track 4: Champions Arena
-        [(349.23, 440.00, 523.25), (392.00, 493.88, 587.33), (261.63, 329.63, 392.00), (329.63, 415.30, 493.88)],
-        # Track 5: Midnight Asylum (Horror / Dark) — Creepy dissonant minor intervals
-        [(110.00, 155.56, 220.00), (103.83, 146.83, 207.65), (98.00, 138.59, 196.00), (116.54, 164.81, 233.08)],
-        # Track 6: Carnival Chaos (Funny / Comedy) — Bouncy playful ragtime
-        [(261.63, 329.63, 392.00, 440.00), (293.66, 369.99, 440.00, 493.88), (349.23, 440.00, 523.25, 587.33), (246.94, 311.13, 369.99, 415.30)],
-        # Track 7: Fallen Petals (Sad / Emotional) — Melancholic piano chords
-        [(220.00, 261.63, 329.63, 392.00), (174.61, 220.00, 261.63, 329.63), (164.81, 196.00, 246.94, 293.66), (146.83, 174.61, 220.00, 261.63)],
-        # Track 8: Victory Fiesta (Happy / Celebration) — Triumphant party brass
-        [(261.63, 329.63, 392.00, 523.25), (329.63, 392.00, 493.88, 659.25), (349.23, 440.00, 523.25, 698.46), (392.00, 493.88, 587.33, 783.99)],
-        # Track 9: Titans' Reckoning (Epic / Intense) — Heavy power fifths & brass
-        [(110.00, 164.81, 220.00, 329.63), (130.81, 196.00, 261.63, 392.00), (146.83, 220.00, 293.66, 440.00), (123.47, 185.00, 246.94, 369.99)],
-    ]
-
+def _build_single_track(idx: int):
+    if 0 <= idx < len(_MUSIC_SOUNDS) and _MUSIC_SOUNDS[idx] is not None:
+        return _MUSIC_SOUNDS[idx]
+    if not (0 <= idx < len(_TRACK_CHORD_DATA)):
+        return None
     sample_rate = 44100
-    for idx, chords in enumerate(track_chord_data):
-        disk_loaded = False
-        if _SFX_DIR.exists():
-            mp3_path = _SFX_DIR / "music" / f"music{idx+1}.mp3"
-            if mp3_path.exists():
-                try:
-                    s = pygame.mixer.Sound(str(mp3_path))
-                    _MUSIC_SOUNDS.append(s)
-                    disk_loaded = True
-                except Exception:
-                    pass
-
-        if not disk_loaded:
-            full_samples = []
-            for chord in chords:
-                dur = 2.4
-                n = int(sample_rate * dur)
-                for i in range(n):
-                    t = i / sample_rate
-                    env = math.sin(math.pi * (i / max(1, n)))
-                    # Add subtle warmth harmonic
-                    val_f = sum(math.sin(2.0 * math.pi * f * t) + 0.15 * math.sin(4.0 * math.pi * f * t) for f in chord) / len(chord)
-                    s_val = int(24000.0 * 0.40 * env * val_f)
-                    full_samples.append(max(-32767, min(32767, s_val)))
-            snd = _create_sound(full_samples)
-            _MUSIC_SOUNDS.append(snd)
-
-try:
-    _prebuild_music()
-except Exception as e:
-    print(f"[sounds] Music prebuild error: {e}")
+    if _SFX_DIR.exists():
+        mp3_path = _SFX_DIR / "music" / f"music{idx+1}.mp3"
+        if mp3_path.exists():
+            try:
+                s = pygame.mixer.Sound(str(mp3_path))
+                _MUSIC_SOUNDS[idx] = s
+                return s
+            except Exception:
+                pass
+    try:
+        chords = _TRACK_CHORD_DATA[idx]
+        full_samples = []
+        for chord in chords:
+            dur = 2.4
+            n = int(sample_rate * dur)
+            for i in range(n):
+                t = i / sample_rate
+                env = math.sin(math.pi * (i / max(1, n)))
+                val_f = sum(math.sin(2.0 * math.pi * f * t) + 0.15 * math.sin(4.0 * math.pi * f * t) for f in chord) / len(chord)
+                s_val = int(24000.0 * 0.40 * env * val_f)
+                full_samples.append(max(-32767, min(32767, s_val)))
+        snd = _create_sound(full_samples)
+        _MUSIC_SOUNDS[idx] = snd
+        return snd
+    except Exception as e:
+        print(f"[sounds] Track {idx} build notice: {e}")
+        return None
 
 _current_track_idx = 0
 _music_ch = None
@@ -392,8 +396,8 @@ def start_calm_music(track_idx: int = 0):
     if ch is None: return
     try:
         ch.stop()
-        if _MUSIC_SOUNDS and _current_track_idx < len(_MUSIC_SOUNDS):
-            snd = _MUSIC_SOUNDS[_current_track_idx]
+        snd = _build_single_track(_current_track_idx)
+        if snd is not None:
             snd.set_volume(1.0)
             ch.set_volume(_MUSIC_VOLUME)
             ch.play(snd, loops=-1)

@@ -17,7 +17,10 @@ _SYSTEM_FONT_PATHS = [
     r"C:\Windows\Fonts\tahoma.ttf",
     r"C:\Windows\Fonts\arial.ttf",
     r"/Library/Fonts/Arial Unicode.ttf",
-    r"/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    r"/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    r"/system/fonts/Roboto-Regular.ttf",
+    r"/system/fonts/NotoSansArabic-Regular.ttf",
+    r"/system/fonts/DroidSansFallback.ttf"
 ]
 
 for p in _SYSTEM_FONT_PATHS:

@@ -49,15 +49,28 @@ class GameApp:
 
         # ── DEFAULT FULLSCREEN (REQUIREMENT 9) ────────────────────────────────
         self.is_fullscreen = True
-        try:
-            info = pygame.display.Info()
-            self.screen = pygame.display.set_mode((info.current_w, info.current_h), pygame.FULLSCREEN | pygame.DOUBLEBUF)
-        except Exception:
+        is_android = "ANDROID_ARGUMENT" in sys.modules.get("os", {}).__dict__ or "ANDROID_ARGUMENT" in getattr(sys, "environ", {})
+        import os
+        is_android = "ANDROID_ARGUMENT" in os.environ or "ANDROID_PRIVATE" in os.environ or "PYTHON_SERVICE_ARGUMENT" in os.environ
+        if is_android:
             try:
-                self.screen = pygame.display.set_mode((1280, 720), pygame.FULLSCREEN)
+                self.screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
+            except Exception as e:
+                print(f"[engine] Android set_mode((0,0), FULLSCREEN) fallback: {e}")
+                try:
+                    self.screen = pygame.display.set_mode((0, 0))
+                except Exception:
+                    self.screen = pygame.display.set_mode((1280, 720))
+        else:
+            try:
+                info = pygame.display.Info()
+                self.screen = pygame.display.set_mode((info.current_w, info.current_h), pygame.FULLSCREEN | pygame.DOUBLEBUF)
             except Exception:
-                self.screen = pygame.display.set_mode((1280, 720))
-                self.is_fullscreen = False
+                try:
+                    self.screen = pygame.display.set_mode((1280, 720), pygame.FULLSCREEN)
+                except Exception:
+                    self.screen = pygame.display.set_mode((1280, 720))
+                    self.is_fullscreen = False
 
         pygame.display.set_caption("Dump's Test v11.0 — Online Master Edition")
 
@@ -160,7 +173,7 @@ class GameApp:
         """Maps physical display coordinates back to virtual 1280x720 canvas."""
         mx, my = pos
         sw, sh = self.screen.get_size()
-        if (sw, sh) == (1280, 720):
+        if sw <= 0 or sh <= 0 or (sw, sh) == (1280, 720):
             return (mx, my)
         scale = min(sw / 1280.0, sh / 720.0)
         if scale <= 0:
@@ -185,6 +198,9 @@ class GameApp:
         self.hud_toast_expiry = time.time() + duration
 
     def toggle_fullscreen(self):
+        import os
+        if "ANDROID_ARGUMENT" in os.environ or "ANDROID_PRIVATE" in os.environ:
+            return  # Mobile displays remain locked in native fullscreen
         self.is_fullscreen = not self.is_fullscreen
         if self.is_fullscreen:
             try:
@@ -582,15 +598,20 @@ class GameApp:
 
             # Present canvas to display screen (with letterbox preservation if aspect ratio differs)
             sw, sh = self.screen.get_size()
+            if sw <= 0 or sh <= 0:
+                sw, sh = 1280, 720
             if (sw, sh) == (1280, 720):
                 self.screen.blit(self.canvas, (0, 0))
             else:
                 scale = min(sw / 1280.0, sh / 720.0)
-                scaled_w = int(1280 * scale)
-                scaled_h = int(720 * scale)
-                scaled_surf = pygame.transform.smoothscale(self.canvas, (scaled_w, scaled_h))
-                self.screen.fill((10, 8, 20))
-                self.screen.blit(scaled_surf, ((sw - scaled_w) // 2, (sh - scaled_h) // 2))
+                if scale > 0:
+                    scaled_w = max(1, int(1280 * scale))
+                    scaled_h = max(1, int(720 * scale))
+                    scaled_surf = pygame.transform.smoothscale(self.canvas, (scaled_w, scaled_h))
+                    self.screen.fill((10, 8, 20))
+                    self.screen.blit(scaled_surf, ((sw - scaled_w) // 2, (sh - scaled_h) // 2))
+                else:
+                    self.screen.blit(self.canvas, (0, 0))
 
             pygame.display.flip()
             self.clock.tick(60)

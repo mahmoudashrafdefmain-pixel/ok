@@ -22,13 +22,13 @@ source.include_patterns = assets/*,sound_effect/*,question_bank/*,game/*,network
 source.exclude_patterns = test_*,validate_*,*.pyc,*.spec,*.bat,build.bat,crash_log.txt,suggestions.txt
 
 # (list) List of directory to exclude
-source.exclude_dirs = tests,tools,build,dist,.pytest_cache,__pycache__
+source.exclude_dirs = tests,tools,build,dist,.pytest_cache,__pycache__,p4a-recipes
 
 # (str) Application versioning
 version = 17.0
 
 # (list) Application requirements
-requirements = python3,pygame-ce,arabic-reshaper,python-bidi,openpyxl,et-xmlfile,sqlite3
+requirements = python3,pygame-ce,arabic-reshaper,python-bidi==0.4.2,openpyxl,et-xmlfile,sqlite3
 
 # (str) Presplash of the application
 presplash.filename = %(source.dir)s/icon.png
@@ -71,6 +71,9 @@ android.allow_backup = True
 
 # (str) Bootstrap to use for android build
 p4a.bootstrap = sdl2
+
+# (str) The directory in which python-for-android should look for custom build recipes
+p4a.local_recipes = ./p4a-recipes
 
 # (int) Android logcat filters to use
 android.logcat_filters = *:S python:D

@@ -78,6 +78,10 @@ def get_data_path(filename: str | Path) -> Path:
     Always returns path in the writable application directory.
     """
     target = _APP_DIR / Path(filename)
+    try:
+        target.parent.mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
     # If the file does not exist yet in writable directory, check if a template exists in bundle
     if not target.exists():
         seed_file = _BUNDLE_DIR / Path(filename)
