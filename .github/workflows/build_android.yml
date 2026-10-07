@@ -5,10 +5,13 @@ on:
     branches: [ main, master ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build-android:
+  build:
     name: Build Android APK
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -24,36 +27,36 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Install System Dependencies for Buildozer & SDL2
+      - name: Install System Dependencies for Buildozer
         run: |
           sudo apt-get update
           sudo apt-get install -y git zip unzip autoconf libtool pkg-config zlib1g-dev \
             libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev \
-            build-essential ccache libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+            build-essential ccache libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev \
+            libltdl-dev
 
-      - name: Install Buildozer and Cython
+      - name: Install Buildozer, Cython & Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install --upgrade buildozer cython virtualenv wheel setuptools
 
-      - name: Cache Buildozer & Android SDK/NDK
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.buildozer
-            .buildozer
-          key: buildozer-android-${{ runner.os }}-${{ hashFiles('buildozer.spec') }}
-          restore-keys: |
-            buildozer-android-${{ runner.os }}-
-
       - name: Build Android APK with Buildozer
         run: |
-          # Buildozer automatically downloads Android SDK/NDK and compiles APK
           buildozer -v android debug
 
-      - name: Upload Android APK
+      - name: Upload Android APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: Dumps_Test_v17.0_Android_APK
           path: bin/*.apk
           retention-days: 30
+
+      - name: Create GitHub Release with APK
+        run: |
+          gh release delete v17.0-android --yes || true
+          git tag -d v17.0-android || true
+          gh release create v17.0-android bin/*.apk \
+            --title "Dump's Test v17.0 (Android APK)" \
+            --notes "Installable Android APK for Dump's Test v17.0 Online Master Edition."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
