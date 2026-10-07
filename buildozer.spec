@@ -37,7 +37,7 @@ presplash.filename = %(source.dir)s/icon.png
 icon.filename = %(source.dir)s/icon.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
-orientation = sensorLandscape
+orientation = landscape
 
 # (bool) Indicate if the application should be fullscreen or not
 fullscreen = 1
