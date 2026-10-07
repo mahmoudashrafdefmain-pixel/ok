@@ -1,0 +1,1251 @@
+﻿number,category,question,multiple choices,answer
+1,Addition & Subtraction,7 + 5 *12=,A) 57 | B) 57 | C) 70 | D) 67,D
+2,Addition & Subtraction,(12 *3)+ (8*4) =,A) 70 | B) 58 | C) 45 | D)68,D
+3,Addition & Subtraction,(15 -12)+( 9 -8)=,A) 2 | B) 4 | C) 6 | D) 8,B
+4,Addition & Subtraction,25 /5+ 15/3 =,A) 11 | B) 20 | C) 10 | D)9,C
+5,Addition & Subtraction,33  +  7 + 1 + 1 + 1 + 1 + 1 + 1 + 1 =,A) 42 | B) 37 | C) 45 | D)47,D
+6,Addition & Subtraction,(50 + 25)/3 =,A) 30 | B) 20 | C) 25 | D) 22,C
+7,Addition & Subtraction,68 + 6 =,A) 72 | B) 67 | C) 75 | D) 74,D
+8,Addition & Subtraction,45 + 12 =,A) 57 | B) 59 | C) 54 | D) 62,A
+9,Addition & Subtraction,88 + 11 =,A) 101 | B) 96 | C) 104 | D) 99,D
+10,Addition & Subtraction,if x=13*2 so  99 + x =,A)130 | B) 120| C) 115 | D)125,D
+11,Addition & Subtraction,5-2*2 - 5 =,A) 4 | B) 1 | C)-4 | D) 6,C
+12,Addition & Subtraction,20 - 7*2*2 =,A) 8 | B) -16 | C) 52 | D) -8,D
+13,Addition & Subtraction,35*10 - 100 =,A) -250 | B) 225 | C) 350 | D) 250,D
+14,Addition & Subtraction,42 - 8*4 =,A) 36 | B) 12| C) 18 | D) 10,D
+15,Addition & Subtraction,506 - 40 =,A) 470| B) 456 | C) 465| D) 466,D
+16,Addition & Subtraction,705 - 15 =,A) 690 | B) 695 | C) 685 | D) 590,A
+17,Addition & Subtraction,81 - 9 =,A) 74 | B) 69 | C) 77 | D) 72,D
+18,Addition & Subtraction,93 - 3^3 =,A) 92 | B) 87 | C) 84 | D) 66,D
+19,Addition & Subtraction,100 - (22/11)*21 =,A) 55 | B) 58 | C) 68 | D) 70 ,B
+20,Addition & Subtraction,150 - 75 =,A) 70 | B) 65 | C) 105 | D) 75,D
+21,Addition & Subtraction,21 + 19 =,A) 37 | B) 45 | C) 40 | D) 42,C
+22,Addition & Subtraction,38 + 12 =,A) 52 | B) 47 | C) 50 | D) 55,C
+23,Addition & Subtraction,55 + 45 =,A) 100 | B) 97 | C) 105 | D) 102,A
+24,Addition & Subtraction,76 + 14 =,A) 92 | B) 87 | C) 95 | D) 90,D
+25,Addition & Subtraction,91 + 9 =,A) 102 | B) 97 | C) 105 | D) 100,D
+26,Multiplication & Division,4 x 3*3 =,A) 14 | B) 36 | C) 17 | D) 12,B
+27,Multiplication & Division,5 x 5 =,A) 27 | B) 25 | C) 30 | D) 22,B
+28,Multiplication & Division,6 x 7 =,A) 44 | B) 39 | C) 47 | D) 42,D
+29,Multiplication & Division,8^2 x 4 =,A) 256 | B) 128 | C) 120 | D) 192,A
+30,Multiplication & Division,9 x 6 =,A) 56 | B) 51 | C) 59 | D) 54,D
+31,Multiplication & Division,7 x 7 =,A) 51 | B) 46 | C) 49 | D) 54,C
+32,Multiplication & Division,10 x 3-9*2 =,A) 30 | B) 18| C) 12 | D) 15,C
+33,Multiplication & Division,11 x 5 =,A) 55 | B) 52 | C) 60 | D) 65,A
+34,Multiplication & Division,12 x 4 =,A) 50 | B) 45 | C) 48 | D) 43,C
+35,Multiplication & Division,9 x 9 =,A) 83 | B) 78 | C) 86 | D) 81,D
+36,Multiplication & Division,1180 / 2 =,A) 580 | B) 600 | C) 590 | D) 480,C
+37,Multiplication & Division,35 / 5 =,A) 9 | B) 4 | C) 12 | D) 7,D
+38,Multiplication & Division,48 / 6 =,A) 18| B) 5 | C) 13 | D) 10,A
+39,Multiplication & Division,64 / 8 =,A) 10 | B) 8 | C) 13 | D) 6,B
+40,Multiplication & Division,81 / 9 =,A) 11 | B) 6 | C) 9 | D) 8,C
+41,Decimals & Fractions,0.5 + 0.5 =,,1
+42,Decimals & Fractions,1.2 + 1.8 =,,3
+43,Decimals & Fractions,3.4 + 2.1 =,,5.5
+44,Decimals & Fractions,7.5 + 2.5 =,,10
+45,Decimals & Fractions,(9.9 + 0.1)/0.1 =,,100
+46,Decimals & Fractions,1.555 - 0.5 =,,1.055
+47,Decimals & Fractions,5.6 - 2.1 =,,3.5
+48,Decimals & Fractions,10.0 - 4.5 =,,5.5
+49,Decimals & Fractions,8.2 - 3.2 =,,5
+50,Decimals & Fractions,15.5 - 5.5-0.1 =,,9.9
+51,Decimals & Fractions,What is half of 10*2*2*2?,,40
+52,Decimals & Fractions,What is half of C   C  = k *  2  k  =  j * 2  j  = 2?,,4
+53,Decimals & Fractions,What is 1/16 of 20?,,1.25
+54,Decimals & Fractions,What is 1/6 of 15?,,2.5
+55,Decimals & Fractions,What is 3/4 of 100?,,75
+56,Decimals & Fractions,1/2 + 1/2 +1/8 *8 =,,2
+57,Decimals & Fractions,1/4 + 1/4 =,,1/2
+58,Decimals & Fractions,2/3 + 1/3 =,,1
+59,Decimals & Fractions,5/8 - 1/8 =,,2.1
+60,Decimals & Fractions,3/10 + 4/10 =,,10.7
+61,Decimals & Fractions,0.2 x 3 =,,0.6
+62,Decimals & Fractions,0.4 x 5 =,,2
+63,Decimals & Fractions,1.5 x 2 =,,3
+64,Decimals & Fractions,4.0 / 2 =,,2
+65,Decimals & Fractions,9.3 / 3 =,,3.1
+66,Percentages & Ratios,What is 10% of 100?,,10
+67,Percentages & Ratios,What is 20% of 50?,,10
+68,Percentages & Ratios,What is 50% of 80?,,40
+69,Percentages & Ratios,What is 25% of 40?,,10
+70,Percentages & Ratios,What is 5% of 200?,,10
+71,Percentages & Ratios,Convert 50% to a fraction.,,2.1
+72,Percentages & Ratios,Convert 25% to a fraction.,,4.1
+73,Percentages & Ratios,Convert 75% to a fraction.,,4.1
+74,Percentages & Ratios,Convert 10% to a decimal.,,0.1
+75,Percentages & Ratios,Convert 40% to a decimal.,,0.4
+76,Percentages & Ratios,Express the ratio 2:4 in its simplest form.,,1:02
+77,Percentages & Ratios,Express the ratio 6:9 in its simplest form.,,2:03
+78,Percentages & Ratios,Express the ratio 10:15 in its simplest form.,,2:03
+79,Percentages & Ratios,If a recipe uses 3 cups of flour for every 1 cup of sugar how many cups of flour for 3 cups of sugar?,,9
+80,Percentages & Ratios,If a car travels 60 miles in 1 hour what is its speed in miles after 5 hours?,,60
+81,Percentages & Ratios,What is 15% of 200?,,30
+82,Percentages & Ratios,What is 20% of 45?,,9
+83,Percentages & Ratios,Convert 0.2 to a percentage.,,20%
+84,Percentages & Ratios,Convert 0.85 to a percentage.,,85%
+85,Percentages & Ratios,If 12 out of 20 students passed what is the pass rate percentage?,,60%
+86,Pre-Algebra & Sequences,If x + 5 = 12 what is x?,,7
+87,Pre-Algebra & Sequences,If y - 3 = 10*(1\10) what is y?,,4
+88,Pre-Algebra & Sequences,If 4a = 15+b*c given that b=c and c =1/4*28 what is a?,,16
+89,Pre-Algebra & Sequences,If b/4 = 6 what is b?,,24
+90,Pre-Algebra & Sequences,If 2x + 1 = 9 what is x?,,4
+91,Pre-Algebra & Sequences,What is the next number in the sequence: 2  4  8  16 ...?,,32
+92,Pre-Algebra & Sequences,What is the next number in the sequence: 5 15 45 135...?,,405
+93,Pre-Algebra & Sequences,What is the next number in the sequence: 729 81  9...?,,3
+94,Pre-Algebra & Sequences,What is the next number in the sequence: 10 20 30 40...?,,50
+95,Pre-Algebra & Sequences,What is the next number in the sequence: 1 2 2 4 8...?,,32
+96,Pre-Algebra & Sequences,What is y if y = 4 x 3 - 2?,,10
+97,Pre-Algebra & Sequences,What is z if z = (5 + 5) / 2?,,5
+98,Pre-Algebra & Sequences,Simplify: 3x + 2x+15x-2-2x =,,20x
+99,Pre-Algebra & Sequences,Simplify: 5y - 2y =,,3y
+100,Pre-Algebra & Sequences,If x = 2 and y = 3 what is x/4 + y/9?,,6.5
+101,Pre-Algebra & Sequences,What is the next number in the sequence: 1000 200 40    ...?,,8
+102,Pre-Algebra & Sequences,What is the next number in the sequence: 2 3 5 7 (prime numbers)?,,11
+103,Pre-Algebra & Sequences,If a = 10 what is a x 5?,,50
+104,Pre-Algebra & Sequences,If c - 7--5 = 14 what is c?,,26
+105,Pre-Algebra & Sequences,If 5m = 35 what is m x 9?,,63
+106,Measurement & Geometry,How many centimeters are in 1 meter?,,100
+107,Measurement & Geometry,How many millimeters are in 1 centimeter?,,10
+108,Measurement & Geometry,How many grams are in 1 kilogram?,,1000
+109,Measurement & Geometry,How many minutes are in 2 days ?,,2880
+110,Measurement & Geometry,How many hours are in 1 month?,,720
+111,Measurement & Geometry,What is the area of a square with a side length of 4 cm (just the value)?,,16
+112,Measurement & Geometry,What is the perimeter of a square with a side length of 5 cm (just the value)?,,20
+113,Measurement & Geometry,What is the area of a rectangle with length 6 cm and width 3 cm (just the value)?,,18
+114,Measurement & Geometry,What is the perimeter of a rectangle with length 6 cm and width 3 cm (just the value)?,,18
+115,Measurement & Geometry,How many sides does a triangle have?,,3
+116,Measurement & Geometry,How many sides does a pentagon have?,,5
+117,Measurement & Geometry,How many sides does an octagon have?,,8
+118,Measurement & Geometry,What is the sum of angles in a triangle (just the value)?,,180
+119,Measurement & Geometry,What is the sum of angles in a rectangle (just the value)?,,360
+120,Measurement & Geometry,How many degrees are in a straight line (just the value)?,,180
+121,Measurement & Geometry,How many degrees are in a full circle (just the value)?,,360
+122,Measurement & Geometry,What is the radius of a circle if its diameter is 10 cm (just the value)?,,5
+123,Measurement & Geometry,What is the diameter of a circle if its radius is 6 cm (just the value)?,,12
+124,Measurement & Geometry,Which shape has 4 equal sides and 4 right angles?,,Square
+125,Measurement & Geometry,How many faces does a cube have?,,6
+126,Measurement & Geometry,If a movie starts at 3 PM and lasts for 32/8 hours what time does it end and PM OR AM ?,,7 PM
+127,Measurement & Geometry,How many inches are in 1 foot?,,12
+128,Measurement & Geometry,How many feet are in 1 yard?,,3
+129,Measurement & Geometry,If it is 11 AM now what time will it be in 0.01*400 hours AND PM OR AM?,,3 PM
+130,Measurement & Geometry,How many weeks are in 1 year?,,52
+131,Measurement & Geometry,What is the volume of a cube with a side length of 3 cm (just the value)?,,27
+132,Measurement & Geometry,How many milliliters are in 1 liter?,,1000
+133,Measurement & Geometry,How many sides does a hexagon have?,,6
+134,Measurement & Geometry,How many hours are in 2 days?,,48
+135,Measurement & Geometry,What shape has 8 sides?,,Octagon
+136,Measurement & Geometry,How many degrees is a right angle(value only)?,,90
+137,Measurement & Geometry,If an angle is 45 degrees what type of angle is it?,,Acute
+138,Measurement & Geometry,If an angle is 100 degrees what type of angle is it?,,Obtuse
+139,Measurement & Geometry,What is the shape of a standard basketball?,,Sphere
+140,Measurement & Geometry,How many days are in a standard year?,,365
+141,Multiplication & Division,6 x 8 =,,48
+142,Multiplication & Division,7 x 5 =,,35
+143,Multiplication & Division,9 x 4 =,,36
+144,Multiplication & Division,12 x 6 =,,72
+145,Multiplication & Division,15 x 2 =,,30
+146,Pre-Algebra & Sequences,What is y if y = 4 x 3 - 2?,,10
+147,Pre-Algebra & Sequences,What is z if z = (5 + 5) / 2?,,5
+148,Pre-Algebra & Sequences,Simplify: 3x + 2x =,,5x
+149,Pre-Algebra & Sequences,Simplify: 5y - 2y =,,3y
+150,Pre-Algebra & Sequences,If x = 2 and y = 3 what is x + y=,,5
+151,Python,Which keyword is used to define a function in Python?,A) func | B) define | C) def | D) function,C
+152,Python,What is the correct file extension for Python files?,A) .pyt | B) .py | C) .python | D) .pt,B
+153,Python,How do you start a single-line comment in Python?,A) // | B) /* | C) # | D) --,C
+154,Python,Which data type is used to store True or False values?,A) String | B) Integer | C) Float | D) Boolean,D
+155,Python,What does print(type(5)) output?,A) <class 'float'> | B) <class 'int'> | C) <class 'str'> | D) <class 'bool'>,B
+156,Python,How do you create a variable named x with the value 5?,A) int x = 5 | B) x := 5 | C) x = 5 | D) variable x = 5,C
+157,Python,Which built-in function returns the length of a list?,A) size() | B) len() | C) count() | D) length(),B
+158,Python,What is the output of print(2 ** 3)?,A) 6 | B) 8 | C) 9 | D) 5,B
+159,Python,Which statement is used to stop a loop prematurely?,A) stop | B) exit | C) break | D) return,C
+160,Python,How do you add an element to the end of a list?,A) .add() | B) .insert() | C) .append() | D) .push(),C
+161,C++,Which header file must be included to use cout and cin?,A) <stdio.h> | B) <conio.h> | C) <iostream> | D) <string>,C
+162,C++,How do you end a standard statement line in C++?,"A) Period (.) | B) Colon (:) | C) Semicolon (;) | D) Comma (,)",C
+163,C++,What is the starting point of execution for every C++ program?,A) main() function | B) start() function | C) init() function | D) #include,A
+164,C++,How do you create a single-line comment in C++?,A) # | B) // | C) /* | D) --,B
+165,C++,Which data type is best suited for storing a single letter like 'A'?,A) string | B) char | C) int | D) float,B
+166,C++,What is the purpose of the 'std::endl' command?,A) End the program | B) Clear the screen | C) Insert a new line | D) Exit a loop,C
+167,C++,Which operator is used for console output in C++?,A) >> | B) << | C) == | D) ++,B
+168,C++,How do you declare an integer variable named age in C++?,A) age = int; | B) integer age; | C) int age; | D) var age;,C
+169,C++,What value represents true in a standard C++ boolean context?,A) 0 | B) -1 | C) 1 | D) null,C
+170,C++,Which loop guarantees that the block of code executes at least once?,A) for loop | B) while loop | C) do-while loop | D) foreach loop,C
+171,Algorithms,What is a step-by-step set of instructions for solving a problem called?,A) Variable | B) Compiler | C) Algorithm | D) Function,C
+172,Algorithms,Which data structure works on a First-In First-Out (FIFO) basis?,A) Stack | B) Queue | C) Tree | D) Graph,B
+173,Algorithms,Which search algorithm checks every element sequentially until it finds the target?,A) Binary Search | B) Quick Search | C) Linear Search | D) Bubble Search,C
+174,Algorithms,What is it called when a function calls itself?,A) Iteration | B) Recursion | C) Looping | D) Inheritance,B
+175,Algorithms,Which sorting algorithm repeatedly swaps adjacent elements if they are in the wrong order?,A) Bubble Sort | B) Merge Sort | C) Quick Sort | D) Insertion Sort,A
+176,Algorithms,What is the index of the very first element in an array or list?,A) 1 | B) -1 | C) 0 | D) Any number,C
+177,Algorithms,What data structure uses a Last-In First-Out (LIFO) approach?,A) Queue | B) Stack | C) Array | D) Linked List,B
+178,Algorithms,What is the primary benefit of Binary Search over Linear Search?,A) It is easier to code | B) It is faster for sorted data | C) It uses less memory | D) It works on unsorted data,B
+179,Algorithms,What is a specific condition that stops a recursive function from running forever?,A) Loop condition | B) Break point | C) Base case | D) Return statement,C
+180,Algorithms,Which structure is best for checking if an element exists instantly without searching a list?,A) Array | B) Linked List | C) Hash Table / Set | D) Binary Tree,C
+181,General,What converts high-level programming code into machine-readable code all at once?,A) Interpreter | B) Linker | C) Compiler | D) Text Editor,C
+182,General,What is a mistake or error in a program commonly called?,A) Virus | B) Bug | C) Glitch | D) Script,B
+183,General,Which operator is used to check if two values are equal in most languages?,A) = | B) == | C) != | D) =>,B
+184,General,What type of error occurs when a program runs but produces the wrong output?,A) Syntax Error | B) Logic Error | C) Runtime Error | D) Compilation Error,B
+185,General,What does RAM stand for in computer hardware?,A) Read Access Memory | B) Random Access Memory | C) Run Active Media | D) Rapid Allocation Machine,B
+186,General,Which symbol is standard for the assignment operator?,A) == | B) : | C) = | D) ->,C
+187,General,What is a block of reusable code designed to perform a single specific action?,A) Loop | B) Variable | C) Function | D) Condition,C
+188,General,Which phase involves fixing bugs inside your source code?,A) Designing | B) Compiling | C) Debugging | D) Deploying,C
+189,General,What text formatting character usually represents a tab space?,A) \n | B) \t | C) \s | D) \b,B
+190,General,What type of expression evaluates to either True or False?,A) Arithmetic Expression | B) String Expression | C) Boolean Expression | D) Assignment Expression,C
+191,Python,What keyword is used to add an alternative conditional branch if the initial 'if' fails?,,elif
+192,Python,How do you write a string that spans multiple lines?,,Triple quotes
+193,Python,What built-in function converts an item into an integer?,,int
+194,Python,What symbol do you use to perform a floor division operation?,,//
+195,Python,What index number targets the last element of a list using negative indexing?,,-1
+196,Python,Which keyword is used to import an external module into your script?,,import
+197,Python,What built-in function creates a sequence of numbers often used inside loops?,,range
+198,Python,What data type uses curly braces and stores values in key-value pairs?,,Dictionary
+199,Python,What structural symbol is strictly used to separate code blocks instead of curly braces?,,Indentation
+200,Python,What immutable sequence type is defined using parentheses instead of square brackets?,,Tuple
+201,Python,What is the default return value of a function that does not contain a return statement?,,None
+202,Python,Which operator calculates the remainder of a division?,,%
+203,Python,What function converts user input from the console into a string?,,input
+204,Python,What happens if you try to change an item inside a tuple after creating it?,,It raises a TypeError
+205,Python,Which keyword checks if an item exists inside a collection like a list or string?,,in
+206,Python,What string method changes all characters in a string to lower case?,,lower
+207,Python,What is the output of print('Hello' + 'World')?,,HelloWorld
+208,Python,What keyword is used to create a loop that iterates over a sequence?,,for
+209,Python,What exception is raised when you try to divide a number by zero?,,ZeroDivisionError
+210,Python,What function converts a number or boolean value into a string text?,,str
+211,C++,What symbol is used to indicate a pointer variable selection or variable address lookup aside from &?,,*
+212,C++,Which keyword is used to create a constant variable that cannot be changed?,,const
+213,C++,What command is used to accept input from the user via the console stream?,,cin
+214,C++,Which loop structure evaluates its condition loop at the very top before execution?,,while loop
+215,C++,What keyword defines a function that does not return any data value?,,void
+216,C++,What index is used to access the third element inside a standard array?,,2
+217,C++,What is the string literal boundary symbol used for regular text strings?,,Double quotes
+218,C++,What structural block handles alternative paths when an 'if' statement is false?,,else
+219,C++,Which operator adds 1 to an integer variable?,,++
+220,C++,What is the escape sequence used to print a new line character?,,\n
+221,C++,Which keyword allows a user to group variables of different data types under one name?,,struct
+222,C++,What storage classification does a variable have if it is declared outside all functions?,,Global variable
+223,C++,Which conditional statement evaluates a single variable against multiple matching case values?,,switch
+224,C++,What expression is used to clear heap memory allocated with the keyword 'new'?,,delete
+225,C++,What header must be imported to work with standard text string objects?,,<string>
+226,C++,What special function shares the exact same name as its class and runs during object creation?,,Constructor
+227,C++,What character is used to access members of a structure or class object directly?,,.
+228,C++,What numeric value represents a false condition inside an integer expression?,,0
+229,C++,Which keyword is used to return a value back from a function call?,,return
+230,C++,What basic data type stores numbers containing fractions or decimals?,,float
+231,Algorithms,What is a graphical representation of an algorithm using geometric shapes called?,,Flowchart
+232,Algorithms,What algorithmic design pattern breaks a problem into smaller identical sub-problems?,,Divide and Conquer
+233,Algorithms,What term describes the efficiency or runtime performance scale of an algorithm?,,Time Complexity
+234,Algorithms,What notation is universally used to describe the worst-case runtime of an algorithm?,,Big O Notation
+235,Algorithms,What type of algorithm makes the local optimal choice at each stage hoping to find a global optimum?,,Greedy Algorithm
+236,Algorithms,What condition occurs when a queue or stack is completely full and you try to add an item?,,Overflow
+237,Algorithms,What is the process of arranging random items in a specific order called?,,Sorting
+238,Algorithms,What searching method divides a sorted collection in half with each comparison?,,Binary Search
+239,Algorithms,What abstract condition occurs when you attempt to pop an item from an empty stack?,,Underflow
+240,Algorithms,What terminal condition must be explicitly defined so recursion does not trigger a crash?,,Base Case
+241,Algorithms,What linear structure links individual node elements using pointer memory addresses?,,Linked List
+242,Algorithms,What algorithm category checks every potential solution path systematically until a match is found?,,Brute Force
+243,Algorithms,What name is given to an element sequence where each item points to the next node container?,,Linked List
+244,Algorithms,What is it called when two keys generate the same index location inside a hash table?,,Collision
+245,Algorithms,What simple sorting method works like sorting a deck of cards by building a sorted section one item at a time?,,Insertion Sort
+246,Algorithms,What node sits at the absolute top of a standard tree structure?,,Root
+247,Algorithms,What is a finite set of steps or instructions used to complete a specific calculation task called?,,Algorithm
+248,Algorithms,What index position corresponds to the median element in an array of size 7?,,3
+249,Algorithms,What non-linear structure maps connections using a framework of vertices and edges?,,Graph
+250,Algorithms,What strategy resolves hash table conflicts by placing colliding items into a linked list at that index?,,Chaining
+251,General,What is text file code written by a developer called before it gets compiled?,,Source Code
+252,General,What structural mechanism stops a loop from running endlessly?,,Loop Condition
+253,General,What errors are caught during text interpretation or compilation due to incorrect grammar formatting?,,Syntax Errors
+254,General,What does the acronym IDE stand for in development environments?,,Integrated Development Environment
+255,General,What punctuation symbol commonly bounds text parameters inside a function declaration?,,Parentheses
+256,General,What operator modifies a boolean expression to its exact opposite value?,,NOT
+257,General,What type of value does a conditional statement check for execution?,,Boolean
+258,General,What general term describes named computer memory locations used to hold data values?,,Variables
+259,General,What low-level system runs line-by-line translation instead of generating a full binary file?,,Interpreter
+260,General,What programming paradigm is centered around data objects rather than actions?,,OOP
+261,General,What basic mathematical operator is represented by the forward slash symbol?,,Division
+262,General,What structural container groups columns and rows of sequential characters?,,Array
+263,General,What term describes human-readable descriptions of an algorithm written in a pseudo-programming format?,,Pseudocode
+264,General,What storage area holds parameters and local variables during active function calls?,,Call Stack
+265,General,What is it called when a value switches from one data type to another?,,Type Casting
+266,General,What component translates assembly code into machine language binary?,,Assembler
+267,General,What specific condition occurs when a numeric variable exceeds its maximum storage limit?,,Overflow
+268,General,What structural pattern checks code blocks for exceptions or unexpected failures at runtime?,,Try Catch block
+269,General,What is the name of a character collection that stores names or phrases?,,String
+270,General,What punctuation symbol typically wraps array items during initialization in C++?,,{}
+271,Python,What keyword creates an anonymous inline function block?,,lambda
+272,Python,What method removes all trailing and leading whitespace from a string text?,,strip
+273,Python,What happens when you run a script that calls a variable that has not been defined yet?,,raises a NameError
+274,Python,Which keyword blocks execution or serves as an empty placeholder inside a loop body?,,pass
+275,Python,What operator allows you to combine two separate string blocks together?,,+
+276,Python,What operator checks if two variable references point to the exact same memory object?,,is
+277,Python,What is the default index skip step size if it is omitted during a slice expression?,,1
+278,Python,What method searches a list to return the index position of a specific element?,,index
+279,Python,What function displays interactive help instructions directly inside the terminal console?,,help
+280,Python,What keyword combination catches error types inside a standard try block structure?,,except
+281,C++,What stream object prints error messages specifically to the standard error destination?,,cerr
+282,C++,What classification scope hides class elements from access outside that class framework?,,private
+283,C++,What numeric byte size is typically reserved for a standard standalone char type variable?,,1 byte
+284,C++,What indicator tracks the target location of a reference variable?,,Pointer
+285,C++,What is the direct index of the last element in an array configured for 10 entries?,,9
+286,C++,What keyword instantiates a copy of a class structure into system heap memory?,,new
+287,C++,What specific operator symbol handles memory pointer address resolution tasks?,,*
+288,C++,What framework keyword allows access to multiple library tools without structural namespace prefixes?,,using namespace
+289,C++,What character sequences are evaluated to specify code comments spanning multiple lines?,,/**/
+290,C++,What structural sign joins text variables together when using standard cout expressions?,,<<
+291,Algorithms,What structural shape represents decisions inside standard flowchart designs?,,Diamond
+292,Algorithms,What linear tracking model limits adding and removing items exclusively to one end?,,Stack
+293,Algorithms,What tree implementation restricts every parent node to a maximum of two child branches?,,Binary Tree
+294,Algorithms,What algorithmic term describes a loop processing structure that never completes?,,Infinite Loop
+295,Algorithms,What search framework is most reliable when dealing with completely randomized collections?,,Linear Search
+296,Algorithms,What node path properties define leaf nodes inside data tree models?,,They have no children
+297,Algorithms,What is the maximum comparison count needed to locate an item in a list of 8 items using Linear Search?,,8
+298,Algorithms,What algorithm sorting framework works by repeatedly splitting a collection into individual elements and combining them?,,Merge Sort
+299,Algorithms,What algorithmic method focuses on storing past calculation results to optimize future execution lookups?,,Dynamic Programming
+300,Algorithms,What unique sequence of data values helps quickly verify data items within a dictionary structure?,,Keys
+301,Ancient History,Which famous river was the life source of Ancient Egypt?,A) Nile | B) Amazon | C) Mississippi | D) Danube,A
+302,Ancient History,What ancient structures were built in Egypt as tombs for Pharaohs?,A) Castles | B) Pyramids | C) Temples | D) Towers,B
+303,Ancient History,Which ancient civilization is credited with inventing democracy?,A) Rome | B) Greece | C) Persia | D) Egypt,B
+304,Ancient History,Who was the famous ancient king who conquered Greece Egypt and Persia?,A) Julius Caesar | B) Alexander the Great | C) Genghis Khan | D) King Tut,B
+305,Ancient History,What was the name of the specialized picture-writing used by Ancient Egyptians?,A) Latin | B) Hieroglyphics | C) Cuneiform | D) Greek,B
+306,Ancient History,Which Greek city-state was famous for its powerful military and fierce warriors?,A) Athens | B) Sparta | C) Troy | D) Thebes,B
+307,Ancient History,What massive amphitheater in Rome was used for gladiator fights?,A) Parthenon | B) Colosseum | C) Pantheon | D) Acropolis,B
+308,Ancient History,Who was the last active queen of Ancient Egypt before it became a Roman province?,A) Nefertiti | B) Cleopatra | C) Hatshepsut | D) Athena,B
+309,Ancient History,Which Greek philosopher was the famous teacher of Alexander the Great?,A) Socrates | B) Plato | C) Aristotle | D) Pythagoras,C
+310,Ancient History,What famous sporting event started in ancient Greece to honor the god Zeus?,A) World Cup | B) Olympic Games | C) Super Bowl | D) Tour de France,B
+311,World Wars,Which country was invaded by Germany to spark the start of World War II?,A) France | B) Poland | C) Russia | D) Britain,B
+312,World Wars,In which year did World War I officially begin?,A) 1914 | B) 1918 | C) 1939 | D) 1945,A
+313,World Wars,Which US naval base was attacked by Japan in 1941 bringing the US into World War II?,A) Pearl Harbor | B) San Diego | C) Miami | D) Guantanamo,A
+314,World Wars,Who was the famous Prime Minister who led Great Britain during World War II?,A) Winston Churchill | B) Neville Chamberlain | C) Tony Blair | D) David Lloyd George,A
+315,World Wars,What was the name of the alliance between Germany Italy and Japan in World War II?,A) Allied Powers | B) Axis Powers | C) Central Powers | D) NATO,B
+316,World Wars,Which country dropped the atomic bomb on Hiroshima to end World War II?,A) Soviet Union | B) Great Britain | C) United States | D) Germany,C
+317,World Wars,What ocean liner sank in 1912 contributing to international tensions before World War I?,A) Lusitania | B) Titanic | C) Bismarck | D) Olympic,B
+318,World Wars,What defensive structure was built across Berlin during the Cold War following World War II?,A) Great Wall | B) Berlin Wall | C) Maginot Line | D) Iron Curtain,B
+319,World Wars,Which country was divided into North and South zones after World War II?,A) France | B) Germany | C) Italy | D) Japan,B
+320,World Wars,What global organization was formed directly after World War II to maintain world peace?,A) League of Nations | B) United Nations | C) European Union | D) Red Cross,B
+321,Wars & Conflicts,Which war was fought between the American North and South from 1861 to 1865?,A) Revolutionary War | B) Civil War | C) War of 1812 | D) Vietnam War,B
+322,Wars & Conflicts,Which French heroine led the French army to victories during the Hundred Years War?,A) Marie Antoinette | B) Joan of Arc | C) Catherine the Great | D) Queen Victoria,B
+323,Wars & Conflicts,What country did Napoleon Bonaparte rule and lead into major European wars?,A) England | B) Germany | C) Spain | D) France,D
+324,Wars & Conflicts,Which war was fought in the 1960s and 1970s involving the US and a Southeast Asian country?,A) Korean War | B) Vietnam War | C) Gulf War | D) Cold War,B
+325,Wars & Conflicts,What empire fought against the Greeks in the famous Battle of Thermopylae?,A) Roman Empire | B) Persian Empire | C) Ottoman Empire | D) British Empire,B
+326,Country Achievements,Which country became the first to successfully land humans on the Moon?,A) Soviet Union | B) China | C) United States | D) United Kingdom,C
+327,Country Achievements,Which European nation was the first to sail around the southern tip of Africa to reach India?,A) Spain | B) Portugal | C) France | D) Netherlands,B
+328,Country Achievements,Which country built the Great Wall to protect its northern borders from invaders?,A) India | B) Japan | C) China | D) Mongolia,C
+329,Country Achievements,Which civilization is credited with creating the first paper compass and gunpowder?,A) Egypt | B) Rome | C) China | D) Greece,C
+330,Country Achievements,In which country did the Industrial Revolution begin in the 1700s?,A) United States | B) Great Britain | C) France | D) Germany,B
+331,General History,Who was the first President of the United States?,A) Thomas Jefferson | B) Abraham Lincoln | C) George Washington | D) John Adams,C
+332,General History,Which European explorer arrived in the Americas in 1492?,A) Marco Polo | B) Christopher Columbus | C) Vasco da Gama | D) Ferdinand Magellan,B
+333,General History,What system of government features a King or Queen as the head of state?,A) Democracy | B) Republic | C) Monarchy | D) Communism,C
+334,General History,Who was the famous leader of the Mongols who created the largest contiguous empire in history?,A) Attila the Hun | B) Genghis Khan | C) Alexander the Great | D) Julius Caesar,B
+335,General History,Which country gifted the Statue of Liberty to the United States?,A) United Kingdom | B) France | C) Germany | D) Italy,B
+336,General History,What period of European history means rebirth and saw a surge in art and science?,A) Middle Ages | B) Renaissance | C) Iron Age | D) Industrial Age,B
+337,General History,Who painted the famous masterpiece known as the Mona Lisa?,A) Vincent van Gogh | B) Leonardo da Vinci | C) Michelangelo | D) Pablo Picasso,B
+338,General History,Which empire fell in 476 AD marking the start of the Middle Ages in Europe?,A) British Empire | B) Western Roman Empire | C) Byzantine Empire | D) Persian Empire,B
+339,General History,What was the main trade route that connected Europe and Asia for centuries?,A) Silk Road | B) Spice Route | C) Trans-Saharan Route | D) Amber Road,A
+340,General History,Which famous document was signed in England in 1215 to limit the power of the King?,A) Declaration of Independence | B) Magna Carta | C) Constitution | D) Bill of Rights,B
+341,Ancient History,What preserved bodies of the dead did Ancient Egyptians create through mummification?,None,Mummies
+342,Ancient History,Which Greek goddess was the protector of the city of Athens?,None,Athena
+343,Ancient History,What language did the ancient Romans speak?,None,Latin
+344,Ancient History,What was the title given to the rulers of Ancient Egypt?,None,Pharaoh
+345,Ancient History,Which famous temple sits on top of the Acropolis in Athens Greece?,None,Parthenon
+346,Ancient History,What mythical creature with the body of a lion and head of a human guards the Egyptian pyramids?,None,Sphinx
+347,Ancient History,Which ancient city was destroyed by a volcano named Mount Vesuvius in 79 AD?,None,Pompeii
+348,Ancient History,What material made from reeds did Ancient Egyptians use to write on?,None,Papyrus
+349,Ancient History,Who was the supreme king of the gods in Greek mythology?,None,Zeus
+350,Ancient History,What giant wooden object did the Greeks use to sneak inside the city of Troy?,None,Trojan Horse
+351,Ancient History,What was the name of the Roman general who was assassinated on the Ides of March?,None,Julius Caesar
+352,Ancient History,Which ancient civilization built the famous city of Machu Picchu in Peru?,None,Inca
+353,Ancient History,What code of law from ancient Babylon is famous for the phrase an eye for an eye?,None,Code of Hammurabi
+354,Ancient History,Which ancient empire built a vast network of roads across Europe and the Mediterranean?,None,Roman Empire
+355,Ancient History,What stone found in Egypt helped historians finally decode hieroglyphics?,None,Rosetta Stone
+356,Ancient History,Which Greek mathematician discovered how to calculate the sides of a right triangle?,None,Pythagoras
+357,Ancient History,What is the name of the Egyptian sun god?,None,Ra
+358,Ancient History,What color of dye was highly prized and worn mostly by Roman emperors?,None,Purple
+359,Ancient History,Which ancient civilization lived along the Indus River valley in Asia?,None,Indus Valley Civilization
+360,Ancient History,What island was the center of the ancient Minoan civilization in Greece?,None,Crete
+361,World Wars,Which country left World War I early in 1917 due to a domestic revolution?,None,Russia
+362,World Wars,In which year did World War II officially end?,None,1945
+363,World Wars,What was the codename for the massive Allied invasion of Normandy on June 6 1944?,None,Operation Overlord
+364,World Wars,Which country was led by Joseph Stalin during World War II?,None,Soviet Union
+365,World Wars,What type of warfare involving deep ditches dug into the ground was standard in World War I?,None,Trench Warfare
+366,World Wars,Which US President made the decision to use atomic weapons to end World War II?,None,Harry
+367,World Wars,What nation signed a non-aggression pact with Germany right before World War II started?,None,Soviet Union
+368,World Wars,What city in Germany hosted the famous war crimes trials after World War II?,None,Nuremberg
+369,World Wars,Which European country remained neutral during both World War I and World War II?,None,Switzerland
+370,World Wars,What major international organization failed to prevent World War II and was replaced?,None,League of Nations
+371,World Wars,What military alliance was formed by Western nations in 1949 to counter the Soviet Union?,None,NATO
+372,World Wars,Which country was led by Adolf Hitler during World War II?,None,Germany
+373,World Wars,What Japanese city was hit by the second atomic bomb dropped during World War II?,None,Nagasaki
+374,World Wars,What English city survived a massive nightly bombing campaign known as the Blitz?,None,London
+375,World Wars,What was the main form of ocean stealth vessel used heavily by Germany in both World Wars?,None,U boat
+376,World Wars,Which country attacked the United States at Pearl Harbor?,None,Japan
+377,World Wars,Who was the fascist dictator who ruled Italy during World War II?,None,Benito Mussolini
+378,World Wars,What country did the Allied forces liberate after the D-Day landings?,None,France
+379,World Wars,What line of defense built by France was bypassed by the German army in 1940?,None,Maginot Line
+380,World Wars,What was the main name given to the alliance of Britain France and Russia in World War I?,None,Allied Powers
+381,Wars & Conflicts,Which war resulted in the United States gaining independence from Great Britain?,None,American Revolutionary War
+382,Wars & Conflicts,What military conflict between the US and Soviet Union featured no direct fighting?,None,Cold War
+383,Wars & Conflicts,Which war was fought in the early 1950s and ended in a stalemate at the 38th parallel?,None,Korean War
+384,Wars & Conflicts,What series of religious wars was launched by European Christians to capture Jerusalem?,None,Crusades
+385,Wars & Conflicts,Which war was sparked by the assassination of Archduke Franz Ferdinand?,None,World War 1
+386,Wars & Conflicts,What conflict in the 1850s saw Britain and France fight Russia on a peninsula in the Black Sea?,None,Crimean War
+387,Wars & Conflicts,Which famous general marched elephants across the Alps to attack Rome?,None,Hannibal
+388,Wars & Conflicts,What war was fought inside Spain during the 1930s before World War II began?,None,Spanish Civil War
+389,Wars & Conflicts,Which country did the United States fight against in the War of 1812?,None,Great Britain
+390,Wars & Conflicts,What conflict in the 1990s began after Iraq invaded the neighboring country of Kuwait?,None,Gulf War
+391,Wars & Conflicts,Which English civil war was fought between the House of Lancaster and the House of York?,None,Wars of the Roses
+392,Wars & Conflicts,What city-state fought against Rome in the three Punic Wars?,None,Carthage
+393,Wars & Conflicts,Who was the military leader who united the tribes of France to fight Julius Caesar?,None,Vercingetorix
+394,Wars & Conflicts,Which country fell into a bloody civil war in 1917 leading to the rise of communism?,None,Russia
+395,Wars & Conflicts,What name is given to the sudden global scramble for African territory by European nations in the late 1800s?,None,Scramble for Africa
+396,Wars & Conflicts,Which empire took over Constantinople in 1453 ending the Byzantine Empire?,None,Ottoman Empire
+397,Wars & Conflicts,What weapon invented in China changed the nature of global warfare forever?,None,Gunpowder
+398,Wars & Conflicts,Which country won the Battle of Waterloo in 1815 to permanently defeat Napoleon?,None,Great Britain
+399,Wars & Conflicts,What was the name of the fleet of ships sent by Spain to invade England in 1588?,None,Spanish Armada
+400,Wars & Conflicts,Which famous US general led the Allied forces in Europe during World War II?,None,Dwight
+401,Country Achievements,Which nation developed the first operational satellite named Sputnik?,None,Soviet Union
+402,Country Achievements,What historic transportation route across Russia was completed in 1916?,None,Trans Siberian Railway
+403,Country Achievements,Which country constructed the Panama Canal to connect the Atlantic and Pacific oceans?,None,United States
+404,Country Achievements,What massive structure did the Roman Empire build across the width of Britain?,None,Hadrian's Wall
+405,Country Achievements,Which country introduced the Gregorian calendar used globally today?,None,Italy
+406,Country Achievements,Which country developed the zero numeric concept and the decimal system?,None,India
+407,Country Achievements,What engineering marvel was built by Egypt in the 1960s to control the Nile floods?,None,Aswan High Dam
+408,Country Achievements,Which European nation established the largest global empire by land area in history?,None,British Empire
+409,Country Achievements,What country became the first to grant women the right to vote in 1893?,None,New Zealand
+410,Country Achievements,Which civilization built the ancient library of Alexandria?,None,Greeks
+411,Country Achievements,Which country developed the code of laws known as the Napoleonic Code?,None,France
+412,Country Achievements,What ancient structure in Rome features the largest unreinforced concrete dome in the world?,None,Pantheon
+413,Country Achievements,Which country built the Taj Mahal as a grand monument in the 1600s?,None,India
+414,Country Achievements,Which country developed the first printing press with movable type in Europe?,None,Germany
+415,Country Achievements,What vital shipping shortcut was opened by Egypt in 1869 to link the Mediterranean to the Red Sea?,None,Suez Canal
+416,Country Achievements,Which ancient people created the alphabet that became the basis for Greek and Latin letters?,None,Phoenicians
+417,Country Achievements,Which nation constructed the Eiffel Tower to celebrate the centennial of its revolution?,None,France
+418,Country Achievements,Which civilization built the complex palace of Knossos on the island of Crete?,None,Minoans
+419,Country Achievements,Which North American country hosted the first ever modern transcontinental railroad in 1869?,None,United States
+420,Country Achievements,Which empire constructed the ancient city of Persepolis in modern-day Iran?,None,Persian Empire
+421,General History,Who was the first woman to win a Nobel Prize and the only person to win in two different sciences?,None,Marie Curie
+422,General History,What deadly pandemic wiped out up to half of Europe's population in the 1340s?,None,Black Death
+423,General History,Which US President issued the Emancipation Proclamation to end slavery?,None,Abraham Lincoln
+424,General History,What country did the famous explorer Marco Polo travel from to reach China?,None,Italy
+425,General History,Who was the leader of the civil rights movement in the US who gave the I Have a Dream speech?,None,Martin Luther
+426,General History,What was the primary resource sought after by Spanish explorers in the Americas?,None,Gold
+427,General History,Which English scientist discovered the laws of gravity and motion?,None,Isaac Newton
+428,General History,Who was the long-serving Queen of Great Britain during the height of its 19th-century empire?,None,Queen Victoria
+429,General History,What country was ruled by the Czars before the 1917 revolution?,None,Russia
+430,General History,Which South African leader spent 27 years in prison before becoming President?,None,Nelson Mandela
+431,General History,What device invented by Johannes Gutenberg allowed for the mass production of books?,None,Printing Press
+432,General History,Who was the famous German physicist who developed the theory of relativity?,None,Albert Einstein
+433,General History,What name is given to the ancient trade route that crossed the Sahara Desert?,None,Trans Saharan Route
+434,General History,Which French military leader crowned himself Emperor of France in 1804?,None,Napoleon Bonaparte
+435,General History,What document signed in 1776 declared the American colonies free from British rule?,None,Declaration of Independence
+436,General History,Which country was divided by a wall into capitalist and communist halves until 1989?,None,Germany
+437,General History,What title was given to the absolute monarchs who ruled Russia until 1917?,None,Czar
+438,General History,Which city was the capital of the Byzantine Empire for over a thousand years?,None,Constantinople
+439,General History,Who was the famous nurse known as the Lady with the Lamp during the Crimena War?,None,Florence Nightingale
+440,General History,What ancient system of forced labor and social hierarchy was abolished in Russia in 1861?,None,Serfdom
+441,Ancient History,What civilization built the ancient city of Babylon?,None,Babylonians
+442,Ancient History,Which Greek city-state focused heavily on philosophy arts and theater?,None,Athens
+443,Ancient History,Who was the Greek god of the sea who carried a trident?,None,Poseidon
+444,Ancient History,What civilization lived in the Andes mountains and built the city of Cusco?,None,Inca
+445,Ancient History,What is the name of the river that flows through the city of Rome?,None,Tiber
+446,World Wars,What was the immediate cause of the United States entering World War I?,None,Sinking of the Lusitania
+447,World Wars,What was the name of the German air force during World War II?,None,Luftwaffe
+448,World Wars,Which treaty signed in 1919 officially ended World War I?,None,Treaty of Versailles
+449,World Wars,What French city was the site of a massive evacuation of Allied soldiers in 1940?,None,Dunkirk
+450,World Wars,What name was given to the secret US project that developed the first atomic bomb?,None,Manhattan Project
+451,Geography,What is the largest country in the world by land area?,A) Canada | B) China | C) United States | D) Russia,D
+452,Geography,What is the smallest country in the world by land area?,A) Monaco | B) Malta | C) Vatican City | D) San Marino,C
+453,Geography,Which country has the largest population in the world?,A) India | B) China | C) United States | D) Indonesia,A
+454,Sports,How many players are on the field for one team in a standard football match?,A) 9 | B) 10 | C) 11 | D) 12,C
+455,Science,What is the fastest thing in the universe?,A) Sound | B) Light | C) Electricity | D) A Rocket,B
+456,Geography,What is the tallest building in the world?,A) Shanghai Tower | B) Burj Khalifa | C) Empire State Building | D) Abraj Al Bait,B
+457,Science,Which planet is known as the Red Planet?,A) Venus | B) Mars | C) Jupiter | D) Saturn,B
+458,Geography,What is the largest ocean on Earth?,A) Atlantic Ocean | B) Indian Ocean | C) Arctic Ocean | D) Pacific Ocean,D
+459,Sports,Which country has won the most FIFA World Cup titles?,A) Germany | B) Italy | C) Brazil | D) Argentina,C
+460,Science,How many colors are there in a rainbow?,A) 5 | B) 6 | C) 7 | D) 8,C
+461,Geography,What is the longest river in the world?,A) Amazon River | B) Nile River | C) Yangtze River | D) Mississippi River,B
+462,Geography,What is the highest mountain peak on Earth?,A) K2 | B) Mount Kilimanjaro | C) Mount Everest | D) Mount Fuji,C
+463,Science,What is the hardest natural substance on Earth?,A) Gold | B) Iron | C) Diamond | D) Platinum,C
+464,General,Which country is consistently ranked as the happiest country in the world?,A) Switzerland | B) Finland | C) Denmark | D) Canada,B
+465,Animals,What is the largest mammal in the world?,A) African Elephant | B) Blue Whale | C) Giraffe | D) White Shark,B
+466,Science,What gas do humans need to breathe in to survive?,A) Carbon Dioxide | B) Nitrogen | C) Hydrogen | D) Oxygen,D
+467,Sports,How many minutes is a standard professional football match excluding extra time?,A) 80 minutes | B) 90 minutes | C) 100 minutes | D) 60 minutes,B
+468,General,What is the official currency of Japan?,A) Yuan | B) Won | C) Yen | D) Dollar,C
+469,Science,Which element makes up the diamond?,A) Gold | B) Carbon | C) Silicon | D) Silver,B
+470,Geography,Which country is also a whole continent?,A) India | B) Canada | C) Australia | D) Brazil,C
+471,Science,How many bones does an adult human body typically have?,A) 106 | B) 206 | C) 306 | D) 406,B
+472,Sports,Which player has won the most Ballon d Or awards in football history?,A) Cristiano Ronaldo | B) Lionel Messi | C) Pele | D) Diego Maradona,B
+473,General,What is the largest internal organ in the human body?,A) Heart | B) Liver | C) Lungs | D) Brain,B
+474,General,Which company created the iPhone?,A) Samsung | B) Google | C) Apple | D) Microsoft,C
+475,Geography,Which ocean is the smallest and shallowest of the world five major oceans?,A) Indian Ocean | B) Arctic Ocean | C) Southern Ocean | D) Atlantic Ocean,B
+476,Science,What is the freezing point of water in degrees Celsius?,A) 0 degrees | B) 32 degrees | C) 100 degrees | D) -5 degrees,A
+477,Animals,What is the fastest land animal in the world?,A) Lion | B) Cheetah | C) Leopard | D) Horse,B
+478,Geography,In which ocean is the island of Madagascar located?,A) Atlantic Ocean | B) Pacific Ocean | C) Indian Ocean | D) Arctic Ocean,C
+479,General,Which popular social media platform uses a camera icon as its primary logo?,A) Facebook | B) X | C) Instagram | D) LinkedIn,C
+480,Sports,Every how many years is the FIFA World Cup held?,A) 2 years | B) 3 years | C) 4 years | D) 5 years,C
+481,General,What is the standard color of a commercial school bus globally?,A) White | B) Yellow | C) Red | D) Blue,B
+482,General,Which fruit is famous for having its seeds on the outside?,A) Blueberry | B) Strawberry | C) Raspberry | D) Grape,B
+483,Science,What is the center of an atom called?,A) Electron | B) Proton | C) Nucleus | D) Neutron,C
+484,General,What is the maximum number of structural components in a standard game of tic-tac-toe?,A) 6 | B) 9 | C) 12 | D) 16,B
+485,Geography,What is the capital city of France?,A) London | B) Berlin | C) Rome | D) Paris,D
+486,General,What is the most consumed beverage in the world after water?,A) Coffee | B) Milk | C) Tea | D) Soda,C
+487,Animals,How many legs does a standard spider have?,A) 6 | B) 8 | C) 10 | D) 12,B
+488,General,What color do you get when you mix blue and yellow paint together?,A) Green | B) Purple | C) Orange | D) Brown,A
+489,Sports,Which sport uses terms like home run and strikeout?,A) Cricket | B) Baseball | C) Basketball | D) Rugby,B
+490,Science,What type of heavenly body is the Sun?,A) Planet | B) Moon | C) Asteroid | D) Star,D
+491,Geography,What is the capital city of Egypt?,None,Cairo
+492,Sports,Which country hosted the 2022 FIFA World Cup?,None,Qatar
+493,Geography,Which country is home to the Amazon Rainforest?,None,Brazil
+494,Science,What instrument is used to measure ambient temperature?,None,Thermometer
+495,Animals,What is the only mammal capable of true sustained flight?,None,Bat
+496,General,What is the primary language spoken in Brazil?,None,Portuguese
+497,Geography,Which sea separates Europe from Africa?,None,Mediterranean Sea
+498,Science,What basic system pumps blood through the human body?,None,Circulatory System
+499,General,How many days are in a leap year?,None,366
+500,Sports,What color card does a football referee show to completely expel a player from a match?,None,Red Card
+501,Geography,What is the capital city of the United Kingdom?,None,London
+502,Science,What force pulls objects toward the center of the Earth?,None,Gravity
+503,General,How many continents are there on Earth?,None,7
+504,Animals,What is the tallest living animal on land?,None,Giraffe
+505,General,What tool do you use to navigate and find directions using a magnetic needle?,None,Compass
+506,Geography,What is the largest desert in the world?,None,Sahara Desert
+507,Science,What is the process by which plants make their own food using sunlight?,None,Photosynthesis
+508,Sports,In which sport would you use a racket to hit a shuttlecock over a net?,None,Badminton
+509,General,What is the common name for the chemical compound H2O?,None,Water
+510,Geography,What is the capital city of Saudi Arabia?,None,Riyadh
+511,Science,Which planet is closest to the Sun?,None,Mercury
+512,Animals,What is a baby dog called?,None,Puppy
+513,General,How many hours are in a full day?,None,24
+514,Sports,Which country is the famous footballer Cristiano Ronaldo from?,None,Portugal
+515,Geography,Which river flows through Paris?,None,Seine
+516,Science,What major gas makes up the majority of the Earth atmosphere?,None,Nitrogen
+517,General,What is the largest component of a standard computer system used to display visual output?,None,Monitor
+518,Geography,What is the smallest continent by land area?,None,Australia
+519,Animals,What type of animal is a turtle?,None,Reptile
+520,Sports,How many points is a standard basket worth in basketball if shot from inside the arc?,None,2 points
+521,Science,What numeric value is closest to the speed of light in a vacuum in kilometers per second(value only)?,None,300000
+522,Geography,Which country contains the architectural marvel Petra?,None,Jordan
+523,General,What is the most widely spoken language in the world by total number of speakers?,None,English
+524,Sports,Which automobile race is known as the highest class of international racing for open-wheel cars?,None,Formula 1
+525,Science,What type of blood cells help the human body fight off infections?,None,White Blood Cells
+526,Geography,Which country is famous for its windmills tulips and wooden shoes?,None,Netherlands
+527,Animals,What is the largest reptile on Earth?,None,Saltwater Crocodile
+528,General,What structural system inside a car generates power from fuel?,None,Engine
+529,Sports,Which country is the legendary footballer Lionel Messi from?,None,Argentina
+530,Geography,What is the capital city of Italy?,None,Rome
+531,Science,What is the name of the galaxy that contains our Solar System?,None,Milky Way
+532,General,How many letters are in the standard English alphabet?,None,26
+533,Animals,What animal is known as the Ship of the Desert?,None,Camel
+534,Geography,Which country is the Taj Mahal located in?,None,India
+535,Sports,In which sport do athletes perform routines on apparatuses like the balance beam and rings?,None,Gymnastics
+536,Science,What is the primary source of energy for the Earth water cycle?,None,Sun
+537,General,Which standard internet browser features a multi-colored circular logo developed by Google?,None,Google Chrome
+538,Geography,What is the capital city of Spain?,None,Madrid
+539,Animals,What is the largest bird in the world?,None,Ostrich
+540,Sports,What color jacket is awarded to the winner of the Masters Tournament in golf?,None,Green Jacket
+541,Science,What is the boiling point of water in degrees Celsius(value only)?,None,100
+542,Geography,Which country is shaped like a boot on a map?,None,Italy
+543,General,What type of food is mozzarella?,None,Cheese
+544,Sports,How many rings are there on the official Olympic flag?,None,5
+545,Science,Which organ in the human body is responsible for processing memories and thoughts?,None,Brain
+546,Geography,What is the largest island in the world?,None,Greenland
+547,Animals,Which flightless bird is native to Antarctica?,None,Penguin
+548,General,What do the initials URL stand for in web browsing?,None,Uniform Resource Locator
+549,Sports,Which professional basketball league is located in North America?,None,NBA
+550,Geography,What is the capital city of Japan?,None,Tokyo
+551,Science,What layer of the Earth atmosphere protects us from harmful ultraviolet radiation?,None,Ozone Layer
+552,General,What type of instrument is a violin?,None,String Instrument
+553,Animals,How many hearts does an octopus have?,None,3
+554,Geography,Which country has the most natural lakes in the world?,None,Canada
+555,Sports,What is the maximum number of sets a men match can last in a Grand Slam tennis tournament?,None,5
+556,Science,What is the name of the closest celestial body to Earth?,None,Moon
+557,General,Which popular search engine was originally named BackRub?,None,Google
+558,Geography,What is the capital city of Russia?,None,Moscow
+559,Animals,What type of animal is a frog?,None,Amphibian
+560,Sports,What unique item is passed between runners during a relay race?,None,Baton
+561,Science,What mineral is essential for building strong teeth and bones?,None,Calcium
+562,Geography,Which country is known as the Land of the Rising Sun?,None,Japan
+563,General,What notation format uses 1s and 0s to represent data inside a computer?,None,Binary Code
+564,Sports,Which country won the 2022 FIFA World Cup?,None,argentina
+565,Geography,What is the deepest known point in the world oceans?,None,Mariana Trench
+566,Science,What basic state of matter has a fixed volume but takes the shape of its container?,None,Liquid
+567,General,What is the most popular video platform in the world for sharing user-generated content?,None,YouTube
+568,Animals,What color is a polar bear skin under its white fur?,None,Black
+569,Geography,Which canal connects the Mediterranean Sea to the Red Sea?,None,Suez Canal
+570,Sports,Which sport features positions called quarterback and linebacker?,None,American Football
+571,Science,What standard element is represented by the chemical symbol O?,None,Oxygen
+572,Geography,What is the capital city of Germany?,None,Berlin
+573,General,How many megabytes are in one gigabyte?,None,1024
+574,Animals,What classification of animals eat only plants?,None,Herbivores
+575,Sports,What type of surface is the famous tennis tournament Wimbledon played on?,None,Grass
+576,Geography,Which country has the longest coastline in the world?,None,Canada
+577,Science,What basic phenomenon causes an echo?,None,Sound Reflection
+578,General,What is the name of the main operating system developed by Microsoft?,None,Windows
+579,Animals,What insect produces honey?,None,Bee
+580,Geography,What is the capital city of Canada?,None,Ottawa
+581,Sports,In which sport do you use a heavy ball to knock down ten pins?,None,Bowling
+582,Science,Which planet in our solar system is famous for its large visible rings?,None,Saturn
+583,General,What basic architectural structure do bees build to store honey and raise larvae?,None,Honeycomb
+584,Geography,Which US state is entirely made up of islands?,None,Hawaii
+585,Animals,What type of fish is Nemo in the movie Finding Nemo?,None,Clownfish
+586,Sports,What is the term for a score of zero in a tennis match?,None,Love
+587,Science,What is the full name of the gas do plants absorb from the air to perform photosynthesis?,None,Carbon Dioxide
+588,Geography,What is the largest country in South America?,None,Brazil
+589,General,What is the name of the safety device that expands with air during a car crash?,None,Airbag
+590,Animals,What is the only continent where kangaroos live in the wild?,None,Australia
+591,Sports,What is the name of the prestigious annual cycling race held across France?,None,Tour de France
+592,Science,What color is human blood inside the body before it hits oxygen outside?,None,Red
+593,Geography,What is the capital city of Australia?,None,Canberra
+594,General,Which electronic device is used to process code calculations and surf the internet?,None,Computer
+595,Animals,What classification of animals eat both plants and meat?,None,Omnivores
+596,Geography,Which river flows through the Grand Canyon in the United States?,None,Colorado River
+597,Science,Which planet is known for having a giant red spot storm on its surface?,None,Jupiter
+598,General,What type of clothing accessory is a fedora?,None,Hat
+599,Sports,What is the length of a standard Olympic swimming pool in meters(value only)?,None,50
+600,Geography,What is the smallest ocean in the world?,None,Arctic Ocean
+601,Physics,What is the basic unit of electrical resistance?,A) Volt | B) Ampere | C) Ohm | D) Watt,C
+602,Chemistry,What is the chemical symbol for the element Gold?,A) Ag | B) Au | C) Fe | D) Pb,B
+603,Biology,Which organelle is known as the powerhouse of the cell?,A) Nucleus | B) Ribosome | C) Mitochondria | D) Golgi body,C
+604,Dynamics,What physical quantity is defined as the mass of an object multiplied by its velocity?,A) Force | B) Acceleration | C) Kinetic Energy | D) Momentum,D
+605,Statics,What condition must be met for an object to remain in static equilibrium?,A) Net force is maximum | B) Net force and net torque are zero | C) Velocity is constant | D) Mass is zero,B
+606,Astronomy,Which planet in our solar system is closest in size to Earth?,A) Mars | B) Venus | C) Mercury | D) Neptune,B
+607,Physics,What property of a wave determines its pitch or tone highness?,A) Amplitude | B) Speed | C) Frequency | D) Wavelength,C
+608,Chemistry,What is the pH value of pure distilled water at room temperature?,A) 0 | B) 5 | C) 7 | D) 14,C
+609,Biology,What pigment gives plant leaves their natural green color?,A) Carotene | B) Hemoglobin | C) Chlorophyll | D) Melanin,C
+610,Dynamics,According to Newtons second law force equals mass multiplied by what?,A) Speed | B) Distance | C) Time | D) Acceleration,D
+611,Statics,What is the single point where the entire weight of an object can be considered to act?,A) Center of gravity | B) Pivot point | C) Vertex | D) Axis of rotation,A
+612,Astronomy,What is the largest planet in our solar system?,A) Saturn | B) Jupiter | C) Uranus | D) Neptune,B
+613,Physics,What type of lens curves inward and causes light rays to spread out?,A) Convex lens | B) Concave lens | C) Plano lens | D) Bifocal lens,B
+614,Chemistry,What basic particles are found rotating outside the nucleus of an atom?,A) Protons | B) Neutrons | C) Electrons | D) Positrons,C
+615,Biology,Which component of human blood is responsible for carrying oxygen?,A) White blood cells | B) Red blood cells | C) Platelets | D) Plasma,B
+616,Dynamics,What form of energy does an object possess due to its physical motion?,A) Potential energy | B) Kinetic energy | C) Thermal energy | D) Chemical energy,B
+617,Statics,What scalar value measures a force tendency to rotate an object around a specific axis?,A) Torque | B) Momentum | C) Friction | D) Velocity,A
+618,Astronomy,What is the name of the first human-made satellite launched into space?,A) Apollo | B) Hubble | C) Sputnik | D) Voyager,C
+619,Physics,What temperature scale sets absolute zero at 0 degrees?,A) Celsius | B) Fahrenheit | C) Kelvin | D) Rankine,C
+620,Chemistry,What type of chemical bond involves the sharing of electron pairs between atoms?,A) Ionic bond | B) Covalent bond | C) Metallic bond | D) Hydrogen bond,B
+621,Biology,What type of organism can create its own food through photosynthesis?,A) Herbivore | B) Autotroph | C) Heterotroph | D) Decomposer,B
+622,Dynamics,What is the rate of change of displacement with respect to time called?,A) Acceleration | B) Speed | C) Velocity | D) Momentum,C
+623,Statics,What type of friction opposes the initial movement of a stationary object?,A) Kinetic friction | B) Static friction | C) Rolling friction | D) Fluid friction,B
+624,Astronomy,Which star is closest to the Earth?,A) Proxima Centauri | B) Sirius | C) The Sun | D) Polaris,C
+625,Physics,What fundamental force keeps the planets in orbit around the Sun?,A) Electromagnetic force | B) Strong nuclear force | C) Gravitational force | D) Weak nuclear force,C
+626,Chemistry,Which element has the lowest atomic number on the periodic table?,A) Helium | B) Hydrogen | C) Lithium | D) Oxygen,B
+627,Biology,How many pairs of chromosomes do standard human cells typically contain?,A) 23 pairs | B) 46 pairs | C) 12 pairs | D) 22 pairs,A
+628,Dynamics,What property of matter causes an object to resist changes to its state of motion?,A) Weight | B) Density | C) Inertia | D) Volume,C
+629,Statics,What basic machine is a rigid beam configured to turn around a fixed point called?,A) Pulley | B) Screw | C) Lever | D) Wedge,C
+630,Astronomy,What name is given to a celestial body that orbits a planet?,A) Asteroid | B) Comet | C) Moon | D) Meteor,C
+631,Physics,What basic device stores electrical charge inside an electric circuit?,A) Resistor | B) Capacitor | C) Diode | D) Transistor,B
+632,Chemistry,What is the common chemical name for everyday table salt?,A) Sodium chloride | B) Calcium carbonate | C) Potassium bicarbonate | D) Magnesium sulfate,A
+633,Biology,What macromolecule stores the genetic code instructions for living organisms?,A) RNA | B) Protein | C) Carbohydrate | D) DNA,D
+634,Dynamics,What is the constant gravitational acceleration of a falling object near Earth surface?,A) 5.5 m/s2 | B) 9.8 m/s2 | C) 12.2 m/s2 | D) 3.1 m/s2,B
+635,Statics,What type of quantity possesses both a numeric magnitude and a spatial direction?,A) Scalar | B) Vector | C) Matrix | D) Tensor,B
+636,Astronomy,What is the boundary surrounding a black hole from which nothing can escape?,A) Singularity | B) Event horizon | C) Accretion disk | D) Core,B
+637,Physics,What type of radiation has the shortest wavelength and highest energy?,A) Radio waves | B) X-rays | C) Gamma rays | D) Ultraviolet,C
+638,Chemistry,What is the name of the vertical columns on the periodic table?,A) Periods | B) Groups | C) Rows | D) Series,B
+639,Biology,What basic process describes cell division resulting in four daughter cells with half the genetics?,A) Mitosis | B) Meiosis | C) Binary fission | D) Cloning,B
+640,Dynamics,What scientific law states that for every action there is an equal and opposite reaction?,A) Newtons First Law | B) Newtons Second Law | C) Newtons Third Law | D) Law of Gravity,C
+641,Physics,What basic unit is used to measure electrical current?,None,Ampere
+642,Physics,What is the structural term for the bending of light as it passes from one medium to another?,None,Refraction
+643,Physics,What material standard lacks free electrons and does not easily allow electricity to flow?,None,Insulator
+644,Physics,What fundamental value equals work done divided by the time taken to complete it?,None,Power
+645,Physics,What type of mechanical wave requires a physical medium to travel through?,None,Mechanical wave
+646,Physics,What unit measures the total loudness intensity of a sound wave?,None,Decibel
+647,Physics,What is the name of the process where a solid turns directly into a gas?,None,Sublimation
+648,Physics,What standard instrument is used to measure atmospheric pressure?,None,Barometer
+649,Physics,What basic color is produced when you combine all colors of light visible to humans?,None,White light
+650,Physics,What field of physics studies the behavior and attributes of light rays?,None,Optics
+651,Chemistry,What atomic particle holds a positive electrical charge?,None,Proton
+652,Chemistry,What is the chemical formula for the everyday molecule carbon dioxide?,None,CO2
+653,Chemistry,What classification describes a substance made up of two or more different chemically bonded elements?,None,Compound
+654,Chemistry,What are elements that are shiny good conductors and malleable classified as?,None,Metals
+655,Chemistry,What state of matter has a definite volume but no definite shape?,None,Liquid
+656,Chemistry,What row framework tracks horizontal lines across the periodic table structure?,None,Periods
+657,Chemistry,What is a chemical reaction that releases thermal heat energy into its surroundings called?,None,Exothermic reaction
+658,Chemistry,What device or substance increases the speed of a chemical reaction without being consumed?,None,Catalyst
+659,Chemistry,What gas is generated when an acid reacts directly with a metal element?,None,Hydrogen gas
+660,Chemistry,What chemical term defines a solution that can hold no more dissolved solute?,None,Saturated solution
+661,Biology,What basic structural unit forms the foundation of all living organisms?,None,Cell
+662,Biology,What organ system protects internal tissues and includes the human skin?,None,Integumentary system
+663,Biology,What organic catalyst proteins speed up biochemical reactions in living systems?,None,Enzymes
+664,Biology,What gas do plants release into the atmosphere as a byproduct of photosynthesis?,None,Oxygen
+665,Biology,What classification describes animals that do not possess a backbone spine?,None,Invertebrates
+666,Biology,What organ inside the human body cleans blood and produces bile digestive fluids?,None,Liver
+667,Biology,What type of blood vessel carries blood away from the heart?,None,Artery
+668,Biology,What is the scientific name for the structural nerve cells that transmit signals?,None,Neurons
+669,Biology,What tissue transport system moves water upward from plant roots to leaves?,None,Xylem
+670,Biology,What environmental condition describes a permanent change in the DNA sequence of a gene?,None,Mutation
+671,Dynamics,What physical unit is universally used to measure mechanical force?,None,Newton
+672,Dynamics,What value tracks the distance traveled divided by the total time taken?,None,Speed
+673,Dynamics,What is the full name of the energy of a stretched spring or compressed object classified as?,None,potential energy
+674,Dynamics,What friction force acts on an object moving through a fluid or air space?,None,Drag
+675,Dynamics,What mechanical term defines a change in momentum over a short duration of time?,None,Impulse
+676,Dynamics,What system framework states that energy cannot be created or destroyed only transformed?,None,Law of Conservation of Energy
+677,Dynamics,What acceleration type is directed toward the center of a circular rotation path?,None,Centripetal acceleration
+678,Dynamics,What product is calculated by multiplying an applied force by the displacement distance?,None,Work
+679,Dynamics,What type of impact involves two colliding objects sticking together after contact?,None,Perfecty inelastic collision
+680,Dynamics,What speed does an object need to completely break free from a planet gravity field?,None,Escape velocity
+681,Statics,What basic property describes a force capacity to cause structural turning motion?,None,Torque
+682,Statics,What scalar parameter represents a measure of the amount of matter in an object?,None,Mass
+683,Statics,What standard tracking frame uses two concurrent forces to find a single diagonal resultant?,None,Parallelogram Law of Forces
+684,Statics,What mechanical concept defines a pair of equal opposite and parallel forces acting on a body?,None,Couple
+685,Statics,What point marks the location where the geometric distribution of a shape is centered?,None,Centroid
+686,Statics,What support condition allows rotational movement but prevents horizontal and vertical translation?,None,Hinge support
+687,Statics,What internal structural force pushes materials together or compresses them?,None,Compression
+688,Statics,What material tracking property ratio relates internal stress to the resulting strain deform?,None,Modulus of Elasticity
+689,Statics,What law states that the extension of a spring is directly proportional to the force applied?,None,Hooks Law
+690,Statics,What vector component is perpendicular to the contact surface and pushes back against weight?,None,Normal force
+691,Astronomy,What is the name of our home planetary tracking framework containing eight major planets?,None,Solar System
+692,Astronomy,What instrument uses lenses or mirrors to view distant cosmic objects?,None,Telescope
+693,Astronomy,What is the massive collection of stars gas and dust held together by gravity called?,None,Galaxy
+694,Astronomy,What cosmic objects are made of ice and dust and develop tails near the Sun?,None,Comets
+695,Astronomy,What is the name of the brightest planet visible in the night sky from Earth?,None,Venus
+696,Astronomy,What term describes a complete solar or lunar blockage caused by alignment paths?,None,Eclipse
+697,Astronomy,What distance measurement unit equals the path light travels in one standard year?,None,Light year
+698,Astronomy,What cosmic explosion tracks the dramatic collapse and death of a massive star?,None,Supernova
+699,Astronomy,What theoretical event marks the absolute starting origin of the universe?,None,Big Bang Theory
+700,Astronomy,What name is given to the natural glowing light patterns produced by solar particles near Earth poles?,None,Aurora
+701,Physics,What quantum particle represents the basic individual unit or packet of light energy?,None,Photon
+702,Physics,What standard effect causes a change in wave frequency as a sound source moves closer?,None,Doppler Effect
+703,Physics,What term defines the absolute minimum energy required to remove an electron from a metal surface?,None,Work Function
+704,Physics,What unit measures the total magnetic flux passing through a loop area?,None,Weber
+705,Physics,What phenomenon features light completely bouncing back inside a medium at a steep angle?,None,Total Internal Reflection
+706,Chemistry,What law states that equal volumes of gases at the same temperature and pressure contain equal molecules?,None,Avogadros Law
+707,Chemistry,What classification describes elements that share properties of both metals and nonmetals?,None,Metalloids
+708,Chemistry,What basic equation principle balances reactants to match product mass totals?,None,Stoichiometry
+709,Chemistry,What values represent the number of protons contained inside an element nucleus?,None,Atomic number
+710,Chemistry,What term tracks atoms of the same element that contain different numbers of neutrons?,None,Isotopes
+711,Biology,What biochemical cycle describes the cellular conversion of glucose into pyruvate components?,None,Glycolysis
+712,Biology,What type of relationship features two species living together where both benefit?,None,Mutualism
+713,Biology,What organic system framework regulates body activity through hormone secretions?,None,Endocrine system
+714,Biology,What tiny pores on leaf surfaces handle gas exchange and water transpiration?,None,Stomata
+715,Biology,What specialized blood vessels connect tiny arteries directly to microscopic veins?,None,Capillaries
+716,Dynamics,What term tracks the rotational equivalent of mass that resists angular acceleration?,None,Moment of Inertia
+717,Dynamics,What tracking value is calculated by dividing mass by its occupied volume?,None,Density
+718,Dynamics,What mechanical term tracks the rate at which angular speed changes over time?,None,Angular acceleration
+719,Dynamics,What coordinate frame maps acceleration paths using uniform components along a curved arc?,None,Normal tangential coordinates
+720,Dynamics,What work product results when force vector directions are perpendicular to object motion paths?,None,Zero work
+721,Statics,What structural method analyzes joint frames individually to solve for internal member forces?,None,Method of Joints
+722,Statics,What mechanical value tracks the ratio of total friction force to normal force parameters?,None,Coefficient of friction
+723,Statics,What static stability state returns an object back to its origin after a small tilt?,None,Stable equilibrium
+724,Statics,What internal structural force stretches a cable or pulls material apart?,None,Tension
+725,Statics,What system contains three or more non-parallel force paths meeting at one shared point?,None,Concurrent force system
+726,Astronomy,What parameter tracks the apparent shifting location of a star used to calculate its distance?,None,Parallax
+727,Astronomy,What type of galaxy features a flat disk shape with curving arm tracking patterns?,None,Spiral galaxy
+728,Astronomy,What compact star type results after a medium star sheds its outer atmosphere?,None,White dwarf
+729,Astronomy,What system tracks two stars orbiting around one shared center of mass?,None,Binary star system
+730,Astronomy,What standard metric scale evaluates the true internal luminosity of a star?,None,Absolute magnitude
+731,Physics,What physical property causes water to form drops and support light insects on its surface?,None,Surface tension
+732,Physics,What law states that the current through a conductor is proportional to the voltage across it?,None,Ohms Law
+733,Physics,What state of matter consists of highly ionized gas particles with free electrons?,None,Plasma
+734,Chemistry,What atomic scale measures the tendency of an atom to attract shared electrons?,None,Electronegativity
+735,Chemistry,What type of mixture features completely uniform composition throughout its layout?,None,Homogeneous mixture
+736,Chemistry,What acid category turns standard blue litmus paper tracking indicator red?,None,Acid
+737,Biology,What term describes the natural maintenance of a stable internal environment inside an organism?,None,Homeostasis
+738,Biology,What organic system defends the human body from external pathogens and viruses?,None,Immune system
+739,Biology,What basic structure acts as the selective barrier wrapping animal cell layers?,None,Cell membrane
+740,Dynamics,What mechanical theorem states that net work done equals the change in kinetic energy?,None,Work Energy Theorem
+741,Dynamics,What framework tracks forces using coordinate parameters based on radius and angle configurations?,None,Polar coordinates
+742,Dynamics,What physical vector tracks the shortest straight line distance from an origin to a finish point?,None,Displacement
+743,Statics,What structural frameworks use triangular configurations of lines to distribute heavy loads?,None,Trusses
+744,Statics,What term describes a loading state that is distributed evenly across a specific line length?,None,Uniformly distributed load
+745,Statics,What state features a system holding more structural constraints than needed for basic balance?,None,Statically indeterminate system
+746,Astronomy,What planetary moon contains active liquid oceans under an external ice crust?,None,Europa
+747,Astronomy,What law states that a planet tracking orbit area speed remains constant relative to the Sun?,None,Keplers Second Law
+748,Astronomy,What main element forms the primary composition of gas giant planets like Jupiter?,None,Hydrogen
+749,Physics,What basic scale measures the total amount of thermal heat vibration inside a material?,None,Temperature
+750,Chemistry,What subatomic particle holds a completely neutral electrical charge value?,None,Neutron
+751,Egyptian Literature,Who is the famous Egyptian author who won the Nobel Prize in Literature?,A) Taha Hussein | B) Naguib Mahfouz | C) Tawfiq Al-Hakim | D) Abbas Al-Akkad,B
+752,Greek Literature,Which ancient Greek poet wrote the famous epic poems The Iliad and The Odyssey?,A) Sophocles | B) Plato | C) Homer | D) Aristotle,C
+753,American Literature,Who wrote the famous adventure novel The Adventures of Tom Sawyer?,A) Ernest Hemingway | B) Mark Twain | C) Edgar Allan Poe | D) Jack London,B
+754,Japanese Literature,Which Japanese author wrote the internationally famous novel Norwegian Wood?,A) Haruki Murakami | B) Yukio Mishima | C) Osamu Dazai | D) Yasunari Kawabata,A
+755,Egyptian Literature,What famous book collection features stories told by Scheherazade like Aladdin and Ali Baba?,A) The Prophet | B) One Thousand and One Nights | C) The Cairo Trilogy | D) Midaq Alley,B
+756,American Literature,What is the nationality of the famous horror author Stephen King?,A) British | B) Canadian | C) American | D) Australian,C
+757,Greek Literature,What kind of short stories with talking animals and moral lessons did Aesop write?,A) Novels | B) Plays | C) Fables | D) Epics,C
+758,Japanese Literature,What is the traditional Japanese poetic form that consists of only 17 syllables?,A) Sonnet | B) Haiku | C) Ode | D) Blank Verse,B
+759,Egyptian Literature,Which famous novel by Naguib Mahfouz is named after a real street in old Cairo?,A) The Thief and the Dogs | B) Midaq Alley | C) The Mirage | D) Autumn Quail,B
+760,American Literature,Who wrote the famous 1925 American novel The Great Gatsby?,A) F Scott Fitzgerald | B) Ernest Hemingway | C) William Faulkner | D) John Steinbeck,A
+761,Greek Literature,Which ancient Greek philosopher wrote his philosophical ideas in the form of Dialogues?,A) Homer | B) Socrates | C) Plato | D) Herodotus,C
+762,Japanese Literature,What is the nationality of the author Haruki Murakami?,A) Chinese | B) Korean | C) Japanese | D) Vietnamese,C
+763,Egyptian Literature,Who is known as the Dean of Arabic Literature in Egypt?,A) Taha Hussein | B) Naguib Mahfouz | C) Ahmed Shawqi | D) Youssef Idrees,A
+764,American Literature,Which famous American writer wrote the dark gothic poem The Raven?,A) Walt Whitman | B) Edgar Allan Poe | C) Robert Frost | D) Mark Twain,B
+765,Greek Literature,Which legendary city is the target of the war in Homers epic poem The Iliad?,A) Athens | B) Sparta | C) Troy | D) Rome,C
+766,Japanese Literature,Which ancient 11th-century Japanese book is often called the worlds first novel?,A) The Tale of Genji | B) Kokoro | C) No Longer Human | D) Rashomon,A
+767,Egyptian Literature,What is the famous novel written by Taha Hussein about his own life and blindness?,A) The Days | B) The Prophet | C) Midaq Alley | D) The Prison,A
+768,American Literature,Who wrote the famous novel about a giant white whale titled Moby-Dick?,A) Herman Melville | B) Mark Twain | C) Jack London | D) Ernest Hemingway,A
+769,Greek Literature,What mythical wooden object was used by the Greeks to win the Trojan War in literature?,A) Trojan Ship | B) Trojan Horse | C) Trojan Shield | D) Trojan Sword,B
+770,Japanese Literature,Which Japanese writer won the Nobel Prize in Literature in 1994?,A) Kenzaburo Oe | B) Haruki Murakami | C) Osamu Dazai | D) Yukio Mishima,A
+771,Egyptian Literature,Who is the famous Egyptian playwright who wrote the classic play El-Motawagezoon?,A) Ali Salem | B) Lenine El-Ramly | C) Bahgat Amar | D) Tawfiq Al-Hakim,D
+772,American Literature,Who wrote the famous novel The Old Man and the Sea about an old fisherman?,A) Mark Twain | B) John Steinbeck | C) Ernest Hemingway | D) F Scott Fitzgerald,C
+773,Greek Literature,Who was the ancient Greek god of theater and wine often celebrated in early plays?,A) Zeus | B) Apollo | C) Dionysus | D) Hermes,C
+774,Japanese Literature,Who wrote the famous dark Japanese novel No Longer Human?,A) Osamu Dazai | B) Yukio Mishima | C) Ryunosuke Akutagawa | D) Natsume Soseki,A
+775,Egyptian Literature,What is the nationality of the famous historical writer Nawal El Saadawi?,A) Lebanese | B) Egyptian | C) Syrian | D) Moroccan,B
+776,American Literature,Who wrote the famous American classic novel Little Women?,A) Louisa May Alcott | B) Emily Dickinson | C) Mary Shelley | D) Charlotte Bronte,A
+777,Greek Literature,What city-state was the cultural center for drama and philosophy in ancient Greece?,A) Sparta | B) Thebes | C) Athens | D) Corinth,C
+778,Japanese Literature,Which short story by Ryunosuke Akutagawa became a famous movie about different points of view?,A) Kokoro | B) Rashomon | C) The Temple of the Golden Pavilion | D) Kitchen,B
+779,Egyptian Literature,Who is the famous Egyptian poet known as the Prince of Poets?,A) Hafiz Ibrahim | B) Ahmed Shawqi | C) Khalil Gibran | D) Mahmoud Darwish,B
+780,American Literature,Who wrote the famous American horror novel IT featuring a clown?,A) Stephen King | B) Dan Brown | C) George R R Martin | D) John Grisham,A
+781,Greek Literature,Who wrote the ancient Greek tragedy play Oedipus Rex?,A) Euripides | B) Sophocles | C) Aeschylus | D) Aristophanes,B
+782,Japanese Literature,What is the title of Natsume Soseki famous novel that means heart in Japanese?,A) Kokoro | B) Botchan | C) I Am a Cat | D) Sanshiro,A
+783,Egyptian Literature,Which famous Egyptian trilogy includes Palace Walk Palace of Desire and Sugar Street?,A) The Cairo Trilogy | B) The Alexandria Quartet | C) The Nile Trilogy | D) The Giza Trilogy,A
+784,American Literature,What is the name of the white whale in Herman Melville famous book?,A) Shamu | B) Orca | C) Moby Dick | D) Willy,C
+785,Greek Literature,Who is the ancient Greek goddess of wisdom who appears often in Greek epics?,A) Aphrodite | B) Hera | C) Athena | D) Artemis,C
+786,Japanese Literature,Which famous Japanese book by Natsume Soseki is told from the perspective of an animal?,A) I Am a Dog | B) I Am a Cat | C) The Bird | D) The White Tiger,B
+787,Egyptian Literature,Who wrote the famous philosophical book Awlad Haratna translated as Children of Gebelawi?,A) Naguib Mahfouz | B) Taha Hussein | C) Yusuf Idris | D) Ihsan Abdel Quddous,A
+788,American Literature,Who wrote the famous American novel To Kill a Mockingbird?,A) Harper Lee | B) Toni Morrison | C) Maya Angelou | D) Virginia Woolf,A
+789,Greek Literature,Who is the ancient Greek historian known as the Father of History?,A) Thucydides | B) Homer | C) Herodotus | D) Xenophon,C
+790,Japanese Literature,What is the nationality of the famous female contemporary author Banana Yoshimoto?,A) Korean | B) Japanese | C) Chinese | D) Thai,B
+791,Egyptian Literature,Who is the author of the famous Egyptian classic autobiographical novel Al-Ayyam?,None,Taha Hussein
+792,Egyptian Literature,What country is the Nobel Prize winning author Naguib Mahfouz from?,None,Egypt
+793,Egyptian Literature,What is the common English name for the storytelling collection Alf Laylah wa-Laylah?,None,Arabian Nights
+794,Egyptian Literature,Which Egyptian author wrote the famous play Ya Tale' El-Nakhla?,None,Tawfiq Al-Hakim
+795,Egyptian Literature,What city is the setting for most of Naguib Mahfouz realistic novels?,None,Cairo
+796,Egyptian Literature,Who is the author of the famous Egyptian romantic novel Watch Out for ZouZou?,None,Ihsan Abdel Quddous
+797,Egyptian Literature,What real Egyptian monument is the setting for the novel Palace Walk?,None,Palace Walk
+798,Egyptian Literature,Who is the famous Egyptian writer who wrote the standard book of short stories Arkhas Layali?,None,Yusuf Idris
+799,Egyptian Literature,Which Egyptian woman wrote the highly translated novel Woman at Point Zero?,None,Nawal El Saadawi
+800,Egyptian Literature,What type of regular literature prize did Naguib Mahfouz win in 1988?,None,Nobel Prize
+801,Greek Literature,Who is the main clever hero of Homers epic poem The Odyssey?,None,Odysseus
+802,Greek Literature,What monster with snakes for hair appears in ancient Greek mythological literature?,None,Medusa
+803,Greek Literature,What is the name of the warrior whose weak heel is his only vulnerability in The Iliad?,None,Achilles
+804,Greek Literature,Who is the author of the ancient fables featuring the story of The Tortoise and the Hare?,None,Aesop
+805,Greek Literature,What country is the epic poet Homer from?,None,Greece
+806,Greek Literature,Who was the philosopher teacher of Plato who never wrote down his own books?,None,Socrates
+807,Greek Literature,What famous tragedy play about a king who answers a riddle was written by Sophocles?,None,Oedipus Rex
+808,Greek Literature,What is the name of the absolute king of the gods in Greek mythological texts?,None,Zeus
+809,Greek Literature,What flying horse appears in many classical Greek poems and stories?,None,Pegasus
+810,Greek Literature,What famous temple on the Athenian Acropolis is dedicated to the goddess Athena?,None,Parthenon
+811,American Literature,Who wrote the famous American adventure novel The Adventures of Huckleberry Finn?,None,Mark Twain
+812,American Literature,What country is the famous author Mark Twain from?,None,United States
+813,American Literature,Who wrote the famous gothic horror short story The Tell-Tale Heart?,None,Edgar Allan Poe
+814,American Literature,What is the name of the green light chasing character in F Scott Fitzgerald top novel?,None,Jay Gatsby
+815,American Literature,Who wrote the famous American war novel A Farewell to Arms?,None,Ernest Hemingway
+816,American Literature,What color is the whale in the classic book Moby-Dick?,None,White
+817,American Literature,Who wrote the iconic modern American horror book The Shining?,None,Stephen King
+818,American Literature,What country is the famous female author Harper Lee from?,None,United States
+819,American Literature,Who wrote the historical American novel The Grapes of Wrath?,None,John Steinbeck
+820,American Literature,What type of bird is the title symbol of Edgar Allan Poe famous poem about grief?,None,Raven
+821,Japanese Literature,Who wrote the famous modern three volume novel 1Q84?,None,Haruki Murakami
+822,Japanese Literature,What country is the historical author Natsume Soseki from?,None,Japan
+823,Japanese Literature,What type of creature is the narrator in the classic book I Am a Cat?,None,Cat
+824,Japanese Literature,Who wrote the historical novel The Temple of the Golden Pavilion?,None,Yukio Mishima
+825,Japanese Literature,What is the English title of Haruki Murakami novel Midori no Kurokami?,None,Norwegian Wood
+826,Japanese Literature,Who wrote the classical 11th century book The Tale of Genji?,None,Murasaki Shikibu
+827,Japanese Literature,What short poetic structure has lines of 5 7 and 5 syllables?,None,Haiku
+828,Japanese Literature,What country is the dark tragic author Osamu Dazai from?,None,Japan
+829,Japanese Literature,Who wrote the popular modern Japanese slice of life novel Kitchen?,None,Banana Yoshimoto
+830,Japanese Literature,Who wrote the famous historical short story In a Grove?,None,Ryunosuke Akutagawa
+831,Egyptian Literature,What is the name of the fictional character who is the strict father in The Cairo Trilogy?,None,Al Sayyid Ahmad
+832,Egyptian Literature,Which Egyptian author wrote the highly famous social play Al-Sultaan Al-Haa'ir?,None,Tawfiq Al Hakim
+833,Egyptian Literature,What specific Cairo neighborhood is the setting for Mahfouz novel Khan El-Khalili?,None,Khan El Khalili
+834,Egyptian Literature,Who wrote the highly popular Egyptian contemporary novel The Yacoubian Building?,None,Alaa Al Aswany
+835,Egyptian Literature,What is the name of the blind character in Taha Hussein book Al-Ayyam?,None,Taha Hussein
+836,Egyptian Literature,Which Egyptian writer is famous for writing satirical articles like Asakir Al-Dunya?,None,Abbas Al Akkad
+837,Egyptian Literature,What is the primary language used to write standard Egyptian literature?,None,Arabic
+838,Egyptian Literature,Who wrote the famous romantic Egyptian book Doaa Al-Karawan?,None,Taha Hussein
+839,Egyptian Literature,What is the name of the main female character in Naguib Mahfouz novel Zuqaq Al-Midaq?,None,Hamida
+840,Egyptian Literature,Which Egyptian author wrote the realistic novel I Do Not Sleep?,None,Ihsan Abdel Quddous
+841,Greek Literature,What is the central theme of Homers epic poem The Iliad?,None,The Trojan War
+842,Greek Literature,What hero goes on a 10 year journey back home to Ithaca in classical texts?,None,Odysseus
+843,Greek Literature,Who wrote the comedy play The Frogs in ancient Greece?,None,Aristophanes
+844,Greek Literature,What multi headed monster did Hercules fight in Greek mythological literature?,None,Hydra
+845,Greek Literature,Who wrote the ancient philosophical text titled The Republic?,None,Plato
+846,Greek Literature,What type of dramatic literature always ends with the downfall of the main hero?,None,Tragedy
+847,Greek Literature,What is the name of the legendary Greek island home of Odysseus?,None,Ithaca
+848,Greek Literature,Who is the ancient Greek goddess of love who appears in Sapphos poetry?,None,Aphrodite
+849,Greek Literature,What animal loses the famous race against the tortoise in Aesop fables?,None,Hare
+850,Greek Literature,What famous riddle solving monster has the head of a woman and body of a lion?,None,Sphinx
+851,American Literature,Who wrote the famous American fantasy book series A Song of Ice and Fire?,None,George R R Martin
+852,American Literature,What is the name of the detective created by Edgar Allan Poe in The Murders in the Rue Morgue?,None,C Auguste Dupin
+853,American Literature,Who wrote the classic American novel about the Great Depression titled Of Mice and Men?,None,John Steinbeck
+854,American Literature,What color is the letter worn by Hester Prynne in Nathaniel Hawthorne famous novel?,None,Red
+855,American Literature,Who wrote the iconic American science fiction novel Fahrenheit 451?,None,Ray Bradbury
+856,American Literature,What is the name of the main lawyer hero in To Kill a Mockingbird?,None,Atticus Finch
+857,American Literature,Who wrote the highly popular mystery novel The Da Vinci Code?,None,Dan Brown
+858,American Literature,What island is the setting for the climax of the book Shutter Island?,None,Shutter Island
+859,American Literature,Who wrote the classic American poem O Captain My Captain about Abraham Lincoln?,None,Walt Whitman
+860,American Literature,What is the primary language used by authors in the United States?,None,English
+861,Japanese Literature,Who wrote the surreal modern Japanese novel Kafka on the Shore?,None,Haruki Murakami
+862,Japanese Literature,What is the main city setting for the classic historical book The Tale of Genji?,None,Kyoto
+863,Japanese Literature,Who wrote the critically acclaimed modern novel A Wild Sheep Chase?,None,Haruki Murakami
+864,Japanese Literature,What color is the temple in Yukio Mishima famous tragic novel title?,None,Gold
+865,Japanese Literature,Who wrote the iconic Japanese short story The Spider Thread?,None,Ryunosuke Akutagawa
+866,Japanese Literature,What is the name of the main character in Haruki Murakami novel Norwegian Wood?,None,Toru Watanabe
+867,Japanese Literature,Which Japanese author won the Nobel Prize in Literature in 1968?,None,Yasunari Kawabata
+868,Japanese Literature,What type of traditional theater uses wooden masks and slow movements in literature?,None,Noh Theater
+869,Japanese Literature,What is the title of Osamu Dazai semi autobiographical book translated as No Longer Human?,None,Ningen Shikkaku
+870,Japanese Literature,What season is most commonly referenced in traditional Japanese Haiku poetry?,None,Spring
+871,Egyptian Literature,Who wrote the famous Egyptian play Pygmalion based on Greek myth?,None,Tawfiq Al-Hakim
+872,Egyptian Literature,What is the title of the first book in Naguib Mahfouz Cairo Trilogy?,None,Palace Walk
+873,Egyptian Literature,Which Egyptian author wrote the famous historical novel Thebes at War?,None,Naguib Mahfouz
+874,Egyptian Literature,What is the name of the main river that appears constantly in Egyptian literature?,None,Nile River
+875,Egyptian Literature,Who wrote the famous contemporary Egyptian novel Utopia?,None,Ahmed Khaled Towfik
+876,Greek Literature,What is the literal meaning of the word Odyssey in modern literature?,None,Long adventurous journey
+877,Greek Literature,Who is the author of the ancient Greek play Medea?,None,Euripides
+878,Greek Literature,What box opened by a curious woman let all evils out into the world in myth?,None,Pandora Box
+879,Greek Literature,Who is the ancient Greek god of the sea who targets Odysseus in The Odyssey?,None,Poseidon
+880,Greek Literature,What type of short story uses personified objects to teach a moral lesson?,None,Fable
+881,American Literature,Who wrote the famous 1852 anti slavery novel Uncle Tom Cabin?,None,Harriet Beecher Stowe
+882,American Literature,What is the name of Tom Sawyer best friend in Mark Twain novels?,None,Huckleberry Finn
+883,American Literature,Who wrote the highly popular modern dystopian trilogy The Hunger Games?,None,Suzanne Collins
+884,American Literature,What is the title of Ernest Hemingway book about the Spanish Civil War?,None,For Whom the Bell Tolls
+885,American Literature,Who wrote the dark fantasy and horror short story The Fall of the House of Usher?,None,Edgar Allan Poe
+886,Japanese Literature,Who wrote the highly praised post war Japanese novel The Setting Sun?,None,Osamu Dazai
+887,Japanese Literature,What city is the home and setting for many of Haruki Murakami modern characters?,None,Tokyo
+888,Japanese Literature,Who wrote the famous collection of scary ghost stories titled Kwaidan?,None,Lafcadio Hearn
+889,Japanese Literature,What is the title of Natsume Soseki novel about a young man from the countryside?,None,Sanshiro
+890,Japanese Literature,Which contemporary Japanese author wrote the popular book Convenience Store Woman?,None,Sayaka Murata
+891,Egyptian Literature,Who wrote the famous traditional book of memories titled Echoes of an Autobiography?,None,Naguib Mahfouz
+892,Egyptian Literature,What country is the award winning modern author Alaa Al Aswany from?,None,Egypt
+893,Greek Literature,Who wrote the ancient Greek historical text Anabasis?,None,Xenophon
+894,American Literature,Who wrote the iconic 1951 American novel The Catcher in the Rye?,None,J D Salinger
+895,Japanese Literature,Who wrote the famous classical text titled The Pillow Book?,None,Sei Shonagon
+896,Egyptian Literature,What is the second book in Naguib Mahfouz famous Cairo Trilogy?,None,Palace of Desire
+897,Greek Literature,What king of the Greek gods carries a thunderbolt in literary epics?,None,Zeus
+898,American Literature,What is the main historical event setting for Gone with the Wind?,None,American Civil War
+899,Japanese Literature,What is the main color of the cat in many traditional Japanese folk stories?,None,White
+900,Egyptian Literature,Who wrote the modern award winning Egyptian novel The Map of Love?,None,Ahdaf Soueif
+901,Philosophy of Mind,Which functionalist theory replaces standard mental states with probabilistic causal relations within an organismic network?,A) Analytic Functionalism | B) Psychofunctionalism | C) Machine State Functionalism | D) Homuncular Functionalism,C
+902,Quantum Topology,What topological invariant classifies three dimensional manifolds based on quantum group representations at roots of unity?,A) Witten Reshetikhin Turaev Invariant | B) Jones Polynomial | C) Casson Invariant | D) Donaldson Invariant,A
+903,Theoretical Linguistics,In Chomskyan Transformational Grammar which constraint blocks a transformation from moving a constituent out of more than one bounding node?,A) Subjacency Condition | B) Empty Category Principle | C) Coordinate Structure Constraint | D) Phase Impenetrability Condition,A
+904,Advanced Law,What specific jurisdictional principle permits a state to prosecute non nationals for crimes committed abroad that threaten its core security interest?,A) Protective Principle | B) Universality Principle | C) Passive Personality Principle | D) Territoriality Principle,A
+905,Advanced Economics,Which econometric test handles the null hypothesis of cointegration against the alternative of no cointegration in non stationary time series?,A) Johansen Test | B) Engle Granger Test | C) Shin Test | D) Dickey Fuller Test,C
+906,Metaphysics,Which ontological position argues that properties are tropes that exist independently of the particulars they characterize?,A) Substratum Theory | B) Bundle Theory | C) Nominalism | D) Immanent Realism,B
+907,Neurolinguistics,Which structural subcortical pathway connects Broca area directly to Wernicke area through the deep perisylvian network?,A) Uncinate Fasciculus | B) Arcuate Fasciculus | C) Superior Longitudinal Fasciculus | D) Cingulum,B
+908,Macroeconomics,What paradigm describes a situation where an expansionary fiscal policy induces a net currency depreciation under perfect capital mobility?,A) Mundell Fleming Model | B) Solow Swan Model | C) Dornbusch Overshooting Model | D) Lucas Critique,C
+909,Epistemology,Which epistemic framework attempts to resolve the Gettier problem by adding a defeasibility condition to justified true belief?,A) Causal Theory | B) Tracking Theory | C) Defeasibility Theory | D) Virtue Epistemology,C
+910,Philology,Which extinct Indo European language subfamily preserves the original pie laryngeal consonants as distinct velar fricatives?,A) Tocharian | B) Anatolian | C) Mycenaean | D) Thracian,B
+911,Quantum Topology,What unique algebraic structure classifies the braiding statistics of anyonic excitations in fractional quantum Hall systems?,A) Hopf Algebra | B) Lie Algebra | C) Modular Tensor Category | D) Clifford Algebra,C
+912,Neuroeconomics,Which brain region shows maximum activation during the evaluation of temporal discounting and intertemporal choice tasks?,A) Amygdala | B) Ventromedial Prefrontal Cortex | C) Primary Visual Cortex | D) Cerebellum,B
+913,Jurisprudence,Which legal philosopher introduced the concept of the Rule of Recognition as a secondary rule determining legal validity?,A) Ronald Dworkin | B) H L A Hart | C) John Austin | D) Hans Kelsen,B
+914,Advanced Economics,What dynamic game theory solution concept refines the Nash equilibrium by eliminating non credible threats in extensive form games?,A) Subgame Perfect Nash Equilibrium | B) Trembling Hand Perfect Equilibrium | C) Bayesian Nash Equilibrium | D) Quantal Response Equilibrium,A
+915,Philosophy of Science,Which epistemological thesis states that scientific theories are underdetermined by all possible empirical evidence available?,A) Duhem Quine Thesis | B) Popperian Falsification | C) Kuhnian Paradigm | D) Carnapian Verification,A
+916,Quantum Information,What operational metric defines the maximum rate at which quantum information can be transmitted over a noisy quantum channel?,A) Holevo Capacity | B) Quantum Mutual Information | C) Entanglement Cost | D) Distillable Entanglement,A
+917,Theoretical Linguistics,Which syntactic module determines the assignment of semantic roles like Agent and Patient at Deep Structure?,A) Case Theory | B) Theta Theory | C) Binding Theory | D) Control Theory,B
+918,Anthropology,What structural anthropology concept maps cultural kinship networks based on the exchange of women between lineage groups?,A) Alliance Theory | B) Descent Theory | C) Totemism | D) Structural Functionalism,A
+919,Advanced Law,What international legal doctrine prevents domestic courts from ruling on the official acts of a foreign state committed within its own territory?,A) Sovereign Immunity | B) Act of State Doctrine | C) Forum Non Conveniens | D) Diplomatic Immunity,B
+920,Astrobiology,What metabolic pathway utilizes chemical energy from inorganic molecules to fix carbon dioxide in deep sea hydrothermal vent ecosystems?,A) Calvin Cycle | B) Reductive Tricarboxylic Acid Cycle | C) Wood Ljungdahl Pathway | D) Glycolysis,C
+921,Metaphysics,Which philosophical view denies the existence of composite objects claiming only fundamental mereological simples exist?,A) Mereological Nihilism | B) Mereological Monism | C) Universalism | D) Four Dimensionalism,A
+922,Neuroanatomy,Which specific thalamic nucleus acts as the primary relay station for processing auditory data before reaching the cortex?,A) Lateral Geniculate Nucleus | B) Medial Geniculate Nucleus | C) Ventral Posterolateral Nucleus | D) Pulvinar Nucleus,B
+923,Advanced Economics,Which asset pricing model incorporates human capital and consumption changes as the core systemic risk factors?,A) Capital Asset Pricing Model | B) Consumption Based Capital Asset Pricing Model | C) Fama French Three Factor Model | D) Arbitrage Pricing Theory,B
+924,Philology,What sound change law describes the systematic shifting of Proto Indo European voiceless plosives into Proto Germanic voiceless fricatives?,A) Grimms Law | B) Verners Law | C) Grassmanns Law | D) Brugmanns Law,A
+925,Philosophy of Mind,What standard term describes the qualitative subjective experiential aspects of conscious mental states?,A) Intentionality | B) Qualia | C) Monism | D) Epiphenomenalism,B
+926,Jurisprudence,Which school of legal thought asserts that law is entirely a tool of state power used to preserve economic hierarchy?,A) Legal Realism | B) Critical Legal Studies | C) Natural Law | D) Legal Positivism,B
+927,Quantum Information,Which fundamental theorem prohibits the creation of an identical copy of an arbitrary unknown quantum state?,A) No Cloning Theorem | B) No Deleting Theorem | C) Bells Theorem | D) Tsirelsons Bound,A
+928,Theoretical Linguistics,Which parameter determines whether a language requires an explicit subject pronoun in a declarative sentence?,A) Head Directionality Parameter | B) Null Subject Parameter | C) Wh Movement Parameter | D) Polysynthesis Parameter,B
+929,Anthropology,Which anthropological method tracks the subjective internal insider perspective of a cultural system?,A) Emic Approach | B) Etic Approach | C) Diachronic Analysis | D) Structuralism,A
+930,Advanced Law,Which international treaty governs the continental shelf boundaries and deep seabed mining regulations?,A) Vienna Convention | B) UN Convention on the Law of the Sea | C) Geneva Convention | D) Kyoto Protocol,B
+931,Epistemology,Which philosophical system rejects both foundationalism and coherentism claiming justification is an infinite regressive chain?,A) Infinitism | B) Foundationalism | C) Contextualism | D) Foundherentism,A
+932,Neurolinguistics,What language disorder involves fluent but nonsensical speech production combined with poor auditory comprehension?,A) Broca Aphasia | B) Wernicke Aphasia | C) Conduction Aphasia | D) Global Aphasia,B
+933,Advanced Economics,What metric evaluates the welfare loss experienced by a society due to economic inefficiencies like monopoly pricing?,A) Consumer Surplus | B) Producer Surplus | C) Deadweight Loss | D) Pareto Efficiency,C
+934,Philosophy of Science,Which methodology rejects standard scientific rules claiming that scientific progress requires epistemological anarchism?,A) Falsificationism | B) Verificationism | C) Epistemological Anarchism | D) Logical Positivism,C
+935,Quantum Topology,What topological concept describes a space where local neighborhoods look like the product of a Euclidean space and an algebraic variety?,A) Orbifold | B) Foliation | C) Fiber Bundle | D) Complex Manifold,A
+936,Metaphysics,Which theory of time claims that past present and future objects are all equally real entities?,A) Presentism | B) Eternalism | C) Growing Block Universe | D) Modal Realism,B
+937,Philology,Which ancient writing system uses wedge shaped marks on clay tablets to record administrative texts?,A) Hieroglyphics | B) Cuneiform | C) Linear B | D) Phoenician Alphabet,B
+938,Jurisprudence,What legal concept addresses the duty of a state to protect its population from genocide and mass atrocities when domestic systems fail?,A) Responsibility to Protect | B) Jus Cogens | C) Erga Omnes | D) State Sovereignty,A
+939,Astrobiology,What chemical signature involving specific isotopic ratios is used to detect ancient biological activity in Archean rocks?,A) Carbon 13 Depletion | B) Oxygen 18 Enrichment | C) Nitrogen 15 Excess | D) Sulfur 34 Peak,A
+940,Advanced Economics,Which econometric paradox occurs when a statistical relationship between two variables changes or reverses when aggregated?,A) Simpsons Paradox | B) Lucas Critique | C) Allais Paradox | D) St Petersburg Paradox,A
+941,Philosophy of Mind,What physicalist theory claims that mental states are entirely identical to specific neurochemical brain states?,None,Identity Theory
+942,Quantum Topology,What mathematical invariant calculates the minimum number of critical points on a smooth manifold using differential topology?,None,Morse Invariant
+943,Theoretical Linguistics,What grammatical operations move a constituent from its base position to a specifier or adjunct position at surface structure?,None,Syntactic Movement
+944,Advanced Law,What Latin term describes a peremptory norm of international law from which no derogation is ever permitted?,None,Jus Cogens
+945,Advanced Economics,What mathematical function measures the maximum output achievable from combinations of capital and labor inputs with constant returns?,None,Cobb Douglas Production Function
+946,Metaphysics,What modal theory argues that all possible worlds are physically real concrete universes existing in parallel?,None,Modal Realism
+947,Neurolinguistics,What structural brain damage causes conduction aphasia by disconnecting the auditory processing areas from motor output?,None,Arcuate Fasciculus
+948,Macroeconomics,What economic scenario combines stagnant industrial growth and high unemployment with persistent price inflation?,None,Stagflation
+949,Epistemology,What trilemma states that any attempt to establish absolute foundation for knowledge must fail due to infinite regress circularity or dogmatism?,None,Munchhausen Trilemma
+950,Philology,What undeciphered bronze age writing system was used by the ancient Minoan civilization on Crete?,None,Linear A
+951,Quantum Topology,What field of mathematics extends standard knot invariants to four dimensional topological space frameworks?,None,4 Manifold Topology
+952,Neuroeconomics,What psychological bias describes the tendency of economic agents to overvalue an asset simply because they own it?,None,Endowment Effect
+953,Jurisprudence,What legal philosophy claims that law is fundamentally inseparable from moral principles and objective justice?,None,Natural Law
+954,Advanced Economics,What game theoretic value calculates the average marginal contribution of a player across all possible coalitional combinations?,None,Shapley Value
+955,Philosophy of Science,What core thesis argues that the meaning of scientific terms shifts completely when changing paradigms making direct comparison impossible?,None,Incommensurability Thesis
+956,Quantum Information,What metric quantifies the total distance or difference between two distinct quantum state density matrices?,None,Trace Distance
+957,Theoretical Linguistics,What module of the Minimalist Program filters out ungrammatical structures at the phonetic interface?,None,Phonetic Form
+958,Anthropology,What cultural practice involves the safe integration and synthesis of conflicting religious beliefs into a unified system?,None,Syncretism
+959,Advanced Law,What legal principle holds that international obligations take precedence over domestic statutory laws in monist states?,None,Primacy of International Law
+960,Astrobiology,What structural feature on ancient Martian meteorites was controversially identified as potential fossilized nanofossils?,None,Carbonate Globules
+961,Metaphysics,What dynamic theory of persistence claims that objects are four dimensional entities that have distinct temporal parts?,None,Perdurantism
+962,Neuroanatomy,What complex system of neurons and pathways inside the brainstem controls consciousness sleep and waking transitions?,None,Reticular Activating System
+963,Advanced Economics,What pricing property assumes that asset prices fully reflect all available information instantly leaving no room for arbitrage?,None,Efficient Market Hypothesis
+964,Philology,What phonetic law explains why certain exceptions to Grimms Law occurred due to the original position of the Indo European accent?,None,Verners Law
+965,Philosophy of Mind,What dualist position argues that mental states are non physical properties that emerge from complex physical brain structures?,None,Property Dualism
+966,Jurisprudence,What legal doctrine requires courts to follow historical precedents established in previous judicial decisions?,None,Stare Decisis
+967,Quantum Information,What operational concept describes the distribution of quantum entanglement across multiple distant parties without communication?,None,Quantum Secret Sharing
+968,Theoretical Linguistics,What type of language system changes the forms of words using extensive prefixes and suffixes to represent entire sentences?,None,Polysynthetic Language
+969,Anthropology,What structural system maps the pattern of marriages where a groom must find a bride outside his own clan?,None,Exogamy
+970,Advanced Law,What international standard provides immunity to diplomatic agents from the civil and criminal jurisdiction of the host state?,None,Diplomatic Immunity
+971,Epistemology,What radical view states that knowledge is impossible because tracking truth requires a criteria that cannot be independently justified?,None,Academic Skepticism
+972,Neurolinguistics,What specific cognitive impairment involves the complete loss of the ability to write sentences due to localized brain damage?,None,Agraphia
+973,Advanced Economics,What mathematical conditions determine the local maximum or minimum optimization of a function subject to equality constraints?,None,Karush Kuhn Tucker Conditions
+974,Philosophy of Science,What epistemological concept describes a shift in scientific thinking where old anomalies force the creation of a new framework?,None,Paradigm Shift
+975,Quantum Topology,What topological invariant measures the number of independent d dimensional holes inside a geometric manifold shape?,None,Betti Number
+976,Metaphysics,What position argues that abstract objects like numbers exist as non physical non mental real entities?,None,Platonism
+977,Philology,What writing framework acts as the direct ancestral script for the Greek Latin and Cyrillic alphabet formats?,None,Proto Sinaitic Script
+978,Jurisprudence,What legal concept addresses obligations owed by a state to the entire international community as a whole entity?,None,Erga Omnes Obligations
+979,Astrobiology,What specialized index ranks the structural similarity of a planet or exoplanet to Earth based on density and temperature?,None,Earth Similarity Index
+980,Advanced Economics,What econometric condition occurs when the error terms in a regression model do not have a constant variance?,None,Heteroskedasticity
+981,Philosophy of Mind,What perspective argues that consciousness is a fundamental property of the universe present in all matter?,None,Panpsychism
+982,Quantum Topology,What smooth structure classification maps spaces that are homeomorphic to a standard sphere but not diffeomorphic to it?,None,Exotic Spheres
+983,Theoretical Linguistics,What operational tier handles the semantic and conceptual interpretation of syntactic structures?,None,Logical Form
+984,Advanced Law,What jurisdiction type allows domestic systems to try individuals for international atrocities regardless of where the crime occurred?,None,Universal Jurisdiction
+985,Advanced Economics,What index calculates the total level of market concentration and monopoly power inside a specific industry?,None,Herfindahl Hirschman Index
+986,Metaphysics,What causal concept describes an event that can influence its own cause in the past creating a loop?,None,Bootstrap Paradox
+987,Neurolinguistics,What neurological pathway connects the visual cortex to the temporal lobe for object recognition?,None,Ventral Stream
+988,Macroeconomics,What term describes the economic limit where further printing of money fails to lower interest rates due to hoarding?,None,Liquidity Trap
+989,Epistemology,What structural view states that beliefs are justified only if they belong to a coherent system of mutual support?,None,Coherentism
+990,Philology,What dead language family preserves the oldest written records of the Indo European language structure?,None,Anatolian Language Family
+991,Quantum Topology,What metric describes the topological twist or linkage configuration of two closed space curves?,None,Linking Number
+992,Neuroeconomics,What area of the brain acts as the primary evaluation center for processing risk and emotional responses to financial losses?,None,Insubula
+993,Jurisprudence,What analytical model translates legal norms and duties into formal symbolic logic expressions?,None,Deontic Logic
+994,Advanced Economics,What economic state features an allocation of resources where no individual can be made better off without making another worse off?,None,Pareto Efficiency
+995,Philosophy of Science,What logical trap shows that any observation of a non black non raven confirms the hypothesis that all ravens are black?,None,Ravens Paradox
+996,Quantum Information,What metric bounds the maximum possible correlations achievable by any local hidden variable theory?,None,Tsirelsons Bound
+997,Theoretical Linguistics,What structural filter ensures that every noun phrase receives a formal case assignment before reaching surface structure?,None,Case Filter
+998,Anthropology,What ritual process marks the transitional phase of a rite of passage where an individual lacks structural status?,None,Liminality
+999,Advanced Law,What legal doctrine permits an occupying power to exercise temporary administrative authority over a foreign territory?,None,Jus Post Bellum
+1000,Astrobiology,What boundary region defines the optimal orbital space where a planet can support liquid surface water?,None,Circumstellar Habitable Zone
+1001,One Piece,What is the name of the main character who wants to become the Pirate King?,A) Zoro | B) Luffy | C) Sanji | D) Usopp,B
+1002,Naruto,What is the name of the nine-tailed fox sealed inside Naruto?,A) Kurama | B) Shukaku | C) Matatabi | D) Gyuki,A
+1003,Attack on Titan,What are the giant human-eating creatures called in this series?,A) Ghouls | B) Hollows | C) Titans | D) Demons,C
+1004,Demon Slayer,What is the name of Tanjiro Kamado younger sister who turned into a demon?,A) Nezuko | B) Nezumi | C) Nami | D) Nobara,A
+1005,Jujutsu Kaisen,Which powerful cursed object does Yuji Itadori swallow in the first episode?,A) A cursed eye | B) Sukuna finger | C) A magical ring | D) A dark scroll,B
+1006,Dragon Ball Z,What is the Saiyan birth name of Goku?,A) Vegeta | B) Gohan | C) Raditz | D) Kakarot,D
+1007,Death Note,What is the name of the Shinigami death god who drops the Death Note?,A) Ryuk | B) Rem | C) L | D) Light,A
+1008,My Hero Academia,What is the name of the superpower quirk possessed by All Might?,A) One For All | B) All For One | C) Explosion | D) Half-Cold Half-Hot,A
+1009,Fullmetal Alchemist,What is the primary law of alchemy that states you cannot gain something without giving something of equal value?,A) Newton Law | B) Law of Equivalent Exchange | C) Law of Conservation | D) Grimms Law,B
+1010,Hunter x Hunter,What is the name of Gon Freecss best friend whom he meets during the Hunter Exam?,A) Kurapika | B) Leorio | C) Killua | D) Hisoka,C
+1011,One Piece,Which Straw Hat Pirate is known as the Pirate Hunter and uses three swords?,A) Zoro | B) Sanji | C) Brook | D) Franky,A
+1012,Naruto,Who is the leader of Team 7 and famously wears a mask covering his face?,A) Jiraiya | B) Orochimaru | C) Kakashi | D) Sasuke,C
+1013,Attack on Titan,What is the name of the elite military branch that ventures outside the walls?,A) Military Police | B) Garrison Regiment | C) Scout Regiment | D) Trainee Corps,C
+1014,Demon Slayer,What unique breathing style does Tanjiro Kamado initially learn from Urokodaki?,A) Flame Breathing | B) Thunder Breathing | C) Water Breathing | D) Beast Breathing,C
+1015,Jujutsu Kaisen,Who is known as the strongest Jujutsu Sorcerer and wears a blindfold?,A) Megumi Fushiguro | B) Satoru Gojo | C) Kento Nanami | D) Suguru Geto,B
+1016,Dragon Ball Z,How many Dragon Balls must be gathered to summon the wish-granting dragon Shenron?,A) 5 | B) 6 | C) 7 | D) 8,C
+1017,Death Note,What alias does the genius detective L use when interacting with the police?,A) Kira | B) Hideki Ryuga | C) Near | D) Mello,B
+1018,My Hero Academia,What is the real name of the main character who goes by the hero name Deku?,A) Katsuki Bakugo | B) Izuku Midoriya | C) Shoto Todoroki | D) Tenya Iida,B
+1019,Fullmetal Alchemist,What mechanical prosthetic limbs do Edward and Alphonse Elric rely on?,A) Automail | B) Cyber-gear | C) Mech-armor | D) Iron-graft,A
+1020,Hunter x Hunter,What dangerous standard exam must Gon pass to become a licensed Hunter?,A) Chunin Exam | B) Hero License Exam | C) Hunter Exam | D) Magic Knight Exam,C
+1021,One Piece,What type of Devil Fruit did Luffy eat to turn his body into rubber?,A) Gum-Gum Fruit | B) Flame-Flame Fruit | C) Chop-Chop Fruit | D) Sand-Sand Fruit,A
+1022,Naruto,What is the ultimate dream and goal of Naruto Uzumaki?,A) To find a treasure | B) To become Hokage | C) To avenge his clan | D) To destroy the leaf village,B
+1023,Attack on Titan,What is the name of Erens childhood friend who wears a red scarf?,A) Sasha | B) Annie | C) Mikasa | D) Historia,C
+1024,Demon Slayer,Which character fights using Beast Breathing and wears a hollowed-out boar head mask?,A) Zenitsu | B) Inosuke | C) Giyu | D) Kyojuro,B
+1025,Jujutsu Kaisen,What is the name of the school where Yuji transfers to learn jujutsu sorcery?,A) UA High | B) Tokyo Jujutsu High | C) Soul Reaper Academy | D) Ninja Academy,B
+1026,Dragon Ball Z,What species or race do Goku and Vegeta belong to?,A) Namekian | B) Saiyan | C) Human | D) Frieza Race,B
+1027,Death Note,What is the real name of the main character who uses the Death Note to become Kira?,A) L Lawliet | B) Light Yagami | C) Touta Matsuda | D) Soichiro Yagami,B
+1028,My Hero Academia,Which character has a quirk that lets him create explosions from his sweat?,A) Katsuki Bakugo | B) Shoto Todoroki | C) Eijiro Kirishima | D) Denki Kaminari,A
+1029,Fullmetal Alchemist,What is the tragic nickname given to Edward Elric due to his short stature and automail arm?,A) The Flame Alchemist | B) The Fullmetal Alchemist | C) The Iron Alchemist | D) The Silver Alchemist,B
+1030,Hunter x Hunter,What is the hidden mystical energy system that Hunters use to manifest superhuman abilities?,A) Chakra | B) Nen | C) Ki | D) Haki,B
+1031,One Piece,What is the name of the ship the Straw Hat Pirates use during the early parts of their journey?,A) Thousand Sunny | B) Going Merry | C) Red Force | D) Moby Dick,B
+1032,Naruto,Which ninja is known as the Survivor of the Uchiha Clan and is Narutos main rival?,A) Itachi | B) Madara | C) Sasuke | D) Obito,C
+1033,Attack on Titan,What is the name of the wall that is breached by the Colossal Titan in the first episode?,A) Wall Maria | B) Wall Rose | C) Wall Sina | D) Wall Eren,A
+1034,Demon Slayer,Which cowardly but powerful demon slayer uses Thunder Breathing and falls asleep to fight?,A) Tanjiro | B) Inosuke | C) Zenitsu | D) Genya,C
+1035,Jujutsu Kaisen,What is the name of Megumi Fushiguro shadow-based technique?,A) Ten Shadows Technique | B) Limitless | C) Idle Transfiguration | D) Cursed Speech,A
+1036,Dragon Ball Z,What is the name of the main villain who destroys Planet Vegeta and fights Goku on Namek?,A) Cell | B) Majin Buu | C) Frieza | D) Raditz,C
+1037,Death Note,What is the name of the fictional notebook that can kill anyone whose name is written in it?,A) Death Note | B) Soul Scroll | C) Dark Diary | D) Shinigami Book,A
+1038,My Hero Academia,Who is the number one pro hero and the Symbol of Peace at the start of the show?,A) Endeavor | B) All Might | C) Hawks | D) Eraser Head,B
+1039,Fullmetal Alchemist,What are the artificially created humans called who serve as the main villains?,A) Homunculi | B) Chimeras | C) Ghouls | D) Titans,A
+1040,Hunter x Hunter,What weapon or tool does Gon Freecss use early on instead of a traditional sword?,A) Fishing rod | B) Yo-yo | C) Bow and arrow | D) Shuriken,A
+1041,One Piece,Who is the chef of the Straw Hat Pirates who only kicks to fight?,None,Sanji
+1042,One Piece,What is the name of the doctor of the Straw Hat Pirates who is a reindeer?,None,Tony
+1043,One Piece,What is the bounty hunter nickname given to Roronoa Zoro?,None,Pirate Hunter
+1044,One Piece,Who is the archaeologist of the Straw Hat Pirates who ate the Flower-Flower Fruit?,None,Nico Robin
+1045,One Piece,What is the name of the skeleton musician who joined Luffys crew?,None,Brook
+1046,One Piece,What color is the straw hat that Luffy wears?,None,yellow
+1047,One Piece,Who is Luffys adoptive brother who became the second-in-command of the Revolutionary Army?,None,Sabo
+1048,One Piece,What is the name of the fish-man helmsman who officially joined the Straw Hats?,None,Jinbe
+1049,One Piece,Which emperor of the sea gave Luffy his signature straw hat?,None,Shanks
+1050,One Piece,What island or town was Luffy born in?,None,Foosha Village
+1051,One Piece,What is the name of the cyborg shipwright of the Straw Hat Pirates?,None,Franky
+1052,One Piece,Who is the sniper of the Straw Hat Pirates who loves to tell lies?,None,Usopp
+1053,One Piece,What is the title given to the marine officers who hold the absolute highest authority below the Fleet Admiral?,None,Admiral
+1054,One Piece,What form of special willpower allows characters to coat themselves in invisible armor or sense danger?,None,Haki
+1055,One Piece,What is the name of the giant whirlpool current that connects Enies Lobby Impel Down and Marineford?,None,The Tarai Current
+1056,One Piece,Who was the first official member to join Luffys pirate crew?,None,Zoro
+1057,One Piece,What is the name of the warlord of the sea who uses the Love-Love Fruit?,None,Hancock
+1058,One Piece,Which pirate captain was known as the King of the Pirates before his execution?,None,Roger
+1059,One Piece,What is the name of the legendary island where the One Piece treasure is hidden?,None,Laugh Tale
+1060,One Piece,Who is the current Fleet Admiral of the Marines who uses magma attacks?,None,Sakazuki
+1061,Naruto,What color is Narutos signature tracksuit jumpsuit in the original series?,None,Orange
+1062,Naruto,What is the name of the village where Naruto lives?,None,the Hidden Leaf
+1063,Naruto,Who is the legendary pervy sage who teaches Naruto the Rasengan?,None,Jiraiya
+1064,Naruto,What specific jutsu technique allows Naruto to create physical duplicates of himself?,None,Shadow Clone Jutsu
+1065,Naruto,What is the name of the rogue criminal organization that hunts down the Jinchuriki?,None,Akatsuki
+1066,Naruto,Who is Sasunes older brother who wiped out the entire Uchiha clan?,None,Itachi
+1067,Naruto,What is the name of the medical ninja girl who is part of original Team 7?,None,Sakura
+1068,Naruto,What eye technique is unique to the Uchiha clan and turns the iris red?,None,Sharingan
+1069,Naruto,What favorite noodle dish soup does Naruto love to eat at Ichiraku?,None,Ramen
+1070,Naruto,Who was the First Hokage and founder of the Hidden Leaf Village?,None,Hashirama
+1071,Naruto,What is the name of the sand ninja who became the Fifth Kazekage?,None,Gaara
+1072,Naruto,What powerful swirling sphere energy attack did Minato invent and pass down?,None,Rasengan
+1073,Naruto,Who was the primary snake-like villain during the original Chunin Exams arc?,None,Orochimaru
+1074,Naruto,What is the name of the fox demon sealed inside Naruto?,None,Kurama
+1075,Naruto,What group of five powerful ninja leaders rule over the main elemental hidden villages?,None,The Five Kage
+1076,Naruto,What is the name of Kakashi unique copy-eye ability?,None,Sharingan
+1077,Naruto,Which Team 10 ninja is a lazy genius who uses shadow manipulation techniques?,None,Shikamaru
+1078,Naruto,Who was the Fourth Hokage and also Narutos biological father?,None,Minato
+1079,Naruto,What is the name of the green jumpsuit ninja who specializes entirely in Taijutsu?,None,Lee
+1080,Naruto,What massive world-altering war serves as the final arc of Naruto Shippuden?,None,The Fourth Great Ninja War
+1081,Attack on Titan,What is the name of the main character who vows to eliminate all Titans?,None,Eren
+1082,Attack on Titan,What unique gear do soldiers use to swing through trees and buildings?,None,3D Maneuver gear
+1083,Attack on Titan,Who is the captain of the Special Operations Squad known as Earths strongest soldier?,None,Levi Ackerman
+1084,Attack on Titan,What is the name of the Titan form that Eren turns into?,None,Attack Titan
+1085,Attack on Titan,Which massive Titan breaches Wall Maria in the very first episode?,None,Colossal Titan
+1086,Attack on Titan,What is the name of Erens father who hid secrets in their basement?,None,Grisha Yeager
+1087,Attack on Titan,Which female soldier is obsessed with eating potatoes?,None,Sasha Blouse
+1088,Attack on Titan,What city district do Eren Mikasa and Armin grow up in?,None,Shiganshina District
+1089,Attack on Titan,What secret item did Erens father leave behind that unlocks the truth of the world?,None,The basement key
+1090,Attack on Titan,Which character can transform into the Female Titan?,None,Annie
+1091,Attack on Titan,What is the name of the second wall that the refugees flee to after Wall Maria falls?,None,Wall Rose
+1092,Attack on Titan,Who is the highly intelligent commander of the Scout Regiment before Armin?,None,Erwin
+1093,Attack on Titan,What is the real name of the country located outside the walls across the sea?,None,Marley
+1094,Attack on Titan,Which titan has a hardened exterior body structure and acts as the counterpart to the Colossal Titan?,None,Armored Titan
+1095,Attack on Titan,What is the name of the race of people who can transform into Titans?,None,Eldians
+1096,Attack on Titan,Which scout squad leader is completely obsessed with experimenting on live Titans?,None,Hange
+1097,Attack on Titan,What is the name of Erens half-brother who holds the Beast Titan power?,None,Zeke
+1098,Attack on Titan,Who is the rightful royal queen of the walls who originally went by the alias Christa?,None,Historia
+1099,Attack on Titan,What is the name of the first historic Titan ancestor who started the titan bloodline?,None,Ymir
+1100,Attack on Titan,What catastrophic world-destroying event does Eren activate using Wall Titans?,None,Rumbling
+1101,Demon Slayer,What is the name of the main character who carries his sister in a box?,None,Tanjiro
+1102,Demon Slayer,What special weapon swords do demon slayers use to decapitate demons?,None,Nichirin Blades
+1103,Demon Slayer,Who is the absolute king of demons and the main antagonist of the series?,None,Muzan
+1104,Demon Slayer,What organization do Tanjiro and his friends join to protect humanity?,None,Demon Slayer Corps
+1105,Demon Slayer,What is the name of the elite member of the top nine strongest demon slayers?,None,Hashira
+1106,Demon Slayer,Which pillar uses Water Breathing and saves Tanjiro in the first episode?,None,Giyu
+1107,Demon Slayer,What unique sense does Tanjiro use to track demons and see the thread of interval?,None,smell
+1108,Demon Slayer,What color does Tanjiros Nichirin blade turn when he first unsheathes it?,None,Black
+1109,Demon Slayer,What is the name of the Flame Hashira who fights Akaza on the Mugen Train?,None,Kyojuro
+1110,Demon Slayer,What are the twelve powerful demons serving directly under Muzan called?,None,Twelve Demon Moons
+1111,Demon Slayer,What legendary original breathing style is Tanjiros Hinokami Kagura derived from?,None,Sun Breathing
+1112,Demon Slayer,Which female Hashira uses insect poisons because she lacks the arm strength to cut demon necks?,None,Shinobu
+1113,Demon Slayer,What material is the box made of that Nezuko rests in during the day?,None,Wood
+1114,Demon Slayer,What insect or animal carries messages and missions to the demon slayers?,None,Kasugai
+1115,Demon Slayer,Which loud and flashy Hashira uses Sound Breathing and fights in the Entertainment District?,None,Tengen
+1116,Demon Slayer,What is the name of the village where all the demon slayer swords are manufactured?,None,Swordsmith Village
+1117,Demon Slayer,What permanent markings appear on strong slayers to grant them massive stat boosts?,None,Demon Slayer Mark
+1118,Demon Slayer,Which upper moon demon uses ice-based blood demon art techniques?,None,Doma
+1119,Demon Slayer,Who is the leader of the entire Demon Slayer Corps whom Muzan targets?,None,Kagaya
+1120,Demon Slayer,What is the name of the final battlefield location where the slayers fight Muzan castle?,None,Infinity Castle
+1121,Jujutsu Kaisen,Who is the protagonist who shares his body with the King of Curses?,None,Yuji Itadori
+1122,Jujutsu Kaisen,What is the name of the legendary four-armed King of Curses?,None,Sukuna
+1123,Jujutsu Kaisen,Which classmate uses a hammer and nails infused with cursed energy?,None,Nobara
+1124,Jujutsu Kaisen,What is the name of the peak barrier technique that traps opponents in a sorcerer inner space?,None,Domain Expansion
+1125,Jujutsu Kaisen,Which shikigami user classmate belongs to the Zenin bloodline?,None,Megumi
+1126,Jujutsu Kaisen,What principal technique does Satoru Gojo use that prevents anything from touching him directly?,None,Infinity
+1127,Jujutsu Kaisen,What is the color of the cursed energy flash produced when a sorcerer hits with perfect timing?,None,Black Flash
+1128,Jujutsu Kaisen,Which grade-1 sorcerer loves money stock markets and uses a blunt cursed tool wrapped in cloth?,None,Nanami
+1129,Jujutsu Kaisen,What is the name of the patch-faced cursed spirit born from human hatred of other humans?,None,Mahito
+1130,Jujutsu Kaisen,Which student is a corporate panda who is actually an advanced cursed corpse?,None,Panda
+1131,Jujutsu Kaisen,What is the name of the principal villain who uses a brain-hopping cursed technique?,None,Kenjaku
+1132,Jujutsu Kaisen,What major Tokyo district serves as the setting for the massive sealing incident in season 2?,None,Shibuya
+1133,Jujutsu Kaisen,Which student uses Cursed Speech and can command people using his voice?,None,Toge
+1134,Jujutsu Kaisen,Who is Megumi Fushiguro biological father who had zero cursed energy due to heavenly restriction?,None,Toji
+1135,Jujutsu Kaisen,What is the name of the absolute strongest Shikigami that Megumi can summon?,None,Mahoraga
+1136,Jujutsu Kaisen,Which female sorcerer uses a giant cursed tool spear and cannot see curses without glasses?,None,Maki
+1137,Jujutsu Kaisen,What is the name of the immortal sorcerer who maintains the barrier structures across Japan?,None,Tengen
+1138,Jujutsu Kaisen,Which muscle-bound student views Yuji as his best brother and imagines idol singers?,None,Todo
+1139,Jujutsu Kaisen,What cursed technique allows Todo to swap places of objects by clapping his hands?,None,Boogie Woogie
+1140,Jujutsu Kaisen,What death game tournament does Kenjaku activate across Japan following the Shibuya incident?,None,Culling Game
+1141,Dragon Ball Z,What is the name of Gokus firstborn son?,None,Gohan
+1142,Dragon Ball Z,What planet do the Namekians call home?,None,Namek
+1143,Dragon Ball Z,Who is the Prince of all Saiyans and Gokus eternal rival?,None,Vegeta
+1144,Dragon Ball Z,What signature energy wave attack did Master Roshi invent that Goku uses constantly?,None,Kamehameha
+1145,Dragon Ball Z,What item do Saiyans wear over their eye to read power levels?,None,Scouter
+1146,Dragon Ball Z,What transformation turns a Saiyan hair gold and increases their power fifty-fold?,None,Super Saiyan
+1147,Dragon Ball Z,What little green beans heal a fighter completely and restore their energy instantly?,None,Senzu Beans
+1148,Dragon Ball Z,Who is the green Namekian warrior who initially was an enemy but became Gohans mentor?,None,Piccolo
+1149,Dragon Ball Z,What time-traveling warrior arrives from the future carrying a sword?,None,Trunks
+1150,Dragon Ball Z,What bio-android hosts a tournament called his own games to test Earth fighters?,None,Cell
+1151,Dragon Ball Z,What pink magical entity can absorb fighters and turn people into chocolate candy?,None,Majin Buu
+1152,Dragon Ball Z,What item do fighters use to fuse together via the Potara method?,None,Potara Earrings
+1153,Dragon Ball Z,What technique taught by King Kai allows Goku to multiply his power base with a red aura?,None,Kaio ken
+1154,Dragon Ball Z,What is the name of the final massive energy bomb Goku creates using energy from the universe?,None,The Spirit Bomb
+1155,Dragon Ball Z,Who is the human martial artist who marries Goku and is mother to Gohan?,None,Chi Chi
+1156,Dragon Ball Z,What spherical pod vehicles do Saiyans use to travel between planets?,None,Saiyan space pods
+1157,Dragon Ball Z,What giant ape form do Saiyans take when looking at a full moon?,None,Great Ape
+1158,Dragon Ball Z,What is the name of the hyperbaric chamber where fighters train for a year in one single day?,None,Time Chamber
+1159,Dragon Ball Z,Who is the short bald human fighter who is Gokus childhood best friend?,None,Krillin
+1160,Dragon Ball Z,What dance method allows Goku and Vegeta to fuse into Gogeta?,None,The Fusion Dance
+1161,Death Note,What is the name of the high school student who finds the Death Note first?,None,Light
+1162,Death Note,What food addiction does Ryuk have that Light uses to bribe him?,None,Apples
+1163,Death Note,What specific title or god-name does the public give to the anonymous killer?,None,Kira
+1164,Death Note,What trade allows a Death Note user to see anyone name and lifespan above their head?,None,Shinigami Eyes
+1165,Death Note,What job does Lights father work in?,None,detective
+1166,Death Note,Which famous pop star girl falls in love with Light and becomes the second Kira?,None,Misa
+1167,Death Note,What single letter does the worlds greatest detective use as his symbol?,None,L
+1168,Death Note,What object does Light hide a miniature television inside to study during exams?,None,bag of chips
+1169,Death Note,What secret mechanism does Light install in his desk drawer to destroy the Death Note if caught?,None,electrical circuit
+1170,Death Note,Which task force member is famous for his obsession with eating sweets during investigations?,None,L
+1171,Death Note,What is the name of the orphanage where L successors were raised?,None,Wammy
+1172,Death Note,Which young white-haired successor to L uses toys and puzzles to track Kira?,None,Near
+1173,Death Note,Which aggressive chocolate-eating successor to L works with the mafia?,None,Mello
+1174,Death Note,What is the name of the Shinigami who sacrifices herself to protect Misa Amane?,None,Rem
+1175,Death Note,What color hair does Light look-alike prosecutor Teru Mikami have?,None,Black
+1176,Death Note,What is the name of the company whose executives use a Death Note to boost stock prices?,None,Yotsuba
+1177,Death Note,What is the name of the news anchor who acts as Kiras voice piece before being killed?,None,Kiyomi
+1178,Death Note,What location serves as the final meeting spot where Near exposes Light?,None,Warehouse
+1179,Death Note,What is written on the very first rule page inside the notebook regarding how to use it?,None,The human whose name is written in this note shall die
+1180,Death Note,What weapon does Matsuda use to shoot Light when he tries to write names at the end?,None,gun
+1181,My Hero Academia,What is the name of the high school where heroes are trained?,None,UA
+1182,My Hero Academia,What percentage of the world population possesses a superpower quirk?,None,80
+1183,My Hero Academia,What is the quirk status of Izuku Midoriya before he meets All Might?,None,Quirkless
+1184,My Hero Academia,Which teacher  NAME at UA High can erase other people quirks just by looking at them?,None,Eraser
+1185,My Hero Academia,What is the name of the main villain group that attacks the school camp?,None,League of Villains
+1186,My Hero Academia,Which student can create objects from her bare skin using lipids?,None,Momo
+1187,My Hero Academia,What is the name of the villain with blue flames who is actually related to Endeavor?,None,Dabi
+1188,My Hero Academia,Which student uses gravitational powers to make objects float?,None,Uraraka
+1189,My Hero Academia,What is the name of the villain leader who uses the Decay quirk?,None,Tomura
+1190,My Hero Academia,What is the name of the pro hero who holds the number 2 rank and has red wings?,None,Hawks
+1191,My Hero Academia,Which student has engine mufflers sticking out of his calves?,None,Tenya
+1192,My Hero Academia,What is the name of the master villain who can steal and grant quirks at will?,None,All For One
+1193,My Hero Academia,What unique item does Deku wear around his neck as part of his costume?,None,mask
+1194,My Hero Academia,Which student can shoot electricity but becomes completely dumb if he overuses it?,None,Kaminari
+1195,My Hero Academia,What is the name of the little girl with a horn whom Deku saves from Overhaul?,None,Eri
+1196,My Hero Academia,Which hero school is UAs main rival during the Provisional License Exam?,None,Shiketsu
+1197,My Hero Academia,What is the real name of the hero Endeavor who uses fire powers?,None,Enji
+1198,My Hero Academia,Which student has a shadow monster living inside his body called Dark Shadow?,None,Fumikage
+1199,My Hero Academia,What are the artificially modified brainless monsters used by the League of Villains called?,None,Nomu
+1200,My Hero Academia,What fighting style extension does Deku develop to use his legs instead of his broken arms?,None,Shooting
+1201,Fullmetal Alchemist,What is the name of Edward Elric younger brother whose soul is bound to armor?,None,Alphons
+1202,Fullmetal Alchemist,What city serves as the military capital where Central Command is located?,None,Central City
+1203,Fullmetal Alchemist,Which state alchemist uses spark gloves to generate massive fire attacks?,None,Roy Mustang
+1204,Fullmetal Alchemist,What legendary item can bypass the law of equivalent exchange entirely?,None,Philosopher's Stone
+1205,Fullmetal Alchemist,What forbidden alchemical act did the Elric brothers perform to lose their bodies?,None,Human transmutation
+1206,Fullmetal Alchemist,What is the name of the childhood friend and mechanic who makes Edwards automail?,None,Winry
+1207,Fullmetal Alchemist,Which homunculus can transform his body into an absolute ultimate shield?,None,Greed
+1208,Fullmetal Alchemist,What is the name of the scar-faced Ishvalan warrior who targets State Alchemists?,None,Scar
+1209,Fullmetal Alchemist,Which tracking circle pattern must be drawn to initiate an alchemical reaction?,None,transmutation circle
+1210,Fullmetal Alchemist,Who is the hidden creator of the homunculi who looks exactly like Hohenheim?,None,Father
+1211,Fullmetal Alchemist,What state alchemist rank or title is held by Roy Mustang?,None,Flame Alchemist
+1212,Fullmetal Alchemist,What animal chimera combination did Shou Tucker tragically create using his daughter?,None,dog
+1213,Fullmetal Alchemist,What country serves as the main setting for the entire series?,None,Amestris
+1214,Fullmetal Alchemist,Which female homunculus has fingers that can extend into sharp blades?,None,Lust
+1215,Fullmetal Alchemist,What object is Edwards soul anchoring blood seal drawn inside on Alphonses body?,None,Alphonse's suit of armor
+1216,Fullmetal Alchemist,What is the name of the country to the east that uses Alkahestry instead of Alchemy?,None,Xing
+1217,Fullmetal Alchemist,Which homunculus is the fastest and holds the identity of King Bradley?,None,Wrath
+1218,Fullmetal Alchemist,What massive gate structure appears when an alchemist attempts human transmutation?,None,Gate of Truth
+1219,Fullmetal Alchemist,Who is the female teacher of the Elric brothers who also saw the truth?,None,Izumi
+1220,Fullmetal Alchemist,What shape is the giant underground transmutation circle drawn across the whole nation?,None,circle
+1221,Hunter x Hunter,What is the name of Gons biological father whom he spends the series searching for?,None,Ging Freecss
+1222,Hunter x Hunter,What color is Killuas signature electricity aura when he transforms?,None,Dark blue
+1223,Hunter x Hunter,Which clan member seeks to recover the scarlet eyes of his wiped-out family?,None,Kurapika
+1224,Hunter x Hunter,What creepy clown-like magician is obsessed with fighting Gon and Killua?,None,Hisoka
+1225,Hunter x Hunter,What is the name of the deadly martial arts family that Killua belongs to?,None,Zoldyck
+1226,Hunter x Hunter,What massive arena tower requires fighters to clear 200 floors?,None,Heaven's Arena
+1227,Hunter x Hunter,What is the name of the virtual reality video game island created by Ging Freecss?,None,Greed Island
+1228,Hunter x Hunter,What species of massive mutant insects serve as the villains of the shows longest arc?,None,Chimera Ants
+1229,Hunter x Hunter,Who is the absolute king of the Chimera Ants who plays board games?,None,Meruem
+1230,Hunter x Hunter,What is the name of the blind girl who plays Gungi with Meruem?,None,Komugi
+1231,Hunter x Hunter,Who is the elderly Chairman of the Hunter Association who fights the Ant King?,None,Isaac Netero
+1232,Hunter x Hunter,What island does Gon grow up on before setting out to take the exam?,None,Whale Island
+1233,Hunter x Hunter,What unique object or weapon does Killua use to channel his lightning and physical attacks?,None,Yo yos
+1234,Hunter x Hunter,Which nen category allows a user to change the properties of their aura like rubber or electricity?,None,Transmutation
+1235,Hunter x Hunter,What is the name of the massive unexplored world structure located outside the known map?,None,Dark Continent
+1236,Hunter x Hunter,Which Hunter friend wants to become a doctor and carries a briefcase?,None,Leorio
+1237,Hunter x Hunter,What powerful restriction vow does Gon place on his own life to defeat Neferpitou?,None,Nen forever
+1238,Hunter x Hunter,What is the name of the youngest Chimera Ant guard who uses a violin and possesses butterfly wings?,None,Shaiapouf
+1239,Hunter x Hunter,Which family member of Killua can grant any wish if three requests are fulfilled?,None,Alluka Zoldyck
+1240,Hunter x Hunter,What Nen technique hides a user presence completely making them invisible to aura detection?,None,Zetsu
+1241,One Piece,What island serves as the headquarters for the global navy marines?,None,Marineford
+1242,Naruto,What is the name of the red-haired boy from the sand who has a gourd on his back WITH aa please?,None,Gaara
+1243,Attack on Titan,What type of THE WAY THAT turns an Eldian into a pure Titan?,None,injection
+1244,Demon Slayer,What is the name of the passive old man who trained Tanjiro to breathe water?,None,Urokodaki
+1245,Jujutsu Kaisen,Which cursed spirit uses volcano head attacks and fire techniques?,None,Jogo
+1246,Dragon Ball Z,What is the name of the old martial arts teacher who gives Goku the Flying Nimbus cloud?,None,Master Roshi
+1247,Death Note,What is the name of the university that Light and L attend together?,None,To Oh
+1248,My Hero Academia,What color hair does the hero Shoto Todoroki have on his right ice side?,None,White
+1249,Fullmetal Alchemist,What rank or military office does Maes Hughes hold before his tragic death?,None,Lieutenant Colonel
+1250,Hunter x Hunter,What basic Nen exercise focuses on outputting a constant shroud of energy around the body?,None,Ten

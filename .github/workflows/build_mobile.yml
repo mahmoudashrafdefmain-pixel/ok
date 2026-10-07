@@ -1,0 +1,91 @@
+﻿name: Build Mobile (Android APK & iOS)
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-android:
+    name: Build Android APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Set up Java JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Install System Dependencies for Buildozer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git zip unzip autoconf libtool pkg-config zlib1g-dev \
+            libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev \
+            build-essential ccache libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
+
+      - name: Install Python Build Tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade buildozer cython virtualenv wheel setuptools
+
+      - name: Cache Buildozer Global Directory
+        uses: actions/cache@v4
+        with:
+          path: ~/.buildozer
+          key: buildozer-${{ runner.os }}-${{ hashFiles('buildozer.spec') }}
+          restore-keys: |
+            buildozer-${{ runner.os }}-
+
+      - name: Build Android APK (Debug / Release)
+        run: |
+          # Buildozer compiles Python + Pygame-ce + SDL2 into APK
+          buildozer android debug
+
+      - name: Upload Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Dumps_Test_v17.0_Android_APK
+          path: bin/*.apk
+          retention-days: 30
+
+  build-ios:
+    name: Prepare iOS Xcode Package
+    runs-on: macos-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install iOS Toolchain Dependencies
+        run: |
+          brew install autoconf automake libtool pkg-config
+          python -m pip install --upgrade pip
+          pip install --upgrade cython kivy-ios
+
+      - name: Create iOS Xcode Project
+        run: |
+          # Initialize toolchain and create project
+          toolchain build python3 sdl2
+          toolchain create DumpsTest .
+          
+          # Zip the Xcode project for distribution
+          zip -r Dumps_Test_iOS_Xcode_Project.zip DumpsTest-ios/
+
+      - name: Upload iOS Project Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Dumps_Test_v17.0_iOS_Package
+          path: Dumps_Test_iOS_Xcode_Project.zip
+          retention-days: 30

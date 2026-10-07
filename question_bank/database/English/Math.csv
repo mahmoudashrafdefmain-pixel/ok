@@ -1,0 +1,501 @@
+﻿number,subject,difficulty,question_type,question,multiple_choices,answer
+1,Math,Easy,Multiple Choice,What is the value of 15 + (4 × 5)?,A) 35 | B) 95 | C) 45 | D) 24,A
+2,Math,Easy,Multiple Choice,What is the smallest prime number?,A) 0 | B) 2 | C) 1 | D) 3,B
+3,Math,Easy,Multiple Choice,"If 3x = 27, what is the value of x?",A) 6 | B) 7 | C) 9 | D) 8,C
+4,Math,Easy,Multiple Choice,What is 25% of 80?,A) 25 | B) 15 | C) 30 | D) 20,D
+5,Math,Easy,Multiple Choice,What is the value of 7 squared (7²)?,A) 49 | B) 14 | C) 42 | D) 56,A
+6,Math,Easy,Multiple Choice,What is the square root of 144?,A) 11 | B) 12 | C) 14 | D) 16,B
+7,Math,Easy,Multiple Choice,What is the result of 100 - 45 - 20?,A) 25 | B) 40 | C) 35 | D) 45,C
+8,Math,Easy,Multiple Choice,"In the fraction 3/8, what is the number 3 called?",A) Denominator | B) Quotient | C) Remainder | D) Numerator,D
+9,Math,Easy,Multiple Choice,What is the product of 12 and 8?,A) 96 | B) 84 | C) 108 | D) 92,A
+10,Math,Easy,Multiple Choice,What is 5 cubed (5³)?,A) 15 | B) 125 | C) 75 | D) 225,B
+11,Math,Easy,Multiple Choice,"What is the next number in the arithmetic pattern: 4, 8, 12, 16, ...?",A) 18 | B) 22 | C) 20 | D) 24,C
+12,Math,Easy,Multiple Choice,"If a notebook costs $4, how many notebooks can you buy with $28?",A) 6 | B) 8 | C) 9 | D) 7,D
+13,Math,Easy,Multiple Choice,What is the value of 2 to the power of 5 (2⁵)?,A) 32 | B) 10 | C) 64 | D) 16,A
+14,Math,Easy,Multiple Choice,Which of the following numbers is an odd number?,A) 44 | B) 57 | C) 68 | D) 90,B
+15,Math,Easy,Multiple Choice,What is 3/4 expressed as a decimal?,A) 0.34 | B) 0.60 | C) 0.75 | D) 0.70,C
+16,Math,Easy,Multiple Choice,What is the perimeter of a square with a side length of 6 cm?,A) 36 cm | B) 18 cm | C) 12 cm | D) 24 cm,D
+17,Math,Easy,Multiple Choice,What is the value of (-8) + 12?,A) 4 | B) -4 | C) 20 | D) -20,A
+18,Math,Easy,Multiple Choice,What is the greatest common divisor (GCD) of 12 and 18?,A) 3 | B) 6 | C) 2 | D) 4,B
+19,Math,Easy,Multiple Choice,"If x + 9 = 22, what is the value of x?",A) 11 | B) 12 | C) 13 | D) 14,C
+20,Math,Easy,Multiple Choice,What is 0.5 multiplied by 40?,A) 200 | B) 8 | C) 2 | D) 20,D
+21,Math,Easy,Multiple Choice,How many minutes are there in 3.5 hours?,A) 210 | B) 180 | C) 200 | D) 240,A
+22,Math,Easy,Multiple Choice,"What is the absolute value of -17, denoted as |-17|?",A) -17 | B) 17 | C) 0 | D) 1,B
+23,Math,Easy,Typing,What is the sum of 47 and 53?,,100
+24,Math,Easy,Typing,What is 9 multiplied by 7?,,63
+25,Math,Easy,Typing,Solve for x in the equation: x - 15 = 35.,,50
+26,Math,Easy,Typing,What is 10 to the power of 3 (10³)?,,1000
+27,Math,Medium,Multiple Choice,A store offers a 20% discount on a jacket originally priced at $80. What is the sale price of the jacket?,A) $60 | B) $72 | C) $64 | D) $68,C
+28,Math,Medium,Multiple Choice,"If a car travels at a constant speed of 60 miles per hour, how far will it travel in 2 hours and 30 minutes (Distance = Speed × Time)?",A) 120 miles | B) 140 miles | C) 160 miles | D) 150 miles,D
+29,Math,Medium,Multiple Choice,Solve for x in the linear equation: 4x - 7 = 2x + 11.,A) 9 | B) 7 | C) 8 | D) 6,A
+30,Math,Medium,Multiple Choice,"What is the least common multiple (LCM) of 6, 8, and 12?",A) 48 | B) 24 | C) 36 | D) 72,B
+31,Math,Medium,Multiple Choice,A train travels 180 kilometers in 3 hours. What is its average speed in kilometers per hour (Speed = Distance / Time)?,A) 50 km/h | B) 55 km/h | C) 60 km/h | D) 70 km/h,C
+32,Math,Medium,Multiple Choice,What is the value of the algebraic expression 3a² - 2b when a = 4 and b = 5?,A) 42 | B) 34 | C) 48 | D) 38,D
+33,Math,Medium,Multiple Choice,A recipe requires 2 cups of sugar for every 5 cups of flour. How many cups of sugar are needed for 15 cups of flour?,A) 6 | B) 4 | C) 8 | D) 10,A
+34,Math,Medium,Multiple Choice,"If you deposit $500 in a savings account that earns 4% simple interest per year (Interest = Principal × Rate × Time), how much interest is earned after 3 years?",A) $40 | B) $60 | C) $50 | D) $70,B
+35,Math,Medium,Multiple Choice,Solve the inequality: 3x + 4 ≤ 19.,A) x ≤ 8 | B) x ≤ 6 | C) x ≤ 5 | D) x ≥ 5,C
+36,Math,Medium,Multiple Choice,A runner completes a 400-meter race in 50 seconds. What is the runner's average speed in meters per second?,A) 7.5 m/s | B) 9 m/s | C) 8.5 m/s | D) 8 m/s,D
+37,Math,Medium,Multiple Choice,What are the solutions to the quadratic equation x² - 9 = 0?,A) x = 3 and x = -3 | B) x = 3 only | C) x = 9 and x = -9 | D) x = 0 and x = 3,A
+38,Math,Medium,Multiple Choice,"If 5 workers can build a wall in 12 days, how many days would it take 10 workers working at the same rate (Worker-Days = Constant)?",A) 4 days | B) 6 days | C) 8 days | D) 5 days,B
+39,Math,Medium,Multiple Choice,"What is the mean (average) of the numbers: 14, 18, 22, 26, and 30?",A) 20 | B) 24 | C) 22 | D) 21,C
+40,Math,Medium,Typing,"What is the value of 5 factorial, denoted as 5! (which equals 5 × 4 × 3 × 2 × 1)?",,120
+41,Math,Medium,Typing,"If a shirt priced at $40 is on sale with a 25% discount, what is the final discounted price in dollars?",,30
+42,Math,Medium,Typing,What is the slope (m) of the line represented by the linear equation y = 4x - 9?,,4
+43,Math,Medium,Multiple Choice,What is the value of x that satisfies the logarithmic equation log₂(x) = 6?,A) 12 | B) 36 | C) 16 | D) 64,D
+44,Math,Hard,Multiple Choice,What is the sum of the infinite geometric series 8 + 4 + 2 + 1 + ... where the first term is a = 8 and common ratio is r = 1/2 (Sum = a / (1 - r))?,A) 16 | B) 14 | C) 18 | D) 20,A
+45,Math,Hard,Multiple Choice,What is the derivative of f(x) = 3x⁴ with respect to x using the power rule?,A) 7x³ | B) 12x³ | C) 12x⁴ | D) 8x³,B
+46,Math,Hard,Multiple Choice,"What is the value of the imaginary unit i raised to the 4th power (i⁴), where i = √(-1)?",A) -1 | B) i | C) 1 | D) -i,C
+47,Math,Hard,Multiple Choice,"What is the determinant of the 2×2 matrix with top row [4, 2] and bottom row [3, 5] (Determinant = ad - bc)?",A) 26 | B) 10 | C) 22 | D) 14,D
+48,Math,Hard,Multiple Choice,How many distinct 3-person committees can be formed from a group of 7 people (Combination: 7C3 = 7! / (3! × 4!))?,A) 35 | B) 21 | C) 42 | D) 28,A
+49,Math,Hard,Multiple Choice,What is the limit of (2x² + 5x) / (x² - 3) as x approaches infinity?,A) 0 | B) 2 | C) 5 | D) 1,B
+50,Math,Hard,Multiple Choice,"If log₁₀(x) + log₁₀(5) = 2, what is the value of x?",A) 10 | B) 50 | C) 20 | D) 25,C
+51,Math,Hard,Multiple Choice,What is the value of the definite integral of 2x dx evaluated from x = 0 to x = 5 (which equals [x²] from 0 to 5)?,A) 20 | B) 30 | C) 10 | D) 25,D
+52,Math,Hard,Multiple Choice,"What is the remainder when 2⁵⁰ is divided by 7 (using modular arithmetic or cyclic remainders 2, 4, 1)?",A) 4 | B) 2 | C) 1 | D) 6,A
+53,Math,Hard,Typing,How many permutations of 4 items chosen from 5 distinct items exist (5P4 = 5! / (5-4)!)?,,120
+54,Math,Easy,Multiple Choice,"What is the value of 18 divided by 3, plus 7?",A) 12 | B) 13 | C) 15 | D) 11,B
+55,Math,Easy,Multiple Choice,Which integer is neither positive nor negative?,A) 1 | B) -1 | C) 0 | D) 2,C
+56,Math,Easy,Multiple Choice,What is the value of 4 to the power of 3 (4³)?,A) 12 | B) 16 | C) 32 | D) 64,D
+57,Math,Easy,Multiple Choice,What is 15% of 200?,A) 30 | B) 25 | C) 35 | D) 40,A
+58,Math,Easy,Multiple Choice,What is the value of (-5) × (-6)?,A) -30 | B) 30 | C) 11 | D) -11,B
+59,Math,Easy,Multiple Choice,"If a triangle has angles of 50° and 70°, what is the measure of the third angle (since sum of angles is 180°)?",A) 50° | B) 70° | C) 60° | D) 80°,C
+60,Math,Easy,Multiple Choice,What is the decimal equivalent of the fraction 1/5?,A) 0.5 | B) 0.15 | C) 0.25 | D) 0.2,D
+61,Math,Easy,Multiple Choice,Solve for y in the equation: 2y + 8 = 20.,A) 6 | B) 7 | C) 8 | D) 5,A
+62,Math,Easy,Typing,What is the value of 100 divided by 4?,,25
+63,Math,Easy,Multiple Choice,Which of the following is a composite number (not prime)?,A) 13 | B) 21 | C) 17 | D) 19,B
+64,Math,Easy,Multiple Choice,What is the reciprocal of the fraction 2/7?,A) 2/7 | B) -2/7 | C) 7/2 | D) -7/2,C
+65,Math,Easy,Multiple Choice,"If a box contains 3 red balls and 7 blue balls, what is the probability of randomly drawing a red ball?",A) 7/10 | B) 3/7 | C) 1/3 | D) 3/10,D
+66,Math,Easy,Multiple Choice,What is the value of 8 + 6 × 2?,A) 20 | B) 28 | C) 22 | D) 16,A
+67,Math,Easy,Multiple Choice,What is the perimeter of a rectangle with length 8 cm and width 5 cm?,A) 13 cm | B) 26 cm | C) 40 cm | D) 21 cm,B
+68,Math,Easy,Multiple Choice,What is the value of 9 squared minus 1 (9² - 1)?,A) 82 | B) 79 | C) 80 | D) 81,C
+69,Math,Easy,Multiple Choice,"If you divide 45 by 6, what is the remainder?",A) 5 | B) 2 | C) 4 | D) 3,D
+70,Math,Easy,Multiple Choice,What is the product of any real number and zero (0)?,A) 0 | B) 1 | C) The number itself | D) Undefined,A
+71,Math,Easy,Typing,What is the value of 2³ × 3¹?,,24
+72,Math,Easy,Multiple Choice,How many centimeters are in 2.5 meters?,A) 25 | B) 250 | C) 2500 | D) 200,B
+73,Math,Easy,Multiple Choice,What is the next prime number after 7?,A) 9 | B) 13 | C) 11 | D) 8,C
+74,Math,Easy,Multiple Choice,What is the value of (-15) + (-25)?,A) 40 | B) -10 | C) 10 | D) -40,D
+75,Math,Easy,Multiple Choice,"If 4 apples cost $2, how much do 12 apples cost?",A) $6 | B) $4 | C) $8 | D) $10,A
+76,Math,Easy,Typing,What is the value of 64 divided by 8?,,8
+77,Math,Easy,Typing,What is the square root of 81?,,9
+78,Math,Easy,Typing,Solve for x: 5x = 45.,,9
+79,Math,Medium,Multiple Choice,A store purchases an item for $50 and sells it for $70. What is the percentage profit based on the cost price?,A) 20% | B) 40% | C) 30% | D) 35%,B
+80,Math,Medium,Multiple Choice,"If two angles of a triangle measure 45° and 45°, what type of triangle is it based on its angles?",A) Equilateral triangle | B) Obtuse scalene triangle | C) Right isosceles triangle | D) Acute scalene triangle,C
+81,Math,Medium,Multiple Choice,Solve the system of equations for x: x + y = 10 and x - y = 4.,A) x = 6 | B) x = 8 | C) x = 5 | D) x = 7,D
+82,Math,Medium,Multiple Choice,Two cyclists start from the same point and travel in opposite directions at 15 mph and 25 mph. After how many hours will they be 120 miles apart (Total Distance = Combined Speed × Time)?,A) 3 hours | B) 2 hours | C) 4 hours | D) 5 hours,A
+83,Math,Medium,Multiple Choice,"What is the median of the following set of numbers: 3, 7, 9, 15, 21, 24, 30?",A) 12 | B) 15 | C) 14 | D) 16,B
+84,Math,Medium,Multiple Choice,What is the discriminant of the quadratic equation 2x² - 4x + 1 = 0 (Discriminant = b² - 4ac)?,A) 16 | B) 24 | C) 8 | D) -8,C
+85,Math,Medium,Multiple Choice,A car uses 4 gallons of gasoline to travel 120 miles. How many gallons are needed to travel 300 miles at the same fuel efficiency?,A) 8 gallons | B) 12 gallons | C) 15 gallons | D) 10 gallons,D
+86,Math,Medium,Multiple Choice,What is the value of the expression (2⁴ × 2³) / 2⁵?,A) 4 | B) 2 | C) 8 | D) 16,A
+87,Math,Medium,Multiple Choice,"A bank offers compound interest at 10% annually. If $1,000 is invested for 2 years compounded yearly (A = P(1 + r)ⁿ), what is the total final amount?","A) $1,100 | B) $1,210 | C) $1,200 | D) $1,250",B
+88,Math,Medium,Multiple Choice,"If the ratio of boys to girls in a class is 3:5 and there are 24 boys, how many girls are in the class?",A) 35 | B) 45 | C) 40 | D) 30,C
+89,Math,Medium,Multiple Choice,What is the area of a right-angled triangle with legs of length 6 cm and 8 cm (Area = (base × height) / 2)?,A) 48 cm² | B) 14 cm² | C) 28 cm² | D) 24 cm²,D
+90,Math,Medium,Multiple Choice,Solve for n in the equation: (n + 2) / 3 = 5.,A) 13 | B) 11 | C) 15 | D) 17,A
+91,Math,Medium,Multiple Choice,"If 3 consecutive integers add up to 48, what is the largest of the three integers?",A) 15 | B) 17 | C) 16 | D) 18,B
+92,Math,Medium,Typing,What is the radius of a circle whose circumference is 10π (Circumference = 2πr)?,,5
+93,Math,Hard,Multiple Choice,What is the value of the limit of (sin x) / x as x approaches 0?,A) 0 | B) ∞ | C) 1 | D) Undefined,C
+94,Math,Hard,Multiple Choice,What is the 10th term of the arithmetic sequence with first term a₁ = 3 and common difference d = 4 (Formula: aₙ = a₁ + (n - 1)d)?,A) 43 | B) 36 | C) 40 | D) 39,D
+95,Math,Hard,Multiple Choice,"If vector u = (3, 4) and vector v = (2, -1), what is the dot product u · v (Formula: u₁v₁ + u₂v₂)?",A) 2 | B) 10 | C) 7 | D) 5,A
+96,Math,Hard,Multiple Choice,"What is the magnitude (length) of the vector v = (6, 8) (Formula: √(x² + y²))?",A) 14 | B) 10 | C) 12 | D) 100,B
+97,Math,Hard,Multiple Choice,What is the second derivative of f(x) = x³ - 5x² + 4x with respect to x?,A) 3x² - 10x | B) 6x - 5 | C) 6x - 10 | D) 3x - 10,C
+98,Math,Medium,Multiple Choice,"If log₃(81) = y, what is the value of y?",A) 3 | B) 27 | C) 9 | D) 4,D
+99,Math,Hard,Multiple Choice,What is the sum of the roots of the quadratic equation 3x² - 12x + 5 = 0 (Formula: Sum = -b / a)?,A) 4 | B) -4 | C) 12 | D) 5/3,A
+100,Math,Hard,Typing,What is the value of 0 factorial (0!) by mathematical definition?,,1
+101,Math,Easy,Multiple Choice,How many degrees are in a complete circle?,A) 180° | B) 360° | C) 270° | D) 90°,B
+102,Math,Easy,Multiple Choice,What is the longest side of a right-angled triangle called?,A) Adjacent | B) Opposite | C) Hypotenuse | D) Altitude,C
+103,Math,Easy,Multiple Choice,What is the sum of the interior angles of any triangle?,A) 360° | B) 90° | C) 270° | D) 180°,D
+104,Math,Easy,Multiple Choice,What is the area of a rectangle with length 10 meters and width 4 meters (Area = length × width)?,A) 40 m² | B) 28 m² | C) 14 m² | D) 20 m²,A
+105,Math,Easy,Multiple Choice,What type of angle measures exactly 90 degrees?,A) Acute angle | B) Right angle | C) Obtuse angle | D) Straight angle,B
+106,Math,Easy,Multiple Choice,How many sides does a regular hexagon have?,A) 5 | B) 7 | C) 6 | D) 8,C
+107,Math,Easy,Multiple Choice,What line segment connects the center of a circle to any point on its circumference?,A) Diameter | B) Chord | C) Secant | D) Radius,D
+108,Math,Easy,Multiple Choice,"If the radius of a circle is 7 cm, what is its diameter (Diameter = 2 × radius)?",A) 14 cm | B) 3.5 cm | C) 21 cm | D) 49 cm,A
+109,Math,Easy,Multiple Choice,What is an angle called if it measures less than 90 degrees?,A) Obtuse angle | B) Acute angle | C) Reflex angle | D) Straight angle,B
+110,Math,Easy,Multiple Choice,How many vertices (corners) does a cube have?,A) 6 | B) 12 | C) 8 | D) 10,C
+111,Math,Easy,Multiple Choice,What is the volume of a cube with edge length 3 cm (Volume = side³)?,A) 9 cm³ | B) 18 cm³ | C) 81 cm³ | D) 27 cm³,D
+112,Math,Easy,Multiple Choice,"What geometric theorem states that in a right triangle, a² + b² = c²?",A) Pythagorean Theorem | B) Fermat's Theorem | C) Euler's Theorem | D) Thales's Theorem,A
+113,Math,Easy,Multiple Choice,What is a triangle with all three sides of equal length called?,A) Isosceles triangle | B) Equilateral triangle | C) Scalene triangle | D) Right triangle,B
+114,Math,Easy,Multiple Choice,Two angles whose measures add up to 90 degrees are called what?,A) Supplementary angles | B) Vertical angles | C) Complementary angles | D) Alternate angles,C
+115,Math,Easy,Multiple Choice,Two angles whose measures add up to 180 degrees are called what?,A) Complementary angles | B) Adjacent angles | C) Opposite angles | D) Supplementary angles,D
+116,Math,Easy,Multiple Choice,How many faces does a standard rectangular brick or cuboid have?,A) 6 | B) 8 | C) 12 | D) 4,A
+117,Math,Easy,Multiple Choice,What is the perimeter of an equilateral triangle with a side length of 9 cm?,A) 18 cm | B) 27 cm | C) 81 cm | D) 36 cm,B
+118,Math,Easy,Multiple Choice,"What 4-sided polygon has opposite sides parallel and equal, but no right angles?",A) Trapezoid | B) Square | C) Parallelogram | D) Rectangle,C
+119,Math,Easy,Multiple Choice,What is the area of a square with a side length of 8 cm (Area = side²)?,A) 32 cm² | B) 16 cm² | C) 72 cm² | D) 64 cm²,D
+120,Math,Easy,Multiple Choice,What is the name of an 8-sided polygon?,A) Octagon | B) Hexagon | C) Heptagon | D) Nonagon,A
+121,Math,Easy,Multiple Choice,"What is the point where the x-axis and y-axis intersect on a coordinate plane, with coordinates (0, 0)?",A) Vertex | B) Origin | C) Intercept | D) Focus,B
+122,Math,Easy,Multiple Choice,"In a coordinate pair (x, y), what is the first value (x) called?",A) Ordinate | B) Slope | C) Abscissa | D) Vector,C
+123,Math,Easy,Typing,What is the name of a 5-sided polygon?,,pentagon
+124,Math,Easy,Typing,What is the perimeter of a regular pentagon with sides of length 7 cm?,,35
+125,Math,Easy,Typing,What is the area of a rectangle with length 12 and width 5?,,60
+126,Math,Easy,Typing,How many degrees are in a straight angle (a straight line)?,,180
+127,Math,Medium,Multiple Choice,"Using the Pythagorean theorem, what is the length of the hypotenuse in a right triangle with legs of length 3 and 4 (c = √(a² + b²))?",A) 6 | B) 7 | C) 8 | D) 5,D
+128,Math,Medium,Multiple Choice,What is the sum of the interior angles of a convex polygon with n sides (Formula: (n - 2) × 180°) for a hexagon (n = 6)?,A) 720° | B) 540° | C) 900° | D) 1080°,A
+129,Math,Medium,Multiple Choice,"What is the distance between the points (1, 2) and (4, 6) in the Cartesian coordinate plane (Distance = √((x₂ - x₁)² + (y₂ - y₁)²))?",A) 7 | B) 5 | C) 6 | D) 8,B
+130,Math,Medium,Multiple Choice,"What is the midpoint of the line segment joining the points (2, 4) and (6, 10) (Formula: ((x₁ + x₂)/2, (y₁ + y₂)/2))?","A) (3, 5) | B) (8, 14) | C) (4, 7) | D) (4, 6)",C
+131,Math,Medium,Multiple Choice,"What is the slope (m) of the line passing through the points (2, 3) and (6, 11) (Formula: m = (y₂ - y₁) / (x₂ - x₁))?",A) 3 | B) 4 | C) 1/2 | D) 2,D
+132,Math,Medium,Multiple Choice,"In right-triangle trigonometry, what is the sine of an acute angle defined as in SOH CAH TOA?",A) Opposite / Hypotenuse | B) Adjacent / Hypotenuse | C) Opposite / Adjacent | D) Hypotenuse / Opposite,A
+133,Math,Medium,Multiple Choice,"In right-triangle trigonometry, what is the tangent of an acute angle defined as in SOH CAH TOA?",A) Adjacent / Hypotenuse | B) Opposite / Adjacent | C) Opposite / Hypotenuse | D) Adjacent / Opposite,B
+134,Math,Medium,Multiple Choice,What is the exact value of sin(30°) (or sin(π/6 radians))?,A) 1 | B) √3 / 2 | C) 1/2 | D) √2 / 2,C
+135,Math,Medium,Multiple Choice,What is the exact value of cos(0°)?,A) 0 | B) -1 | C) 1/2 | D) 1,D
+136,Math,Medium,Multiple Choice,"What is the area of a trapezoid with parallel bases b₁ = 6 cm, b₂ = 10 cm, and height h = 4 cm (Area = ((b₁ + b₂) / 2) × h)?",A) 32 cm² | B) 64 cm² | C) 48 cm² | D) 24 cm²,A
+137,Math,Medium,Multiple Choice,What is the volume of a cylinder with radius r = 3 cm and height h = 7 cm (Volume = πr²h) in terms of π?,A) 21π cm³ | B) 63π cm³ | C) 42π cm³ | D) 147π cm³,B
+138,Math,Medium,Multiple Choice,What is the total surface area of a cube with edge length 4 cm (Surface Area = 6s²)?,A) 64 cm² | B) 48 cm² | C) 96 cm² | D) 80 cm²,C
+139,Math,Medium,Multiple Choice,What is the measure of each interior angle of a regular octagon (Formula: ((n - 2) × 180°) / n with n = 8)?,A) 120° | B) 140° | C) 108° | D) 135°,D
+140,Math,Medium,Multiple Choice,"Using the Pythagorean theorem, what is the length of the hypotenuse for legs of lengths 5 and 12?",A) 13 | B) 15 | C) 17 | D) 14,A
+141,Math,Medium,Typing,What is the exact value of tan(45°)?,,1
+142,Math,Medium,Typing,"If the radius of a sphere is 3, what is its surface area divided by π (Surface Area = 4πr²)?",,36
+143,Math,Hard,Multiple Choice,What is the fundamental Pythagorean trigonometric identity relating sine and cosine for any angle θ?,A) sin²(θ) - cos²(θ) = 1 | B) sin²(θ) + cos²(θ) = 1 | C) sin(θ) + cos(θ) = 1 | D) tan²(θ) + 1 = cos²(θ),B
+144,Math,Hard,Multiple Choice,What is the volume of a sphere with radius r = 3 (Formula: Volume = (4/3)πr³) in terms of π?,A) 12π | B) 27π | C) 36π | D) 108π,C
+145,Math,Medium,Multiple Choice,What is the radius of the circle given by the equation (x - 2)² + (y + 5)² = 49?,A) 49 | B) 14 | C) 2 | D) 7,D
+146,Math,Medium,Multiple Choice,What is the exact value of cos(60°)?,A) 1/2 | B) √3 / 2 | C) √2 / 2 | D) 0,A
+147,Math,Hard,Multiple Choice,"In trigonometry, what is the Law of Cosines formula for side c of a general triangle with angle C?",A) c² = a² + b² + 2ab cos(C) | B) c² = a² + b² - 2ab cos(C) | C) c² = a² - b² + 2ab cos(C) | D) c = a + b - cos(C),B
+148,Math,Hard,Multiple Choice,"What is the equation of a line perpendicular to y = 2x + 3 that passes through the origin (0, 0) (Perpendicular slope = -1/m)?",A) y = 2x | B) y = -(1/2)x + 3 | C) y = -(1/2)x | D) y = -2x,C
+149,Math,Hard,Multiple Choice,How many radians are equivalent to 180 degrees (since 2π radians = 360°)?,A) 2π | B) π/2 | C) π/4 | D) π,D
+150,Math,Hard,Multiple Choice,What is the angle in radians corresponding to 90 degrees?,A) π/2 | B) π | C) 2π | D) π/4,A
+151,Math,Hard,Typing,What is the exact value of sin(90°)?,,1
+152,Math,Hard,Typing,What is the slope of any horizontal line in the xy-plane?,,0
+153,Math,Hard,Typing,How many diagonals does a regular polygon with 5 sides (pentagon) have (Formula: n(n - 3) / 2)?,,5
+154,Math,Easy,Multiple Choice,What is a closed plane figure formed by three or more straight line segments called?,A) Circle | B) Polygon | C) Ellipse | D) Ray,B
+155,Math,Easy,Multiple Choice,What is the boundary or total distance around the outside of a 2D shape called?,A) Area | B) Volume | C) Perimeter | D) Diameter,C
+156,Math,Easy,Multiple Choice,What is the measure of the space enclosed inside a 2D flat shape called?,A) Perimeter | B) Circumference | C) Length | D) Area,D
+157,Math,Easy,Multiple Choice,How many degrees are in each angle of an equilateral triangle (180° / 3)?,A) 60° | B) 45° | C) 90° | D) 30°,A
+158,Math,Easy,Multiple Choice,What is the line segment passing through the center of a circle with endpoints on the circle called?,A) Radius | B) Diameter | C) Secant | D) Tangent,B
+159,Math,Easy,Multiple Choice,What is a triangle with two sides of equal length called?,A) Scalene triangle | B) Equilateral triangle | C) Isosceles triangle | D) Acute triangle,C
+160,Math,Easy,Multiple Choice,What is a triangle with no equal sides called?,A) Equilateral triangle | B) Isosceles triangle | C) Right triangle | D) Scalene triangle,D
+161,Math,Easy,Multiple Choice,What is the perimeter of a square with an area of 25 cm² (side = √25 = 5)?,A) 20 cm | B) 10 cm | C) 25 cm | D) 15 cm,A
+162,Math,Easy,Multiple Choice,What is an angle greater than 90° but less than 180° called?,A) Acute angle | B) Obtuse angle | C) Right angle | D) Reflex angle,B
+163,Math,Easy,Multiple Choice,What 3D geometric solid has two congruent circular bases connected by a curved surface?,A) Cone | B) Sphere | C) Cylinder | D) Prism,C
+164,Math,Easy,Multiple Choice,What 3D geometric solid has a circular base and a single vertex (apex) at the top?,A) Cylinder | B) Sphere | C) Cube | D) Cone,D
+165,Math,Easy,Multiple Choice,What is the perimeter of a regular triangle with side length 11 cm?,A) 33 cm | B) 22 cm | C) 44 cm | D) 121 cm,A
+166,Math,Easy,Multiple Choice,How many degrees are in the four interior angles of any quadrilateral (4-sided polygon)?,A) 180° | B) 360° | C) 540° | D) 720°,B
+167,Math,Easy,Multiple Choice,What is a quadrilateral with four right angles and four equal sides called?,A) Rectangle | B) Rhombus | C) Square | D) Trapezoid,C
+168,Math,Easy,Multiple Choice,What is a line that touches a circle at exactly one point called?,A) Chord | B) Secant | C) Diameter | D) Tangent,D
+169,Math,Easy,Multiple Choice,What is a line segment whose endpoints both lie on a circle called?,A) Chord | B) Radius | C) Tangent | D) Ray,A
+170,Math,Easy,Multiple Choice,How many edges does a standard cube have?,A) 6 | B) 12 | C) 8 | D) 16,B
+171,Math,Easy,Multiple Choice,What is the area of a right triangle with base 10 cm and height 6 cm (Area = 0.5 × base × height)?,A) 60 cm² | B) 16 cm² | C) 30 cm² | D) 45 cm²,C
+172,Math,Easy,Multiple Choice,What is the circumference formula for a circle with radius r?,A) πr² | B) 4πr² | C) 2r | D) 2πr,D
+173,Math,Easy,Multiple Choice,What is the area formula for a circle with radius r?,A) πr² | B) 2πr | C) 4πr | D) πd,A
+174,Math,Easy,Multiple Choice,"If the diameter of a circle is 20 cm, what is its radius?",A) 40 cm | B) 10 cm | C) 5 cm | D) 15 cm,B
+175,Math,Easy,Multiple Choice,"What is the volume of a rectangular prism with length 5 cm, width 3 cm, and height 2 cm (Volume = l × w × h)?",A) 10 cm³ | B) 25 cm³ | C) 30 cm³ | D) 15 cm³,C
+176,Math,Easy,Typing,What is the name of a 7-sided polygon?,,heptagon
+177,Math,Easy,Typing,What is the name of a 10-sided polygon?,,decagon
+178,Math,Easy,Typing,What is the area of a square with a side length of 9?,,81
+179,Math,Medium,Multiple Choice,What is the length of the diagonal of a rectangle with length 6 and width 8 (Diagonal = √(l² + w²))?,A) 14 | B) 12 | C) 11 | D) 10,D
+180,Math,Medium,Multiple Choice,"If two complementary angles are in the ratio 2:3, what is the measure of the smaller angle (2x + 3x = 90°)?",A) 36° | B) 54° | C) 30° | D) 45°,A
+181,Math,Medium,Multiple Choice,"If two supplementary angles are in the ratio 1:3, what is the measure of the larger angle (x + 3x = 180°)?",A) 45° | B) 135° | C) 120° | D) 150°,B
+182,Math,Medium,Multiple Choice,"What is the sum of the exterior angles of any convex polygon, regardless of the number of sides?",A) 180° | B) 540° | C) 360° | D) 720°,C
+183,Math,Medium,Multiple Choice,"What is the length of side BC in right triangle ABC if angle B = 90°, AB = 8, and AC = 10 (BC = √(10² - 8²))?",A) 4 | B) 5 | C) 7 | D) 6,D
+184,Math,Medium,Multiple Choice,What is the area of a parallelogram with base 14 cm and perpendicular height 5 cm (Area = base × height)?,A) 70 cm² | B) 35 cm² | C) 19 cm² | D) 28 cm²,A
+185,Math,Medium,Multiple Choice,What is the volume of a cone with radius r = 3 and height h = 4 (Volume = (1/3)πr²h) in terms of π?,A) 36π | B) 12π | C) 16π | D) 18π,B
+186,Math,Medium,Multiple Choice,"In right-triangle trigonometry, what is the cosine of an acute angle defined as in SOH CAH TOA?",A) Opposite / Hypotenuse | B) Opposite / Adjacent | C) Adjacent / Hypotenuse | D) Hypotenuse / Adjacent,C
+187,Math,Medium,Multiple Choice,"What is the area of a circle with a diameter of 12 cm in terms of π (radius = 6, Area = πr²)?",A) 144π cm² | B) 12π cm² | C) 24π cm² | D) 36π cm²,D
+188,Math,Medium,Multiple Choice,What is the perimeter of a rectangle if its area is 48 cm² and its width is 6 cm (length = 48/6 = 8)?,A) 28 cm | B) 14 cm | C) 24 cm | D) 32 cm,A
+189,Math,Medium,Multiple Choice,What is the y-intercept of the line given by the linear equation 3x + 2y = 12 (when x = 0)?,A) 4 | B) 6 | C) 12 | D) 3,B
+190,Math,Medium,Multiple Choice,What is the x-intercept of the line given by the linear equation 4x - 5y = 20 (when y = 0)?,A) -4 | B) 4 | C) 5 | D) -5,C
+191,Math,Medium,Typing,What is the area of an equilateral triangle with side length 4 (Formula: (√3 / 4) × side²) divided by √3?,,4
+192,Math,Medium,Typing,What is the measure in degrees of each interior angle of an equilateral triangle?,,60
+193,Math,Hard,Multiple Choice,What is the center of the circle given by the equation (x + 3)² + (y - 7)² = 25?,"A) (3, -7) | B) (3, 7) | C) (-3, -7) | D) (-3, 7)",D
+194,Math,Hard,Multiple Choice,"In trigonometry, what is the Law of Sines relating sides a, b, c and opposite angles A, B, C?",A) a/sin(A) = b/sin(B) = c/sin(C) | B) a sin(A) = b sin(B) | C) a/cos(A) = b/cos(B) | D) a² + b² = sin(C),A
+195,Math,Hard,Multiple Choice,What is the exact value of tan(60°)?,A) 1 | B) √3 | C) 1/√3 | D) √2,B
+196,Math,Hard,Multiple Choice,What is the exact value of cos(90°)?,A) 1 | B) -1 | C) 0 | D) 1/2,C
+197,Math,Hard,Multiple Choice,What is the length of the space diagonal of a cube with edge length s (Formula: s√3) for edge length 5?,A) 5√2 | B) 15 | C) 5√5 | D) 5√3,D
+198,Math,Hard,Multiple Choice,What is the area of a sector of a circle with radius r = 6 and central angle θ = 60° (Area = (θ/360) × πr²) in terms of π?,A) 6π | B) 12π | C) 36π | D) 3π,A
+199,Math,Hard,Multiple Choice,What is the slope of any vertical line in the Cartesian coordinate plane?,A) 0 | B) Undefined | C) 1 | D) -1,B
+200,Math,Hard,Typing,What is the exact value of sin(0°)?,,0
+201,Math,Easy,Multiple Choice,"If f(x) = 2x + 3, what is the value of f(4)?",A) 10 | B) 14 | C) 11 | D) 9,C
+202,Math,Easy,Multiple Choice,What are the coordinates of the origin on a standard Cartesian coordinate grid?,"A) (1, 1) | B) (0, 1) | C) (1, 0) | D) (0, 0)",D
+203,Math,Easy,Multiple Choice,What is the slope-intercept form equation of a straight line with slope m and y-intercept b?,A) y = mx + b | B) Ax + By = C | C) y - y₁ = m(x - x₁) | D) x/a + y/b = 1,A
+204,Math,Easy,Multiple Choice,What is the degree of the polynomial 4x³ + 2x² - 7x + 1?,A) 4 | B) 3 | C) 2 | D) 1,B
+205,Math,Easy,Multiple Choice,Simplify the algebraic expression: 3(x + 4) - 2x.,A) x + 4 | B) 5x + 12 | C) x + 12 | D) x - 12,C
+206,Math,Easy,Multiple Choice,What is the value of 0 divided by any non-zero number n (0 / n)?,A) Undefined | B) 1 | C) n | D) 0,D
+207,Math,Easy,Multiple Choice,What is the result of dividing any non-zero number by 0 (n / 0)?,A) Undefined | B) 0 | C) 1 | D) -1,A
+208,Math,Easy,Multiple Choice,"If an item is originally $50 and increases in price by 10%, what is the new price?",A) $60 | B) $55 | C) $52 | D) $51,B
+209,Math,Easy,Multiple Choice,What is the solution to 2x - 5 = 11?,A) 6 | B) 7 | C) 8 | D) 9,C
+210,Math,Easy,Multiple Choice,What is the result of expanding (x + 3)(x - 3)?,A) x² + 6x + 9 | B) x² - 6x + 9 | C) x² + 9 | D) x² - 9,D
+211,Math,Easy,Multiple Choice,"What is the mathematical term for a polynomial with exactly two terms, such as 3x + 5?",A) Binomial | B) Monomial | C) Trinomial | D) Constant,A
+212,Math,Easy,Multiple Choice,"What is the mathematical term for a polynomial with exactly one term, such as 7x²?",A) Binomial | B) Monomial | C) Trinomial | D) Factor,B
+213,Math,Easy,Multiple Choice,"What is the mathematical term for a polynomial with exactly three terms, such as x² + 2x + 1?",A) Monomial | B) Binomial | C) Trinomial | D) Degree,C
+214,Math,Easy,Multiple Choice,"If a car travels 150 miles in 3 hours, what is its average speed in miles per hour (Speed = Distance / Time)?",A) 45 mph | B) 40 mph | C) 60 mph | D) 50 mph,D
+215,Math,Easy,Multiple Choice,What is the value of x in the proportion 2/5 = x/20?,A) 8 | B) 4 | C) 6 | D) 10,A
+216,Math,Easy,Multiple Choice,What is the additive inverse of the number -8 (the number that adds to -8 to give 0)?,A) -8 | B) 8 | C) 0 | D) 1/8,B
+217,Math,Easy,Multiple Choice,What is the multiplicative inverse (reciprocal) of 5?,A) -5 | B) 0.5 | C) 1/5 | D) 0,C
+218,Math,Easy,Multiple Choice,What is the value of (-2)³?,A) 8 | B) 6 | C) -6 | D) -8,D
+219,Math,Easy,Multiple Choice,"If a box contains 12 pencils and you take away 5, how many pencils remain?",A) 7 | B) 6 | C) 8 | D) 9,A
+220,Math,Easy,Multiple Choice,What is 50% of 90?,A) 40 | B) 45 | C) 50 | D) 35,B
+221,Math,Easy,Multiple Choice,"What is the next term in the geometric sequence: 2, 6, 18, 54, ... (multiplying by 3 each time)?",A) 108 | B) 144 | C) 162 | D) 150,C
+222,Math,Easy,Multiple Choice,What is the value of 1 raised to any positive integer power n (1ⁿ)?,A) n | B) 0 | C) Undefined | D) 1,D
+223,Math,Easy,Typing,"If 4x = 36, what is the value of x?",,9
+224,Math,Easy,Typing,What is the value of 2 to the power of 6 (2⁶)?,,64
+225,Math,Easy,Typing,Solve for y: y / 4 = 7.,,28
+226,Math,Easy,Typing,What is 10% of 450?,,45
+227,Math,Medium,Multiple Choice,Solve the quadratic equation x² - 5x + 6 = 0 for its roots.,A) x = 2 and x = 3 | B) x = 1 and x = 6 | C) x = -2 and x = -3 | D) x = 5 and x = 6,A
+228,Math,Medium,Multiple Choice,A boat travels downstream at a speed of 20 mph and returns upstream at 10 mph. What is the average speed for the entire round trip of 40 miles each way (Total Distance / Total Time)?,A) 15 mph | B) 13.33 mph | C) 14 mph | D) 16 mph,B
+229,Math,Medium,Multiple Choice,"If Pipe A can fill a tank in 4 hours and Pipe B can fill it in 6 hours, how many hours does it take both pipes working together (Rate = 1/4 + 1/6 = 5/12 tank/hour)?",A) 2.5 hours | B) 3 hours | C) 2.4 hours | D) 2 hours,C
+230,Math,Medium,Multiple Choice,A jacket is on sale for $75 after a 25% discount off the original price. What was the original price (Original × 0.75 = 75)?,A) $90 | B) $95 | C) $110 | D) $100,D
+231,Math,Medium,Multiple Choice,Solve the system of equations for y: 2x + y = 11 and x - y = 1.,A) y = 3 | B) y = 4 | C) y = 5 | D) y = 2,A
+232,Math,Medium,Multiple Choice,"What is the vertex (x, y) of the parabola given by y = (x - 3)² + 4?","A) (-3, 4) | B) (3, 4) | C) (3, -4) | D) (-3, -4)",B
+233,Math,Medium,Multiple Choice,How many real roots does a quadratic equation have if its discriminant (b² - 4ac) is strictly negative (< 0)?,A) 1 real root | B) 2 real roots | C) 0 real roots | D) Infinitely many roots,C
+234,Math,Medium,Multiple Choice,A merchant mixes 10 lbs of coffee worth $6/lb with 20 lbs of coffee worth $9/lb. What is the average cost per pound of the blend (Total Cost / Total Weight)?,A) $7.50 | B) $7.00 | C) $8.50 | D) $8.00,D
+235,Math,Medium,Multiple Choice,"If $2,000 is invested at 5% simple interest per year, how many years will it take to earn $400 in interest (Time = Interest / (P × r))?",A) 4 years | B) 2 years | C) 3 years | D) 5 years,A
+236,Math,Medium,Multiple Choice,What is the domain of the rational function f(x) = 1 / (x - 4)?,A) All real numbers | B) All real numbers except x = 4 | C) x > 4 only | D) x < 4 only,B
+237,Math,Medium,Multiple Choice,"If f(x) = 2x + 1 and g(x) = x², what is the composite function value f(g(3))?",A) 37 | B) 49 | C) 19 | D) 25,C
+238,Math,Medium,Multiple Choice,Solve the absolute value equation: |2x - 3| = 7.,A) x = 5 only | B) x = -2 only | C) x = 4 and x = -3 | D) x = 5 and x = -2,D
+239,Math,Medium,Multiple Choice,What is the sum of the first 20 positive integers (Formula: n(n + 1) / 2)?,A) 210 | B) 190 | C) 200 | D) 220,A
+240,Math,Medium,Typing,A car travels at 70 mph for 3 hours. How many miles does it travel in total?,,210
+241,Math,Medium,Multiple Choice,What is the value of x if 3^(x + 1) = 81?,A) 2 | B) 3 | C) 4 | D) 5,B
+242,Math,Medium,Typing,What is the product of the roots of the quadratic equation x² - 7x + 12 = 0?,,12
+243,Math,Hard,Multiple Choice,What is the inverse function f⁻¹(x) of the one-to-one function f(x) = 3x - 5?,A) f⁻¹(x) = (x - 5) / 3 | B) f⁻¹(x) = 3x + 5 | C) f⁻¹(x) = (x + 5) / 3 | D) f⁻¹(x) = x/3 - 5,C
+244,Math,Hard,Multiple Choice,What is the remainder when the polynomial P(x) = x³ - 2x² + 4x - 5 is divided by (x - 2) using the Polynomial Remainder Theorem (P(2))?,A) 0 | B) -5 | C) 7 | D) 3,D
+245,Math,Hard,Multiple Choice,What is the sum of the roots of the polynomial equation 2x³ - 6x² + 8x - 10 = 0 using Vieta's formulas (-b / a)?,A) 3 | B) -3 | C) 6 | D) -6,A
+246,Math,Medium,Multiple Choice,"If the matrices A = [2, 1] and B = [3; 4] are multiplied (1×2 by 2×1), what is the scalar product AB (2×3 + 1×4)?",A) 14 | B) 10 | C) 7 | D) 24,B
+247,Math,Hard,Multiple Choice,What is the asymptote of the exponential function f(x) = 2ˣ + 5 as x approaches negative infinity?,A) y = 0 | B) y = 2 | C) y = 5 | D) x = 5,C
+248,Math,Hard,Multiple Choice,What is the derivative of f(x) = e^(3x) with respect to x using the chain rule?,A) e^(3x) | B) 3x e^(3x) | C) (1/3) e^(3x) | D) 3 e^(3x),D
+249,Math,Hard,Multiple Choice,What is the value of the indefinite integral ∫ 6x² dx?,A) 2x³ + C | B) 12x + C | C) 3x³ + C | D) 6x³ + C,A
+250,Math,Hard,Multiple Choice,What is the modulus (absolute value) of the complex number z = 3 + 4i (Formula: √(a² + b²))?,A) 7 | B) 5 | C) 25 | D) 12,B
+251,Math,Hard,Typing,What is the value of the limit of (x² - 9) / (x - 3) as x approaches 3?,,6
+252,Math,Hard,Typing,"What is the determinant of the 2×2 identity matrix with top row [1, 0] and bottom row [0, 1]?",,1
+253,Math,Hard,Multiple Choice,"If log₂(x) + log₂(8) = 5, what is the value of x (since log₂(8) = 3)?",A) 2 | B) 8 | C) 4 | D) 16,C
+254,Math,Easy,Multiple Choice,What is the value of any non-zero number raised to the power of 0 (x⁰)?,A) 0 | B) x | C) Undefined | D) 1,D
+255,Math,Easy,Multiple Choice,What is the value of x if x + 14 = 30?,A) 16 | B) 14 | C) 18 | D) 12,A
+256,Math,Easy,Multiple Choice,"In algebra, what is a symbol or letter representing an unknown quantity called?",A) Constant | B) Variable | C) Operator | D) Exponent,B
+257,Math,Easy,Multiple Choice,"In the algebraic term 7x², what is the number 7 called?",A) Variable | B) Exponent | C) Coefficient | D) Base,C
+258,Math,Easy,Multiple Choice,What is the value of 3⁴ (3 to the power of 4)?,A) 27 | B) 64 | C) 12 | D) 81,D
+259,Math,Easy,Multiple Choice,What is the solution to 5x = 0?,A) 0 | B) 5 | C) 1 | D) Undefined,A
+260,Math,Easy,Multiple Choice,"If a car travels at 50 mph, how long will it take to travel 200 miles (Time = Distance / Speed)?",A) 3 hours | B) 4 hours | C) 5 hours | D) 2 hours,B
+261,Math,Easy,Multiple Choice,What is the value of 100% of 73?,A) 100 | B) 0.73 | C) 73 | D) 730,C
+262,Math,Easy,Multiple Choice,What is the result of multiplying any positive number by -1?,A) Zero | B) Positive one | C) Its reciprocal | D) Its negative opposite,D
+263,Math,Easy,Multiple Choice,What is the value of 15 - (3 × 4)?,A) 3 | B) 48 | C) 12 | D) 0,A
+264,Math,Easy,Multiple Choice,"If 2x = 18, what is the value of 3x?",A) 18 | B) 27 | C) 24 | D) 36,B
+265,Math,Easy,Multiple Choice,What is 20% of 150?,A) 15 | B) 25 | C) 30 | D) 35,C
+266,Math,Easy,Multiple Choice,"What is the value of (-1) to an odd power, such as (-1)⁵?",A) 1 | B) 0 | C) -5 | D) -1,D
+267,Math,Easy,Multiple Choice,"What is the value of (-1) to an even power, such as (-1)⁴?",A) 1 | B) -1 | C) 0 | D) 4,A
+268,Math,Easy,Multiple Choice,"If a pack of 6 pens costs $12, what is the cost of 1 pen?",A) $3 | B) $2 | C) $1.50 | D) $2.50,B
+269,Math,Easy,Multiple Choice,What is the result of simplifying 4a + 3b + 2a - b?,A) 6a + 4b | B) 8ab | C) 6a + 2b | D) 6a - 2b,C
+270,Math,Easy,Multiple Choice,What is the value of 1/2 + 1/4?,A) 2/6 | B) 1/6 | C) 2/4 | D) 3/4,D
+271,Math,Easy,Multiple Choice,What is the value of 1/2 divided by 1/2?,A) 1 | B) 0 | C) 1/4 | D) 2,A
+272,Math,Easy,Multiple Choice,What is the decimal representation of 3/5?,A) 0.35 | B) 0.6 | C) 0.53 | D) 0.75,B
+273,Math,Easy,Typing,What is the square of 11 (11²)?,,121
+274,Math,Easy,Typing,Solve for x: 6x - 10 = 20.,,5
+275,Math,Easy,Typing,What is 75% expressed as a simplified fraction in decimal form?,,0.75
+276,Math,Medium,Multiple Choice,A store marks up the price of a $40 wholesale item by 50%. What is the retail selling price?,A) $50 | B) $55 | C) $60 | D) $70,C
+277,Math,Medium,Multiple Choice,Two cars travel toward each other from cities 300 miles apart at 60 mph and 40 mph. In how many hours will they meet (Time = Distance / Combined Speed)?,A) 2.5 hours | B) 3.5 hours | C) 4 hours | D) 3 hours,D
+278,Math,Medium,Multiple Choice,"What is the common difference (d) in the arithmetic progression: 7, 13, 19, 25, ...?",A) 6 | B) 5 | C) 7 | D) 8,A
+279,Math,Medium,Multiple Choice,"What is the common ratio (r) in the geometric progression: 3, 12, 48, 192, ...?",A) 3 | B) 4 | C) 2 | D) 6,B
+280,Math,Medium,Multiple Choice,A worker can complete a task in 8 hours. What fraction of the task does the worker complete in 1 hour?,A) 8/1 | B) 1/4 | C) 1/8 | D) 1/2,C
+281,Math,Medium,Multiple Choice,"If the price of a stock drops from $100 to $80, what is the percentage decrease?",A) 25% | B) 15% | C) 30% | D) 20%,D
+282,Math,Medium,Multiple Choice,"If 3x + 2y = 16 and y = 2, what is the value of x?",A) 4 | B) 3 | C) 5 | D) 6,A
+283,Math,Medium,Multiple Choice,"What is the range of the data set: 4, 8, 15, 23, 42 (Range = Max - Min)?",A) 46 | B) 38 | C) 34 | D) 42,B
+284,Math,Medium,Multiple Choice,"What is the mode of the numbers: 2, 4, 4, 6, 7, 8, 8, 8, 10?",A) 4 | B) 6 | C) 8 | D) 7,C
+285,Math,Medium,Multiple Choice,What is the probability of rolling an even number on a fair standard 6-sided die?,A) 1/3 | B) 1/6 | C) 2/3 | D) 1/2,D
+286,Math,Medium,Multiple Choice,What is the probability of flipping a fair coin twice and getting Heads both times (1/2 × 1/2)?,A) 1/4 | B) 1/2 | C) 1/8 | D) 3/4,A
+287,Math,Medium,Typing,"What is the median of the numbers: 5, 2, 9, 1, 7 (arranged in order)?",,5
+288,Math,Medium,Typing,"If 8x - 3 = 5x + 18, what is the value of x?",,7
+289,Math,Hard,Multiple Choice,"What is the sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ... (Formula: a / (1 - r) with a = 1, r = 1/2)?",A) 1.5 | B) 2 | C) ∞ | D) 2.5,B
+290,Math,Hard,Multiple Choice,What is the derivative of f(x) = ln(x) with respect to x for x > 0?,A) eˣ | B) x | C) 1/x | D) ln(x),C
+291,Math,Hard,Multiple Choice,What is the derivative of f(x) = sin(x) with respect to x?,A) -cos(x) | B) -sin(x) | C) tan(x) | D) cos(x),D
+292,Math,Hard,Multiple Choice,What is the derivative of f(x) = cos(x) with respect to x?,A) -sin(x) | B) sin(x) | C) -cos(x) | D) -tan(x),A
+293,Math,Hard,Multiple Choice,How many different 4-digit PIN codes can be formed if repeated digits are allowed (10⁴)?,"A) 5,040 | B) 10,000 | C) 6,561 | D) 9,999",B
+294,Math,Hard,Multiple Choice,What is the value of the permutation 5P2 (Formula: 5! / (5 - 2)! = 5 × 4)?,A) 10 | B) 15 | C) 20 | D) 25,C
+295,Math,Hard,Multiple Choice,What is the value of the combination 6C2 (Formula: 6! / (2! × 4!))?,A) 30 | B) 12 | C) 20 | D) 15,D
+296,Math,Hard,Multiple Choice,"If two events A and B are mutually exclusive, what is the probability of both occurring together, P(A and B)?",A) 0 | B) 1 | C) P(A) × P(B) | D) 0.5,A
+297,Math,Hard,Typing,What is the value of the derivative of f(x) = 5x³ evaluated at x = 2 (f'(x) = 15x²)?,,60
+298,Math,Hard,Typing,What is the value of 4 factorial (4!)?,,24
+299,Math,Hard,Typing,What is the value of log₁₀(1000)?,,3
+300,Math,Hard,Multiple Choice,"In statistics, what is the square root of the variance called?",A) Mean absolute deviation | B) Standard deviation | C) Median | D) Range,B
+301,Math,Easy,Multiple Choice,"What is the average (arithmetic mean) of the numbers 10, 20, and 30?",A) 15 | B) 25 | C) 20 | D) 30,C
+302,Math,Easy,Multiple Choice,What is the middle number in an ordered set of numbers called?,A) Mean | B) Mode | C) Range | D) Median,D
+303,Math,Easy,Multiple Choice,What is the number that appears most frequently in a data set called?,A) Mode | B) Median | C) Mean | D) Outlier,A
+304,Math,Easy,Multiple Choice,What is the difference between the highest and lowest values in a data set called?,A) Variance | B) Range | C) Median | D) Quartile,B
+305,Math,Easy,Multiple Choice,What is the probability of an impossible event?,A) 1 | B) 0.5 | C) 0 | D) -1,C
+306,Math,Easy,Multiple Choice,What is the probability of an event that is certain to occur?,A) 0 | B) 0.5 | C) 100 | D) 1,D
+307,Math,Easy,Multiple Choice,How many total outcomes are possible when flipping a single coin?,A) 2 | B) 1 | C) 4 | D) 3,A
+308,Math,Easy,Multiple Choice,How many total faces does a standard playing die have?,A) 8 | B) 6 | C) 12 | D) 4,B
+309,Math,Easy,Multiple Choice,How many cards are in a standard deck of playing cards (excluding jokers)?,A) 50 | B) 54 | C) 52 | D) 48,C
+310,Math,Easy,Multiple Choice,"How many suits (Hearts, Diamonds, Clubs, Spades) are in a standard deck of cards?",A) 2 | B) 6 | C) 8 | D) 4,D
+311,Math,Easy,Multiple Choice,What is the probability of drawing a red card (Hearts or Diamonds) from a standard 52-card deck?,A) 1/2 | B) 1/4 | C) 1/13 | D) 1/52,A
+312,Math,Easy,Multiple Choice,What is 3 squared plus 4 squared (3² + 4²)?,A) 49 | B) 25 | C) 14 | D) 24,B
+313,Math,Easy,Multiple Choice,What is the square root of 225?,A) 13 | B) 14 | C) 15 | D) 25,C
+314,Math,Easy,Multiple Choice,What is the value of 2 to the power of 4 (2⁴)?,A) 8 | B) 12 | C) 32 | D) 16,D
+315,Math,Easy,Multiple Choice,What is the value of 10% of $250?,A) $25 | B) $2.50 | C) $50 | D) $20,A
+316,Math,Easy,Multiple Choice,What is the Roman numeral for 10?,A) V | B) X | C) L | D) C,B
+317,Math,Easy,Multiple Choice,What is the Roman numeral for 50?,A) C | B) D | C) L | D) M,C
+318,Math,Easy,Multiple Choice,What is the Roman numeral for 100?,A) D | B) M | C) L | D) C,D
+319,Math,Easy,Multiple Choice,What is the mathematical constant representing the ratio of a circle's circumference to its diameter?,A) π | B) e | C) φ | D) i,A
+320,Math,Easy,Multiple Choice,"To the nearest hundredth, what is the approximate decimal value of Pi (π)?",A) 3.41 | B) 3.14 | C) 2.71 | D) 1.61,B
+321,Math,Easy,Multiple Choice,What is the value of 1/4 expressed as a percentage?,A) 20% | B) 40% | C) 25% | D) 50%,C
+322,Math,Easy,Multiple Choice,What is the value of 3/4 expressed as a percentage?,A) 60% | B) 70% | C) 80% | D) 75%,D
+323,Math,Easy,Typing,"What is the median of the data set: 10, 20, 30, 40, 50?",,30
+324,Math,Easy,Typing,"What is the mode of the numbers: 5, 8, 5, 2, 5, 9, 3?",,5
+325,Math,Easy,Typing,"What is the range of the numbers: 3, 7, 12, 19, 25?",,22
+326,Math,Easy,Typing,How many degrees are in the sum of the angles of any quadrilateral?,,360
+327,Math,Medium,Multiple Choice,What is the probability of rolling a sum of 7 with two standard 6-sided dice (6 favorable outcomes out of 36)?,A) 1/6 | B) 1/12 | C) 1/8 | D) 1/9,A
+328,Math,Medium,Multiple Choice,In how many distinct orders can 4 books be arranged on a bookshelf (4! = 4 × 3 × 2 × 1)?,A) 16 | B) 24 | C) 12 | D) 20,B
+329,Math,Medium,Multiple Choice,What is the number of ways to choose 2 captains from a team of 5 players (5C2 = 5! / (2! × 3!))?,A) 20 | B) 15 | C) 10 | D) 25,C
+330,Math,Medium,Multiple Choice,"If the first term of an arithmetic progression is a₁ = 5 and the common difference is d = 3, what is the 8th term (a₈ = a₁ + 7d)?",A) 24 | B) 28 | C) 29 | D) 26,D
+331,Math,Medium,Multiple Choice,"What is the sum of the first 5 terms of the arithmetic series: 2, 5, 8, 11, 14?",A) 40 | B) 35 | C) 45 | D) 50,A
+332,Math,Medium,Multiple Choice,"What is the 5th term of the geometric sequence: 3, 6, 12, 24, ... (Formula: aₙ = a₁ × rⁿ⁻¹)?",A) 96 | B) 48 | C) 72 | D) 64,B
+333,Math,Medium,Multiple Choice,"If a card is drawn from a standard deck of 52 cards, what is the probability of drawing an Ace (4 Aces in deck)?",A) 1/4 | B) 1/52 | C) 1/13 | D) 4/13,C
+334,Math,Medium,Multiple Choice,"If a car depreciates by 15% from its original value of $20,000 in its first year, what is its value after one year?","A) $16,000 | B) $17,500 | C) $18,000 | D) $17,000",D
+335,Math,Medium,Multiple Choice,"What is the compound amount on $1,000 at 5% annual interest compounded annually after 2 years (A = 1000 × (1.05)²)?","A) $1,102.50 | B) $1,100.00 | C) $1,105.00 | D) $1,110.00",A
+336,Math,Medium,Multiple Choice,What is the value of x if (2/3)x = 12?,A) 16 | B) 18 | C) 15 | D) 20,B
+337,Math,Medium,Multiple Choice,What is the reciprocal of -4/5?,A) 5/4 | B) 4/5 | C) -5/4 | D) -1/4,C
+338,Math,Medium,Multiple Choice,"In a right triangle, if the opposite side is 8 and the hypotenuse is 10, what is sin(θ) in simplified fraction form?",A) 3/5 | B) 4/3 | C) 3/4 | D) 4/5,D
+339,Math,Medium,Multiple Choice,"In a right triangle, if the adjacent side is 6 and the hypotenuse is 10, what is cos(θ) in simplified fraction form?",A) 3/5 | B) 4/5 | C) 1/2 | D) 2/3,A
+340,Math,Medium,Typing,In how many ways can 3 students be selected from a group of 5 students (5C3)?,,10
+341,Math,Medium,Typing,What is the value of 3 factorial (3!)?,,6
+342,Math,Medium,Typing,"What is the probability of rolling a 6 on a single roll of a fair 6-sided die, written as a fraction with denominator 6?",,1/6
+343,Math,Hard,Multiple Choice,What is the derivative of f(x) = tan(x) with respect to x?,A) sec(x) | B) sec²(x) | C) cot(x) | D) csc²(x),B
+344,Math,Hard,Multiple Choice,What is the value of the trigonometric expression sin(2θ) expanded using double-angle identity?,A) sin²(θ) - cos²(θ) | B) 2 cos²(θ) - 1 | C) 2 sin(θ) cos(θ) | D) cos²(θ) + sin²(θ),C
+345,Math,Hard,Multiple Choice,What is the value of the trigonometric expression cos(2θ) expanded in terms of cosine and sine?,A) 2 sin(θ) cos(θ) | B) 1 - 2 cos²(θ) | C) sin²(θ) - cos²(θ) | D) cos²(θ) - sin²(θ),D
+346,Math,Hard,Multiple Choice,"What is the base of natural logarithms, denoted as the mathematical constant e (approximately 2.718)?",A) Euler's number | B) Archimedes constant | C) Golden ratio | D) Fibonacci number,A
+347,Math,Hard,Multiple Choice,"What is the value of ln(e), the natural logarithm of Euler's number e?",A) 0 | B) 1 | C) e | D) ∞,B
+348,Math,Hard,Multiple Choice,What is the value of ln(1)?,A) 1 | B) e | C) 0 | D) Undefined,C
+349,Math,Hard,Multiple Choice,What is the sum of the angles in radians of any planar triangle?,A) 2π | B) π/2 | C) 3π/2 | D) π,D
+350,Math,Medium,Multiple Choice,"If matrix A is a 2×2 matrix with determinant det(A) = 5, what is det(A⁻¹)?",A) 1/5 | B) -5 | C) 25 | D) 1,A
+351,Math,Hard,Typing,What is the value of the derivative of f(x) = 7x at any point x?,,7
+352,Math,Hard,Multiple Choice,What is the value of 2³ × 2² (which equals 2⁵)?,A) 16 | B) 32 | C) 64 | D) 24,B
+353,Math,Hard,Typing,What is the value of log₁₀(1)?,,0
+354,Math,Easy,Multiple Choice,What is the result of adding 0 to any real number x (Additive Identity property)?,A) 0 | B) 1 | C) x | D) 2x,C
+355,Math,Easy,Multiple Choice,What is the result of multiplying any real number x by 1 (Multiplicative Identity property)?,A) 1 | B) 0 | C) x² | D) x,D
+356,Math,Easy,Multiple Choice,What mathematical property states that a + b = b + a and a × b = b × a?,A) Commutative property | B) Associative property | C) Distributive property | D) Identity property,A
+357,Math,Easy,Multiple Choice,What mathematical property states that a(b + c) = ab + ac?,A) Commutative property | B) Distributive property | C) Associative property | D) Transitive property,B
+358,Math,Easy,Multiple Choice,What mathematical property states that (a + b) + c = a + (b + c)?,A) Commutative property | B) Distributive property | C) Associative property | D) Identity property,C
+359,Math,Easy,Multiple Choice,What is the value of (-3) × 4?,A) 12 | B) -7 | C) 7 | D) -12,D
+360,Math,Easy,Multiple Choice,What is the value of (-16) divided by (-4)?,A) 4 | B) -4 | C) -20 | D) 20,A
+361,Math,Easy,Multiple Choice,What is the value of 5 - (-7)?,A) -2 | B) 12 | C) -12 | D) 2,B
+362,Math,Easy,Multiple Choice,What is the value of 0.25 multiplied by 100?,A) 2.5 | B) 250 | C) 25 | D) 0.025,C
+363,Math,Easy,Multiple Choice,What is the fraction 1/8 expressed as a percentage?,A) 8% | B) 18% | C) 15% | D) 12.5%,D
+364,Math,Easy,Multiple Choice,What is the fraction 1/3 expressed as a repeating decimal?,A) 0.333... | B) 0.3 | C) 0.13 | D) 0.31,A
+365,Math,Easy,Multiple Choice,How many years are in a century?,A) 10 | B) 100 | C) 50 | D) 1000,B
+366,Math,Easy,Multiple Choice,How many years are in a millennium?,A) 100 | B) 500 | C) 1000 | D) 10000,C
+367,Math,Easy,Multiple Choice,How many seconds are in one hour (60 × 60)?,A) 600 | B) 1800 | C) 360 | D) 3600,D
+368,Math,Easy,Multiple Choice,What is the value of the square root of 49?,A) 7 | B) 6 | C) 8 | D) 9,A
+369,Math,Easy,Multiple Choice,What is the value of the square root of 64?,A) 6 | B) 8 | C) 7 | D) 9,B
+370,Math,Easy,Multiple Choice,What is the value of the cube root of 27 (∛27)?,A) 9 | B) 2 | C) 3 | D) 6,C
+371,Math,Easy,Multiple Choice,What is the value of the cube root of 64 (∛64)?,A) 8 | B) 16 | C) 6 | D) 4,D
+372,Math,Easy,Multiple Choice,What is the value of the cube root of 125 (∛125)?,A) 5 | B) 25 | C) 15 | D) 10,A
+373,Math,Easy,Multiple Choice,"How many kilograms are equal to 5,000 grams (since 1 kg = 1,000 g)?",A) 50 kg | B) 5 kg | C) 0.5 kg | D) 500 kg,B
+374,Math,Easy,Typing,What is the value of 10 squared minus 5 squared (10² - 5²)?,,75
+375,Math,Easy,Typing,Solve for x: x / 5 = 12.,,60
+376,Math,Easy,Typing,What is the value of 2 multiplied by 2 multiplied by 2 multiplied by 2 (2⁴)?,,16
+377,Math,Medium,Multiple Choice,"If the ratio of length to width of a rectangle is 4:3 and the width is 9 cm, what is the length?",A) 16 cm | B) 15 cm | C) 12 cm | D) 18 cm,C
+378,Math,Medium,Multiple Choice,A person walks 3 miles north and then 4 miles east. How far are they from the starting point in a straight line (√(3² + 4²))?,A) 7 miles | B) 6 miles | C) 8 miles | D) 5 miles,D
+379,Math,Medium,Multiple Choice,"What is the equation of the line with slope m = 3 passing through the point (0, 5)?",A) y = 3x + 5 | B) y = 5x + 3 | C) y = 3x - 5 | D) y = -3x + 5,A
+380,Math,Medium,Multiple Choice,What is the solution to the system of equations: x + 2y = 8 and x = 2?,A) y = 2 | B) y = 3 | C) y = 4 | D) y = 5,B
+381,Math,Medium,Multiple Choice,"What is the area of a right triangle with hypotenuse 13 and one leg 5 (other leg = √(13² - 5²) = 12, Area = 0.5 × 5 × 12)?",A) 60 | B) 65 | C) 30 | D) 25,C
+382,Math,Medium,Multiple Choice,"If the perimeter of a regular square is 36 cm, what is its area (side = 9 cm)?",A) 72 cm² | B) 64 cm² | C) 90 cm² | D) 81 cm²,D
+383,Math,Medium,Multiple Choice,What is the volume of a sphere formula in terms of radius r?,A) (4/3)πr³ | B) 4πr² | C) (1/3)πr³ | D) 2πr³,A
+384,Math,Medium,Multiple Choice,What is the surface area of a sphere formula in terms of radius r?,A) (4/3)πr² | B) 4πr² | C) 2πr² | D) πr²,B
+385,Math,Medium,Typing,What is the value of 15% of 60?,,9
+386,Math,Medium,Typing,What is the slope of the line given by 2y = 6x + 8?,,3
+387,Math,Hard,Multiple Choice,What is the integral ∫ eˣ dx?,A) x eˣ + C | B) e^(x+1) + C | C) eˣ + C | D) ln(x) + C,C
+388,Math,Hard,Multiple Choice,What is the integral ∫ (1/x) dx for x > 0?,A) 1/x² + C | B) eˣ + C | C) -1/x + C | D) ln(x) + C,D
+389,Math,Hard,Multiple Choice,What is the limit of (1 + 1/n)ⁿ as n approaches infinity?,A) e | B) 1 | C) ∞ | D) 0,A
+390,Math,Hard,Multiple Choice,"What is the sum of the first n terms of an arithmetic progression (Formula: Sₙ = (n/2)(2a₁ + (n - 1)d)) for a₁ = 1, d = 2 (first n odd numbers)?",A) n | B) n² | C) 2n | D) n(n + 1),B
+391,Math,Hard,Multiple Choice,"In modular arithmetic, what is 17 mod 5 (the remainder when 17 is divided by 5)?",A) 3 | B) 1 | C) 2 | D) 4,C
+392,Math,Hard,Multiple Choice,"In modular arithmetic, what is 29 mod 7?",A) 0 | B) 2 | C) 3 | D) 1,D
+393,Math,Hard,Multiple Choice,What is the value of the imaginary unit i squared (i²)?,A) -1 | B) 1 | C) 0 | D) -i,A
+394,Math,Hard,Multiple Choice,What is the value of the imaginary unit i cubed (i³)?,A) 1 | B) -i | C) i | D) -1,B
+395,Math,Hard,Multiple Choice,What is the value of the dot product of orthogonal (perpendicular) vectors u and v?,A) 1 | B) -1 | C) 0 | D) Undefined,C
+396,Math,Hard,Typing,What is the derivative of any constant number c with respect to x (d/dx [c])?,,0
+397,Math,Hard,Multiple Choice,What is the name of a matrix with an equal number of rows and columns?,A) Row matrix | B) Column matrix | C) Scalar matrix | D) Square matrix,D
+398,Math,Hard,Multiple Choice,What is a matrix with all elements equal to zero called?,A) Zero matrix | B) Identity matrix | C) Diagonal matrix | D) Inverse matrix,A
+399,Math,Hard,Multiple Choice,What is a square matrix with ones on the main diagonal and zeros elsewhere called?,A) Null matrix | B) Identity matrix | C) Zero matrix | D) Triangular matrix,B
+400,Math,Hard,Multiple Choice,"If A is a square matrix and A⁻¹ is its multiplicative inverse, what is the product A × A⁻¹?",A) Zero matrix | B) Matrix A | C) Identity matrix | D) Scalar 1,C
+401,Math,Easy,Multiple Choice,What is the ancient Greek mathematician Euclid known as in the history of mathematics?,A) The Father of Calculus | B) The Father of Algebra | C) The Father of Probability | D) The Father of Geometry,D
+402,Math,Easy,Multiple Choice,Which Persian mathematician wrote the foundational treatise from whose title the word 'Algebra' is derived?,A) Al-Khwarizmi | B) Omar Khayyam | C) Ibn al-Haytham | D) Al-Biruni,A
+403,Math,Easy,Multiple Choice,"What is the study of the properties and relations of points, lines, surfaces, and solids called?",A) Arithmetic | B) Geometry | C) Statistics | D) Calculus,B
+404,Math,Easy,Multiple Choice,"What is the branch of mathematics dealing with data collection, analysis, interpretation, and presentation?",A) Geometry | B) Topology | C) Statistics | D) Trigonometry,C
+405,Math,Easy,Multiple Choice,What is a mathematical sentence stating that two expressions are equal (=) called?,A) Inequality | B) Expression | C) Term | D) Equation,D
+406,Math,Easy,Multiple Choice,"What is a mathematical statement that compares two values using symbols like <, >, ≤, or ≥ called?",A) Inequality | B) Identity | C) Equation | D) Fraction,A
+407,Math,Easy,Multiple Choice,"What is a whole number that can be positive, negative, or zero called?",A) Decimal | B) Integer | C) Fraction | D) Irrational,B
+408,Math,Easy,Multiple Choice,Which of the following is an irrational number (cannot be expressed as a simple fraction a/b)?,A) 1/2 | B) 0.75 | C) √2 | D) 4,C
+409,Math,Easy,Multiple Choice,Which number is neither prime nor composite?,A) 2 | B) 3 | C) 4 | D) 1,D
+410,Math,Easy,Multiple Choice,What is the value of 50 multiplied by 20?,A) 1000 | B) 100 | C) 500 | D) 2000,A
+411,Math,Easy,Multiple Choice,What is the value of 144 divided by 12?,A) 14 | B) 12 | C) 11 | D) 16,B
+412,Math,Easy,Multiple Choice,How many sides does a triangle have?,A) 4 | B) 5 | C) 3 | D) 6,C
+413,Math,Easy,Multiple Choice,How many sides does a quadrilateral have?,A) 3 | B) 5 | C) 6 | D) 4,D
+414,Math,Easy,Multiple Choice,How many hours are in 2 full days?,A) 48 | B) 24 | C) 36 | D) 72,A
+415,Math,Easy,Multiple Choice,How many days are in a leap year?,A) 365 | B) 366 | C) 364 | D) 360,B
+416,Math,Easy,Multiple Choice,How many centimeters are in 1 meter?,A) 10 | B) 1000 | C) 100 | D) 50,C
+417,Math,Easy,Multiple Choice,How many millimeters are in 1 centimeter?,A) 100 | B) 1000 | C) 5 | D) 10,D
+418,Math,Easy,Multiple Choice,How many meters are in 1 kilometer?,A) 1000 | B) 100 | C) 10000 | D) 500,A
+419,Math,Easy,Multiple Choice,What is the value of 99 + 101?,A) 190 | B) 200 | C) 210 | D) 199,B
+420,Math,Easy,Multiple Choice,What is the value of 500 - 175?,A) 335 | B) 315 | C) 325 | D) 345,C
+421,Math,Easy,Multiple Choice,What is the value of 11 × 11?,A) 111 | B) 131 | C) 122 | D) 121,D
+422,Math,Easy,Multiple Choice,What is the value of 12 × 12?,A) 144 | B) 124 | C) 134 | D) 154,A
+423,Math,Easy,Typing,What is the value of 13 × 13 (13²)?,,169
+424,Math,Easy,Typing,What is the value of 20 squared (20²)?,,400
+425,Math,Easy,Typing,What is the value of 25 × 4?,,100
+426,Math,Easy,Typing,Solve for x: x + 25 = 100.,,75
+427,Math,Medium,Multiple Choice,What is the area of a right isosceles triangle with legs of length 10 cm (Area = 0.5 × 10 × 10)?,A) 100 cm² | B) 50 cm² | C) 25 cm² | D) 75 cm²,B
+428,Math,Medium,Multiple Choice,"If an angle measures 35°, what is the measure of its complement (90° - 35°)?",A) 65° | B) 45° | C) 55° | D) 145°,C
+429,Math,Medium,Multiple Choice,"If an angle measures 110°, what is the measure of its supplement (180° - 110°)?",A) 80° | B) 60° | C) 90° | D) 70°,D
+430,Math,Medium,Multiple Choice,What is the total sum of the interior angles of a 5-sided polygon (pentagon) (Formula: (5 - 2) × 180°)?,A) 540° | B) 360° | C) 720° | D) 900°,A
+431,Math,Medium,Multiple Choice,What is the measure of each interior angle of a regular hexagon (Formula: (6 - 2) × 180° / 6)?,A) 108° | B) 120° | C) 135° | D) 140°,B
+432,Math,Medium,Multiple Choice,"In scientific notation, what is the number 45,000 written as?",A) 45 × 10⁴ | B) 0.45 × 10⁵ | C) 4.5 × 10⁴ | D) 4.5 × 10³,C
+433,Math,Medium,Multiple Choice,"In scientific notation, what is the number 0.0032 written as?",A) 32 × 10⁻⁴ | B) 3.2 × 10⁻² | C) 0.32 × 10⁻² | D) 3.2 × 10⁻³,D
+434,Math,Medium,Multiple Choice,What is the value of the algebraic expression (a + b)² expanded?,A) a² + 2ab + b² | B) a² + b² | C) a² - 2ab + b² | D) 2a + 2b,A
+435,Math,Medium,Multiple Choice,What is the value of the algebraic expression (a - b)² expanded?,A) a² - b² | B) a² - 2ab + b² | C) a² + 2ab + b² | D) a² - ab + b²,B
+436,Math,Medium,Multiple Choice,What is the value of 2⁻³ (2 to the negative power of 3)?,A) -8 | B) -6 | C) 1/8 | D) 1/6,C
+437,Math,Medium,Multiple Choice,What is the value of 5⁻¹?,A) -5 | B) 0.5 | C) -0.2 | D) 1/5,D
+438,Math,Medium,Multiple Choice,"What is the value of (4/9)^(1/2), which is the square root of 4/9?",A) 2/3 | B) 16/81 | C) 3/2 | D) 2/9,A
+439,Math,Medium,Multiple Choice,"What is the value of 27^(1/3), which is the cube root of 27?",A) 9 | B) 3 | C) 1/3 | D) 6,B
+440,Math,Medium,Typing,"What is the value of 10 to the power of -2 (10⁻²), expressed as a decimal?",,0.01
+441,Math,Medium,Typing,Solve for x in the equation: 2^(x) = 32.,,5
+442,Math,Medium,Typing,"What is the arithmetic mean of 12, 16, and 20?",,16
+443,Math,Hard,Multiple Choice,What is the derivative of f(x) = x² with respect to x?,A) x | B) x³ | C) 2x | D) 1,C
+444,Math,Hard,Multiple Choice,What is the derivative of f(x) = x with respect to x?,A) 0 | B) x | C) 2 | D) 1,D
+445,Math,Hard,Multiple Choice,What is the value of the definite integral ∫ 1 dx from x = 0 to x = 10?,A) 10 | B) 0 | C) 1 | D) 5,A
+446,Math,Hard,Multiple Choice,What is the fundamental theorem of calculus connecting differentiation and integration?,A) Derivatives and limits are unrelated | B) Differentiation and integration are inverse processes | C) Integrals only calculate circles | D) Derivatives equal integrals for all functions,B
+447,Math,Hard,Multiple Choice,"In complex numbers, what is (2 + 3i) + (4 + 5i)?",A) 6 + 2i | B) 8 + 15i | C) 6 + 8i | D) 6 - 2i,C
+448,Math,Hard,Multiple Choice,"In complex numbers, what is the product of (1 + i) and (1 - i) (Formula: 1² - i² = 1 - (-1))?",A) 0 | B) 2i | C) -2 | D) 2,D
+449,Math,Hard,Multiple Choice,"What famous mathematical constant is defined as the ratio (1 + √5) / 2, approximately 1.618?",A) The Golden Ratio (Phi) | B) Euler's number (e) | C) Pi (π) | D) Pythagoras constant,A
+450,Math,Hard,Multiple Choice,"What is the famous infinite sequence where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, ...?",A) Arithmetic sequence | B) Fibonacci sequence | C) Geometric sequence | D) Harmonic sequence,B
+451,Math,Hard,Multiple Choice,"What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ...?",A) 20 | B) 26 | C) 21 | D) 18,C
+452,Math,Hard,Multiple Choice,"In set theory, what is the set containing no elements at all called?",A) The universal set | B) The singleton set | C) The infinite set | D) The empty set,D
+453,Math,Hard,Typing,"What is the 8th term of the Fibonacci sequence starting with 1, 1, 2, 3, 5, 8, 13, ...?",,21
+454,Math,Easy,Multiple Choice,What is the symbol commonly used for the empty set in mathematics?,A) ∅ | B) ∞ | C) ∑ | D) √,A
+455,Math,Easy,Multiple Choice,What is the mathematical symbol used to represent infinity?,A) ∅ | B) ∞ | C) π | D) θ,B
+456,Math,Easy,Multiple Choice,What is the mathematical symbol ∑ commonly used for?,A) Product | B) Integral | C) Summation | D) Derivative,C
+457,Math,Easy,Multiple Choice,What is a 9-sided polygon called?,A) Heptagon | B) Octagon | C) Decagon | D) Nonagon,D
+458,Math,Easy,Multiple Choice,What is a 12-sided polygon called?,A) Dodecagon | B) Decagon | C) Nonagon | D) Hendecagon,A
+459,Math,Easy,Multiple Choice,What is a 6-sided polygon called?,A) Pentagon | B) Hexagon | C) Octagon | D) Heptagon,B
+460,Math,Easy,Multiple Choice,What is the value of 15 × 6?,A) 80 | B) 75 | C) 90 | D) 95,C
+461,Math,Easy,Multiple Choice,What is the value of 16 × 5?,A) 70 | B) 75 | C) 85 | D) 80,D
+462,Math,Easy,Multiple Choice,What is the value of 25 × 5?,A) 125 | B) 100 | C) 150 | D) 175,A
+463,Math,Easy,Multiple Choice,What is the value of 500 divided by 25?,A) 15 | B) 20 | C) 25 | D) 30,B
+464,Math,Easy,Multiple Choice,What is the value of 1000 divided by 8?,A) 120 | B) 115 | C) 125 | D) 130,C
+465,Math,Easy,Multiple Choice,What is the value of 2 to the power of 7 (2⁷)?,A) 64 | B) 256 | C) 100 | D) 128,D
+466,Math,Easy,Multiple Choice,What is the value of 2 to the power of 8 (2⁸)?,A) 256 | B) 128 | C) 512 | D) 64,A
+467,Math,Easy,Multiple Choice,What is the value of 2 to the power of 10 (2¹⁰)?,A) 512 | B) 1024 | C) 2048 | D) 1000,B
+468,Math,Easy,Multiple Choice,What is 10% of 1000?,A) 10 | B) 50 | C) 100 | D) 200,C
+469,Math,Easy,Multiple Choice,What is 1% of 500?,A) 50 | B) 0.5 | C) 1 | D) 5,D
+470,Math,Easy,Multiple Choice,What is 5% of 200?,A) 10 | B) 20 | C) 15 | D) 5,A
+471,Math,Easy,Multiple Choice,What is 200% of 40?,A) 40 | B) 80 | C) 60 | D) 100,B
+472,Math,Easy,Multiple Choice,What is 300% of 15?,A) 30 | B) 60 | C) 45 | D) 90,C
+473,Math,Easy,Multiple Choice,What is the value of the Roman numeral V?,A) 1 | B) 10 | C) 50 | D) 5,D
+474,Math,Easy,Multiple Choice,What is the value of the Roman numeral L?,A) 50 | B) 100 | C) 500 | D) 10,A
+475,Math,Easy,Multiple Choice,What is the value of the Roman numeral C?,A) 50 | B) 100 | C) 1000 | D) 500,B
+476,Math,Easy,Typing,What is the value of the Roman numeral D in Arabic numerals?,,500
+477,Math,Easy,Typing,What is the value of the Roman numeral M in Arabic numerals?,,1000
+478,Math,Easy,Typing,What is the value of the Roman numeral IX in Arabic numerals?,,9
+479,Math,Medium,Multiple Choice,What is the value of the Roman numeral XIV in Arabic numerals?,A) 16 | B) 15 | C) 14 | D) 19,C
+480,Math,Medium,Multiple Choice,What is the value of the Roman numeral XL in Arabic numerals (50 - 10)?,A) 60 | B) 90 | C) 30 | D) 40,D
+481,Math,Medium,Multiple Choice,What is the value of the Roman numeral XC in Arabic numerals (100 - 10)?,A) 90 | B) 110 | C) 80 | D) 95,A
+482,Math,Medium,Multiple Choice,What is the value of the Roman numeral CD in Arabic numerals (500 - 100)?,A) 600 | B) 400 | C) 300 | D) 450,B
+483,Math,Medium,Multiple Choice,What is the value of the Roman numeral CM in Arabic numerals (1000 - 100)?,A) 1100 | B) 950 | C) 900 | D) 800,C
+484,Math,Medium,Multiple Choice,"If a right triangle has hypotenuse 25 and one leg 7, what is the length of the other leg (√(25² - 7²))?",A) 20 | B) 22 | C) 26 | D) 24,D
+485,Math,Medium,Multiple Choice,"If a right triangle has hypotenuse 17 and one leg 8, what is the length of the other leg (√(17² - 8²))?",A) 15 | B) 12 | C) 14 | D) 16,A
+486,Math,Medium,Multiple Choice,"If a right triangle has legs of length 9 and 12, what is the length of its hypotenuse (√(9² + 12²))?",A) 16 | B) 15 | C) 18 | D) 20,B
+487,Math,Medium,Multiple Choice,What is the sum of the first 10 positive integers (Formula: 10 × 11 / 2)?,A) 50 | B) 60 | C) 55 | D) 45,C
+488,Math,Medium,Multiple Choice,What is the sum of the first 100 positive integers (Formula: 100 × 101 / 2)?,A) 5000 | B) 5100 | C) 5055 | D) 5050,D
+489,Math,Medium,Multiple Choice,"What is the slope of the line passing through (0, 0) and (4, 8)?",A) 2 | B) 4 | C) 1/2 | D) 8,A
+490,Math,Medium,Typing,"What is the slope of the line passing through (1, 1) and (3, 7)?",,3
+491,Math,Medium,Typing,"What is the slope of the line passing through (2, 5) and (4, 15)?",,5
+492,Math,Hard,Multiple Choice,"What is the cross product magnitude |u × v| of two 3D vectors with magnitudes |u|=3, |v|=4 and angle θ=30° between them (|u||v|sin θ)?",A) 12 | B) 6 | C) 6√3 | D) 0,B
+493,Math,Hard,Multiple Choice,What is the trace of a square matrix defined as in linear algebra?,A) The product of all entries | B) The determinant squared | C) The sum of the diagonal elements | D) The number of rows,C
+494,Math,Hard,Multiple Choice,What is an eigenvalue λ of a square matrix A corresponding to non-zero eigenvector v defined by (Av = λv)?,A) The matrix inverse | B) The trace divided by 2 | C) The matrix determinant | D) A scalar multiplier satisfying Av = λv,D
+495,Math,Hard,Multiple Choice,What is the rank of a matrix defined as?,A) The maximum number of linearly independent rows or columns | B) The total number of non-zero entries | C) The determinant of the matrix | D) The sum of its dimensions,A
+496,Math,Hard,Multiple Choice,"What is the gradient vector ∇f of a multivariable function f(x, y) composed of?",A) The second derivatives | B) The vector of first partial derivatives | C) The integral of the function | D) The tangent plane height,B
+497,Math,Hard,Multiple Choice,What is the Laplace transform of the constant function f(t) = 1 for s > 0?,A) s | B) 1 | C) 1/s | D) 1/s²,C
+498,Math,Hard,Multiple Choice,What is the famous mathematical identity e^(iπ) + 1 = 0 known as?,A) Gauss's Lemma | B) Fermat's Little Theorem | C) De Moivre's Theorem | D) Euler's Identity,D
+499,Math,Hard,Multiple Choice,What is the value of e^(iπ) in Euler's identity (e^(iπ) = -1)?,A) -1 | B) 0 | C) 1 | D) i,A
+500,Math,Hard,Typing,What is the determinant of a 2×2 diagonal matrix with diagonal entries 3 and 7?,,21

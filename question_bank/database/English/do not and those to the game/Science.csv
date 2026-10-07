@@ -1,0 +1,501 @@
+﻿number,subject,difficulty,question_type,question,multiple_choices,answer
+1,Science,Easy,Multiple Choice,What essential gas do humans and animals breathe in to survive?,A) Oxygen | B) Carbon dioxide | C) Nitrogen | D) Helium,A
+2,Science,Easy,Multiple Choice,What organ in the human body is responsible for pumping blood throughout the circulatory system?,A) Lungs | B) Heart | C) Liver | D) Stomach,B
+3,Science,Easy,Multiple Choice,"What process do green plants use to convert sunlight, water, and carbon dioxide into food and oxygen?",A) Respiration | B) Fermentation | C) Photosynthesis | D) Transpiration,C
+4,Science,Easy,Multiple Choice,Which organ is the largest organ of the human body by surface area?,A) Liver | B) Brain | C) Small intestine | D) Skin,D
+5,Science,Easy,Multiple Choice,What hard mineral structures in the human body make up the skeletal system?,A) Bones | B) Muscles | C) Tendons | D) Ligaments,A
+6,Science,Easy,Multiple Choice,What is the green pigment found in plant leaves that absorbs sunlight for photosynthesis?,A) Carotene | B) Chlorophyll | C) Melanin | D) Hemoglobin,B
+7,Science,Easy,Multiple Choice,How many chambers does a normal human heart have?,A) 2 | B) 3 | C) 4 | D) 6,C
+8,Science,Easy,Multiple Choice,What type of animal lays eggs and has feathers and wings?,A) Mammal | B) Reptile | C) Amphibian | D) Bird,D
+9,Science,Easy,Multiple Choice,Which warm-blooded animals feed their young with mother's milk and typically have fur or hair?,A) Mammals | B) Reptiles | C) Amphibians | D) Insects,A
+10,Science,Easy,Multiple Choice,What gas do plants absorb from the atmosphere during photosynthesis?,A) Oxygen | B) Carbon dioxide | C) Nitrogen | D) Methane,B
+11,Science,Easy,Multiple Choice,What is the primary function of the human lungs?,A) Digest food | B) Filter blood waste | C) Exchange oxygen and carbon dioxide | D) Pump blood,C
+12,Science,Easy,Multiple Choice,What sense organ is responsible for detecting sound waves?,A) Eye | B) Nose | C) Tongue | D) Ear,D
+13,Science,Easy,Multiple Choice,What is the basic structural and functional unit of all living organisms?,A) Cell | B) Tissue | C) Organ | D) Molecule,A
+14,Science,Easy,Multiple Choice,"Which animal group includes frogs, toads, and salamanders that can live both in water and on land?",A) Reptiles | B) Amphibians | C) Fish | D) Crustaceans,B
+15,Science,Easy,Multiple Choice,"What colored fluid carries oxygen, nutrients, and immune cells throughout the human body?",A) Lymph | B) Bile | C) Blood | D) Plasma,C
+16,Science,Easy,Multiple Choice,What is an animal that eats only plants called?,A) Carnivore | B) Omnivore | C) Decomposer | D) Herbivore,D
+17,Science,Easy,Multiple Choice,What is an animal that eats only meat and other animals called?,A) Carnivore | B) Herbivore | C) Omnivore | D) Scavenger,A
+18,Science,Easy,Multiple Choice,What is an animal that eats both plants and animals called?,A) Herbivore | B) Omnivore | C) Carnivore | D) Parasite,B
+19,Science,Easy,Multiple Choice,How many legs does a typical adult insect have?,A) 4 | B) 8 | C) 6 | D) 10,C
+20,Science,Easy,Multiple Choice,How many legs does a spider (arachnid) have?,A) 6 | B) 10 | C) 12 | D) 8,D
+21,Science,Easy,Multiple Choice,What is the process where a caterpillar transforms into a butterfly called?,A) Metamorphosis | B) Hibernation | C) Germination | D) Pollination,A
+22,Science,Easy,Multiple Choice,Which organ in the human body filters waste from the blood to produce urine?,A) Heart | B) Kidneys | C) Stomach | D) Spleen,B
+23,Science,Easy,Typing,What is the liquid tissue pumped by the heart throughout the body?,,blood
+24,Science,Easy,Typing,What organ in the head controls the human nervous system and thoughts?,,brain
+25,Science,Easy,Typing,What part of a plant grows underground to absorb water and nutrients from the soil?,,roots
+26,Science,Easy,Typing,What sweet liquid produced by flowers attracts bees and butterflies?,,nectar
+27,Science,Medium,Multiple Choice,What organelle is known as the 'powerhouse of the cell' because it generates most of the chemical energy (ATP)?,A) Nucleus | B) Ribosome | C) Mitochondria | D) Endoplasmic reticulum,C
+28,Science,Medium,Multiple Choice,What molecule contains the genetic instructions used in the development and functioning of all living organisms?,A) ATP | B) RNA | C) Glucose | D) DNA,D
+29,Science,Medium,Multiple Choice,Which blood cells are primarily responsible for fighting infections and pathogens in the body?,A) White blood cells | B) Red blood cells | C) Platelets | D) Plasma cells,A
+30,Science,Medium,Multiple Choice,What iron-rich protein in red blood cells binds and transports oxygen from the lungs to tissues?,A) Myoglobin | B) Hemoglobin | C) Collagen | D) Keratin,B
+31,Science,Medium,Multiple Choice,What type of blood vessel carries oxygenated blood away from the heart to the rest of the body?,A) Veins | B) Capillaries | C) Arteries | D) Venules,C
+32,Science,Medium,Multiple Choice,What type of blood vessel returns deoxygenated blood back to the heart?,A) Arteries | B) Arterioles | C) Aorta | D) Veins,D
+33,Science,Medium,Multiple Choice,Which gland located at the base of the brain is often called the 'master gland' because it regulates other endocrine glands?,A) Pituitary gland | B) Thyroid gland | C) Adrenal gland | D) Pancreas,A
+34,Science,Medium,Multiple Choice,What hormone produced by the pancreas allows cells to absorb glucose from the bloodstream?,A) Glucagon | B) Insulin | C) Adrenaline | D) Thyroxine,B
+35,Science,Medium,Multiple Choice,"In genetics, what term describes the observable physical traits of an organism resulting from its genetic makeup?",A) Genotype | B) Karyotype | C) Phenotype | D) Allele,C
+36,Science,Medium,Multiple Choice,What type of cell division produces two genetically identical daughter cells for growth and tissue repair?,A) Meiosis | B) Binary fission | C) Budding | D) Mitosis,D
+37,Science,Medium,Multiple Choice,What specialized type of cell division reduces the chromosome number by half to produce gametes (sperm and egg cells)?,A) Meiosis | B) Mitosis | C) Cytokinesis | D) Cleavage,A
+38,Science,Medium,Multiple Choice,Which layer of plant cells contains tiny microscopic pores that open and close to regulate gas exchange and water loss?,A) Cuticle | B) Stomata | C) Xylem | D) Phloem,B
+39,Science,Medium,Multiple Choice,What vascular plant tissue transports water and dissolved minerals upwards from the roots to the leaves?,A) Phloem | B) Cortex | C) Xylem | D) Pith,C
+40,Science,Medium,Typing,What organelle in plant cells is the site where photosynthesis takes place?,,chloroplast
+41,Science,Medium,Typing,What is the biological term for an organism that makes its own food through photosynthesis or chemosynthesis?,,autotroph
+42,Science,Medium,Typing,How many total chromosomes are found in a normal human somatic (body) cell?,,46
+43,Science,Hard,Multiple Choice,"In cellular respiration, what metabolic pathway occurs in the cytosol and breaks down one glucose molecule into two pyruvate molecules?",A) Krebs cycle | B) Oxidative phosphorylation | C) Electron transport chain | D) Glycolysis,D
+44,Science,Hard,Multiple Choice,Which nitrogenous base pairs specifically with adenine in a double-stranded DNA molecule?,A) Thymine | B) Cytosine | C) Guanine | D) Uracil,A
+45,Science,Hard,Multiple Choice,"In RNA molecules, which pyrimidine base replaces thymine to pair with adenine?",A) Cytosine | B) Uracil | C) Guanine | D) Inosine,B
+46,Science,Hard,Multiple Choice,What enzyme is responsible for synthesizing new DNA strands by adding complementary nucleotides during DNA replication?,A) RNA polymerase | B) DNA ligase | C) DNA polymerase | D) Helicase,C
+47,Science,Hard,Multiple Choice,What is the primary function of the myelin sheath that covers the axons of many neurons?,A) Produce neurotransmitters | B) Store glycogen | C) Anchor the neuron to blood vessels | D) Increase the speed of electrical nerve impulse transmission,D
+48,Science,Hard,Multiple Choice,"In the human immune system, which cells are responsible for producing antigen-specific antibodies?",A) B lymphocytes | B) Cytotoxic T cells | C) Helper T cells | D) Macrophages,A
+49,Science,Hard,Multiple Choice,What is the primary neurotransmitter released at the neuromuscular junction to trigger skeletal muscle contraction?,A) Dopamine | B) Acetylcholine | C) Serotonin | D) Norepinephrine,B
+50,Science,Hard,Multiple Choice,"In plant physiology, what plant hormone promotes cell elongation, apical dominance, and phototropism?",A) Abscisic acid | B) Ethylene | C) Auxin | D) Gibberellin,C
+51,Science,Hard,Multiple Choice,What is the high-energy nucleotide molecule that serves as the universal energy currency of living cells?,A) DNA | B) RNA | C) NADH | D) ATP,D
+52,Science,Hard,Typing,What cellular process transcribes genetic code from DNA into messenger RNA (mRNA)?,,transcription
+53,Science,Hard,Typing,What cellular structure composed of ribosomal RNA and proteins synthesizes polypeptides during translation?,,ribosome
+54,Science,Easy,Multiple Choice,What organ in the human body produces bile to help digest fats?,A) Liver | B) Stomach | C) Spleen | D) Pancreas,A
+55,Science,Easy,Multiple Choice,What is the primary mineral stored in human bones that gives them strength and rigidity?,A) Iron | B) Calcium | C) Potassium | D) Sodium,B
+56,Science,Easy,Multiple Choice,Which part of the eye regulates the amount of light that enters through the pupil?,A) Retina | B) Cornea | C) Iris | D) Lens,C
+57,Science,Easy,Multiple Choice,What is the name of the tube that connects the throat to the stomach for transporting swallowed food?,A) Trachea | B) Larynx | C) Bronchus | D) Esophagus,D
+58,Science,Easy,Multiple Choice,What is the windpipe that carries air from the throat into the lungs called?,A) Trachea | B) Esophagus | C) Pharynx | D) Urethra,A
+59,Science,Easy,Multiple Choice,Which domestic animal is known scientifically as Canis lupus familiaris?,A) Cat | B) Dog | C) Horse | D) Cow,B
+60,Science,Easy,Multiple Choice,Which ocean mammal is the largest known animal to have ever lived on Earth?,A) Sperm whale | B) Orca | C) Blue whale | D) Megalodon,C
+61,Science,Easy,Multiple Choice,What type of organism breaks down dead plant and animal matter into basic soil nutrients?,A) Producer | B) Primary consumer | C) Predator | D) Decomposer,D
+62,Science,Easy,Multiple Choice,What is the sticky powdery substance produced by flowering plants that is transferred during pollination?,A) Pollen | B) Sap | C) Resin | D) Nectar,A
+63,Science,Easy,Multiple Choice,"What is the hard protective outer skeleton found on insects, crabs, and lobsters called?",A) Endoskeleton | B) Exoskeleton | C) Backbone | D) Cartilage,B
+64,Science,Easy,Typing,What is the normal resting body temperature of a healthy human in degrees Celsius?,,37
+65,Science,Easy,Multiple Choice,Which vitamin is synthesized in human skin when exposed to natural sunlight?,A) Vitamin C | B) Vitamin A | C) Vitamin D | D) Vitamin B12,C
+66,Science,Easy,Multiple Choice,What citrus fruit vitamin is essential for preventing the deficiency disease scurvy?,A) Vitamin A | B) Vitamin D | C) Vitamin K | D) Vitamin C,D
+67,Science,Easy,Multiple Choice,"Which chamber of the human brain controls balance, posture, and muscle coordination?",A) Cerebellum | B) Cerebrum | C) Brainstem | D) Hypothalamus,A
+68,Science,Easy,Multiple Choice,What is the jelly-like substance that fills the interior of a biological cell called?,A) Nucleoplasm | B) Cytoplasm | C) Serum | D) Vacuole,B
+69,Science,Easy,Multiple Choice,What is the thin flexible barrier that encloses a cell and regulates what enters and exits?,A) Cell wall | B) Nuclear envelope | C) Cell membrane | D) Cytoskeleton,C
+70,Science,Easy,Multiple Choice,Which layer of the Earth supports all forms of biological life?,A) Lithosphere | B) Hydrosphere | C) Atmosphere | D) Biosphere,D
+71,Science,Easy,Multiple Choice,What do pandas primarily eat as their main source of nutrition?,A) Bamboo | B) Eucalyptus | C) Grass | D) Fish,A
+72,Science,Easy,Multiple Choice,What is a group of lions living together in the wild called?,A) Pack | B) Pride | C) Herd | D) Flock,B
+73,Science,Easy,Multiple Choice,Which bird is famous for its inability to fly but excellent swimming and diving in cold oceans?,A) Ostrich | B) Emu | C) Penguin | D) Kiwi,C
+74,Science,Easy,Multiple Choice,What is the largest land mammal currently living on Earth?,A) Hippopotamus | B) White rhinoceros | C) Giraffe | D) African elephant,D
+75,Science,Easy,Multiple Choice,"Which blood vessels have microscopic, thin walls that allow the exchange of gases and nutrients with tissues?",A) Capillaries | B) Arteries | C) Veins | D) Aorta,A
+76,Science,Easy,Typing,What is the scientific term for an animal that eats only other animals?,,carnivore
+77,Science,Easy,Typing,What is the protective outer layer of human skin called?,,epidermis
+78,Science,Easy,Typing,What type of microorganism causes the common flu and cold?,,virus
+79,Science,Medium,Multiple Choice,What digestive enzyme found in human saliva begins the chemical breakdown of starches into sugars?,A) Pepsin | B) Amylase | C) Lipase | D) Trypsin,B
+80,Science,Medium,Multiple Choice,"In the human digestive system, where does the majority of nutrient absorption take place?",A) Stomach | B) Large intestine | C) Small intestine | D) Esophagus,C
+81,Science,Medium,Multiple Choice,What is the primary function of the large intestine (colon) in human digestion?,A) Digest proteins | B) Secrete bile | C) Neutralize stomach acid | D) Absorb water and form solid waste,D
+82,Science,Medium,Multiple Choice,What tough bands of connective tissue attach skeletal muscles to bones?,A) Tendons | B) Ligaments | C) Cartilage | D) Fascia,A
+83,Science,Medium,Multiple Choice,What tough bands of fibrous tissue connect bones to other bones at a joint?,A) Tendons | B) Ligaments | C) Muscles | D) Fascia,B
+84,Science,Medium,Multiple Choice,What is the protective fluid-filled sac that surrounds and cushions a developing fetus in the womb?,A) Placenta | B) Umbilical cord | C) Amniotic sac | D) Yolk sac,C
+85,Science,Medium,Multiple Choice,What gas is released as a byproduct when yeast ferments sugars during bread making?,A) Oxygen | B) Methane | C) Hydrogen | D) Carbon dioxide,D
+86,Science,Medium,Multiple Choice,What biological term describes the maintenance of a stable internal physiological environment despite external changes?,A) Homeostasis | B) Metabolism | C) Osmosis | D) Adaptation,A
+87,Science,Medium,Multiple Choice,Which blood type is known as the 'universal red blood cell donor' because its RBCs lack A and B surface antigens?,A) Type A positive | B) Type O negative | C) Type AB positive | D) Type B negative,B
+88,Science,Medium,Multiple Choice,Which blood type is known as the 'universal recipient' for red blood cells because the individual has neither anti-A nor anti-B antibodies?,A) Type O negative | B) Type A negative | C) Type AB positive | D) Type B positive,C
+89,Science,Medium,Multiple Choice,What genetic disorder is caused by an extra copy of chromosome 21 (Trisomy 21)?,A) Turner syndrome | B) Klinefelter syndrome | C) Cystic fibrosis | D) Down syndrome,D
+90,Science,Medium,Multiple Choice,"In genetics, who is recognized as the 'Father of Modern Genetics' for his breeding experiments with pea plants?",A) Gregor Mendel | B) Charles Darwin | C) Louis Pasteur | D) James Watson,A
+91,Science,Medium,Typing,What is the process of water diffusion across a semi-permeable membrane called?,,osmosis
+92,Science,Medium,Multiple Choice,What chemical element is the structural backbone of all organic molecules in living organisms?,A) Oxygen | B) Carbon | C) Nitrogen | D) Hydrogen,B
+93,Science,Hard,Multiple Choice,"In molecular biology, what region of an enzyme specifically binds to the substrate during a catalytic reaction?",A) Allosteric site | B) Cofactor cleft | C) Active site | D) Regulatory domain,C
+94,Science,Hard,Multiple Choice,"What term describes the programmed, regulated self-destruction of a cell in multicellular organisms?",A) Necrosis | B) Autophagy | C) Lysis | D) Apoptosis,D
+95,Science,Hard,Multiple Choice,"In the kidney, what microscopic functional unit consists of a glomerulus and surrounding tubule system to filter blood?",A) Nephron | B) Neuron | C) Alveolus | D) Hepatocyte,A
+96,Science,Hard,Multiple Choice,Which hormone produced by the adrenal medulla triggers the body's acute 'fight-or-flight' stress response?,A) Cortisol | B) Epinephrine | C) Aldosterone | D) Melatonin,B
+97,Science,Hard,Multiple Choice,"In ecological trophic pyramids, approximately what percentage of energy is transferred from one trophic level to the next higher level?",A) 50% | B) 25% | C) 10% | D) 1%,C
+98,Science,Medium,Multiple Choice,"What is the specialized vascular structure in mammals that facilitates nutrient, gas, and waste exchange between mother and fetus?",A) Amnion | B) Chorion | C) Allantois | D) Placenta,D
+99,Science,Hard,Multiple Choice,Which phase of the eukaryotic cell cycle is characterized by active DNA replication?,A) S phase | B) G1 phase | C) G2 phase | D) M phase,A
+100,Science,Hard,Typing,What is the term for an organism's complete set of genetic material and DNA sequences?,,genome
+101,Science,Easy,Multiple Choice,"What is the chemical formula for water, consisting of two hydrogen atoms and one oxygen atom?",A) CO2 | B) H2O | C) NaCl | D) CH4,B
+102,Science,Easy,Multiple Choice,What is the boiling point of pure water at standard sea level atmospheric pressure in degrees Celsius?,A) 0°C | B) 50°C | C) 100°C | D) 212°C,C
+103,Science,Easy,Multiple Choice,What is the freezing point of pure water at standard atmospheric pressure in degrees Celsius?,A) 32°C | B) -10°C | C) 10°C | D) 0°C,D
+104,Science,Easy,Multiple Choice,What state of matter has a fixed volume and rigid shape?,A) Solid | B) Gas | C) Liquid | D) Plasma,A
+105,Science,Easy,Multiple Choice,What state of matter flows to take the shape of its container but maintains a constant volume?,A) Solid | B) Liquid | C) Gas | D) Plasma,B
+106,Science,Easy,Multiple Choice,What state of matter expands freely to fill the entire shape and volume of any container?,A) Solid | B) Liquid | C) Gas | D) Crystal,C
+107,Science,Easy,Multiple Choice,What is the positively charged subatomic particle located in the nucleus of an atom?,A) Electron | B) Neutron | C) Photon | D) Proton,D
+108,Science,Easy,Multiple Choice,What subatomic particle carries a negative electric charge and orbits the nucleus?,A) Electron | B) Proton | C) Neutron | D) Positron,A
+109,Science,Easy,Multiple Choice,What subatomic particle in an atomic nucleus has no electrical charge (neutral)?,A) Electron | B) Neutron | C) Proton | D) Quarks,B
+110,Science,Easy,Multiple Choice,"What is the lightest and most abundant chemical element in the universe, having atomic number 1?",A) Helium | B) Carbon | C) Hydrogen | D) Oxygen,C
+111,Science,Easy,Multiple Choice,What is the chemical symbol for Helium on the periodic table?,A) H | B) Hm | C) Hl | D) He,D
+112,Science,Easy,Multiple Choice,What common household mineral substance is chemically known as sodium chloride (NaCl)?,A) Table salt | B) Baking soda | C) Sugar | D) Chalk,A
+113,Science,Easy,Multiple Choice,What happens to liquid water when it is heated to its boiling point?,A) It freezes into ice | B) It turns into steam | C) It becomes denser | D) It separates into sodium,B
+114,Science,Easy,Multiple Choice,What happens to liquid water when it is cooled below 0°C?,A) It evaporates | B) It turns into a plasma | C) It freezes into solid ice | D) It boils,C
+115,Science,Easy,Multiple Choice,What is the center part of an atom containing protons and neutrons called?,A) Electron cloud | B) Shell | C) Orbital | D) Nucleus,D
+116,Science,Easy,Multiple Choice,"Which gas is the most abundant gas in Earth's atmosphere, making up about 78% of the air?",A) Nitrogen | B) Oxygen | C) Carbon dioxide | D) Argon,A
+117,Science,Easy,Multiple Choice,What substance is known as the 'universal solvent' because it dissolves more substances than any other liquid?,A) Alcohol | B) Water | C) Oil | D) Vinegar,B
+118,Science,Easy,Multiple Choice,What is the chemical symbol for Gold on the periodic table?,A) Ag | B) Gd | C) Au | D) Go,C
+119,Science,Easy,Multiple Choice,What is the chemical symbol for Silver on the periodic table?,A) Au | B) Si | C) Sv | D) Ag,D
+120,Science,Easy,Multiple Choice,What is the chemical symbol for Iron on the periodic table?,A) Fe | B) Ir | C) In | D) Fn,A
+121,Science,Easy,Multiple Choice,What is the process where a solid turns directly into a liquid by applying heat?,A) Freezing | B) Melting | C) Condensation | D) Evaporation,B
+122,Science,Easy,Multiple Choice,What is the process where a liquid changes into a gas below its boiling point?,A) Sublimation | B) Condensation | C) Evaporation | D) Freezing,C
+123,Science,Easy,Typing,What is the chemical symbol for Carbon on the periodic table?,,C
+124,Science,Easy,Typing,What is the chemical symbol for Oxygen on the periodic table?,,O
+125,Science,Easy,Typing,What is the chemical symbol for Sodium on the periodic table?,,Na
+126,Science,Easy,Typing,What common solid forms when liquid water freezes?,,ice
+127,Science,Medium,Multiple Choice,"When you mix baking soda (sodium bicarbonate) with vinegar (acetic acid), what gas vigorously bubbles and effervesces out?",A) Hydrogen gas | B) Methane | C) Chlorine gas | D) Carbon dioxide,D
+128,Science,Medium,Multiple Choice,Why should household bleach (sodium hypochlorite) and ammonia NEVER be mixed together?,A) It releases highly toxic chloramine gas | B) It causes an immediate fire | C) It creates solid lead | D) It makes pure water,A
+129,Science,Medium,Multiple Choice,"On the pH scale measuring acidity and alkalinity, what value represents a completely neutral solution like pure water?",A) 0 | B) 7 | C) 14 | D) 1,B
+130,Science,Medium,Multiple Choice,Liquids with a pH value strictly less than 7 (such as lemon juice and battery acid) are classified as what?,A) Neutral | B) Basic | C) Acidic | D) Inert,C
+131,Science,Medium,Multiple Choice,"Liquids with a pH value strictly greater than 7 (such as soap, bleach, and baking soda solution) are classified as what?",A) Acidic | B) Neutral | C) Acid-free | D) Basic,D
+132,Science,Medium,Multiple Choice,"What is the colorless, odorless, and highly toxic gas produced by the incomplete combustion of fossil fuels that binds to hemoglobin?",A) Carbon monoxide | B) Carbon dioxide | C) Sulfur dioxide | D) Methane,A
+133,Science,Medium,Multiple Choice,"What toxic, pungent green-yellow gas was used historically as a chemical weapon and is found combined in table salt?",A) Fluorine | B) Chlorine | C) Nitrogen | D) Helium,B
+134,Science,Medium,Multiple Choice,"What rotten-egg smelling gas is naturally released by volcanic vents, hot springs, and decaying organic matter?",A) Carbon monoxide | B) Ammonia | C) Hydrogen sulfide | D) Ozone,C
+135,Science,Medium,Multiple Choice,What happens when a reactive alkali metal like pure sodium (Na) or potassium (K) is dropped into a bowl of water?,"A) It slowly freezes the water | B) It immediately sinks and dissolves harmlessly | C) It turns the water into gasoline | D) It vigorously reacts, produces hydrogen gas, and can ignite into flame",D
+136,Science,Medium,Multiple Choice,What chemical reaction occurs when iron reacts slowly with oxygen in the presence of water or moisture?,A) Rusting | B) Fermentation | C) Sublimation | D) Polymerization,A
+137,Science,Medium,Multiple Choice,What is the chemical name and formula for common household baking soda?,A) Sodium hydroxide (NaOH) | B) Sodium bicarbonate (NaHCO3) | C) Sodium chloride (NaCl) | D) Calcium carbonate (CaCO3),B
+138,Science,Medium,Multiple Choice,"What is the chemical formula for carbon dioxide, a common greenhouse gas exhaled by animals?",A) CO | B) C2O | C) CO2 | D) CH4,C
+139,Science,Medium,Multiple Choice,What is the main hydrocarbon gas found in natural gas used for home heating and cooking?,A) Propane (C3H8) | B) Butane (C4H10) | C) Acetylene (C2H2) | D) Methane (CH4),D
+140,Science,Medium,Typing,What is the pH value of pure distilled water at 25 degrees Celsius?,,7
+141,Science,Medium,Typing,What is the chemical formula for common table salt?,,NaCl
+142,Science,Medium,Typing,What is the transition of a substance directly from solid to gas without passing through a liquid phase called?,,sublimation
+143,Science,Hard,Multiple Choice,"According to Le Chatelier's principle, what happens to an exothermic chemical equilibrium when the temperature of the system is increased?",A) The equilibrium shifts in the endothermic direction | B) The reaction shifts toward the products | C) The equilibrium constant increases | D) The reaction stops permanently,A
+144,Science,Hard,Multiple Choice,What type of chemical bond involves the equal sharing of electron pairs between two non-metal atoms with identical electronegativities?,A) Ionic bond | B) Nonpolar covalent bond | C) Metallic bond | D) Hydrogen bond,B
+145,Science,Hard,Multiple Choice,What type of chemical bond is formed by the electrostatic attraction between oppositely charged ions (such as Na+ and Cl-)?,A) Covalent bond | B) Hydrogen bond | C) Ionic bond | D) Van der Waals bond,C
+146,Science,Medium,Multiple Choice,"In the ideal gas law PV = nRT, what physical quantity does the variable 'n' represent?",A) Pressure in atmospheres | B) Volume in liters | C) Absolute temperature | D) Number of moles of gas,D
+147,Science,Hard,Multiple Choice,"What is the value of Avogadro's constant, representing the number of constituent particles per mole of substance?",A) 6.022 × 10^23 | B) 3.00 × 10^8 | C) 1.602 × 10^-19 | D) 9.81 × 10^2,A
+148,Science,Hard,Multiple Choice,"In organic chemistry, what orbital hybridization gives a carbon atom a tetrahedral molecular geometry with 109.5° bond angles (as in methane)?",A) sp | B) sp3 | C) sp2 | D) sp3d,B
+149,Science,Hard,Multiple Choice,"In a redox (oxidation-reduction) reaction, what process occurs when a chemical species loses electrons?",A) Reduction | B) Protonation | C) Oxidation | D) Hydrolysis,C
+150,Science,Hard,Multiple Choice,"In a redox reaction, what process occurs when a chemical species gains electrons?",A) Oxidation | B) Dehydration | C) Condensation | D) Reduction,D
+151,Science,Hard,Multiple Choice,What is the atomic number of Carbon on the periodic table?,A) 6 | B) 12 | C) 14 | D) 8,A
+152,Science,Hard,Multiple Choice,What is the atomic number of Oxygen on the periodic table?,A) 6 | B) 8 | C) 7 | D) 16,B
+153,Science,Hard,Typing,What is the SI unit of measurement for amount of substance?,,mole
+154,Science,Easy,Multiple Choice,What is the physical process where gas vapor cools down and turns back into a liquid (such as dew forming on grass)?,A) Evaporation | B) Freezing | C) Condensation | D) Sublimation,C
+155,Science,Easy,Multiple Choice,Which element is a noble gas used in colorful glowing lighting signs?,A) Nitrogen | B) Hydrogen | C) Carbon | D) Neon,D
+156,Science,Easy,Multiple Choice,What is the common name for solid carbon dioxide that sublimates directly into gas at room temperature?,A) Dry ice | B) Wet ice | C) Quartz | D) Silica gel,A
+157,Science,Easy,Multiple Choice,What shiny liquid metal at room temperature was traditionally used in old glass fever thermometers?,A) Lead | B) Mercury | C) Aluminum | D) Zinc,B
+158,Science,Easy,Multiple Choice,What is the chemical symbol for Potassium on the periodic table?,A) P | B) Pt | C) K | D) Po,C
+159,Science,Easy,Multiple Choice,What is the chemical symbol for Lead on the periodic table?,A) Ld | B) Le | C) Pl | D) Pb,D
+160,Science,Easy,Multiple Choice,What substance made of carbon crystals is the hardest naturally occurring mineral on Mohs hardness scale?,A) Diamond | B) Quartz | C) Topaz | D) Corundum,A
+161,Science,Easy,Multiple Choice,What black form of pure carbon is commonly used as pencil 'lead'?,A) Diamond | B) Graphite | C) Charcoal | D) Graphene,B
+162,Science,Easy,Multiple Choice,"What is a mixture of two or more metals, such as bronze or brass, called?",A) Isotope | B) Monomer | C) Alloy | D) Polymer,C
+163,Science,Easy,Multiple Choice,Bronze is a classic metal alloy primarily composed of copper mixed with which other metal?,A) Iron | B) Lead | C) Nickel | D) Tin,D
+164,Science,Easy,Multiple Choice,Brass is a metal alloy composed of copper combined with which other metal?,A) Zinc | B) Silver | C) Gold | D) Platinum,A
+165,Science,Easy,Multiple Choice,"What type of chemical reaction absorbs heat from its surroundings, making the container feel cold?",A) Exothermic reaction | B) Endothermic reaction | C) Combustion | D) Corrosion,B
+166,Science,Easy,Multiple Choice,What type of chemical reaction releases heat and energy into its surroundings (such as a burning candle)?,A) Endothermic reaction | B) Photosynthesis | C) Exothermic reaction | D) Electrolysis,C
+167,Science,Easy,Multiple Choice,What is the measure of the amount of matter packed into a given volume (Mass / Volume)?,A) Weight | B) Volume | C) Pressure | D) Density,D
+168,Science,Easy,Multiple Choice,"If an object has a lower density than liquid water (less than 1.0 g/cm³), what will it do when placed in water?",A) Float on the surface | B) Sink to the bottom | C) Dissolve instantly | D) Boil the water,A
+169,Science,Easy,Multiple Choice,What happens to the volume of liquid water as it freezes into ice?,A) It contracts (volume decreases) | B) It expands (volume increases) | C) Its volume remains identical | D) It shrinks to half its size,B
+170,Science,Easy,Multiple Choice,What is a homogeneous mixture of one substance dissolved completely inside another substance called?,A) Suspension | B) Colloid | C) Solution | D) Emulsion,C
+171,Science,Easy,Multiple Choice,"In a saltwater solution, what is the dissolved salt component called?",A) Solvent | B) Catalyst | C) Precipitate | D) Solute,D
+172,Science,Easy,Multiple Choice,"In a saltwater solution, what is the liquid water that does the dissolving called?",A) Solvent | B) Solute | C) Reagent | D) Acid,A
+173,Science,Easy,Multiple Choice,"What fast chemical reaction between a fuel and oxygen gas produces fire, heat, and light?",A) Neutralization | B) Combustion | C) Precipitation | D) Fermentation,B
+174,Science,Easy,Multiple Choice,What three components are required to start and sustain a fire in the classic 'fire triangle'?,"A) Water, wood, and ash | B) Carbon, hydrogen, and nitrogen | C) Fuel, oxygen, and heat | D) Electricity, oil, and smoke",C
+175,Science,Easy,Multiple Choice,What element gives safety match heads their striking and igniting property?,A) Calcium | B) Carbon | C) Helium | D) Phosphorus,D
+176,Science,Easy,Typing,What is the chemical symbol for Helium?,,He
+177,Science,Easy,Typing,What is the chemical symbol for Calcium on the periodic table?,,Ca
+178,Science,Easy,Typing,What is the chemical symbol for Nitrogen on the periodic table?,,N
+179,Science,Medium,Multiple Choice,What acid is naturally produced in the human stomach to aid protein digestion and kill harmful bacteria?,A) Hydrochloric acid | B) Sulfuric acid | C) Nitric acid | D) Acetic acid,A
+180,Science,Medium,Multiple Choice,What happens when you add an acid (like HCl) to a base (like NaOH)?,A) They create toxic mustard gas | B) They neutralize each other to produce water and a salt | C) They form solid gold | D) They freeze immediately into dry ice,B
+181,Science,Medium,Multiple Choice,What color does blue litmus paper turn when dipped into an acidic solution?,A) Blue | B) Green | C) Red | D) Yellow,C
+182,Science,Medium,Multiple Choice,What color does red litmus paper turn when dipped into a basic (alkaline) solution?,A) Red | B) Orange | C) Colorless | D) Blue,D
+183,Science,Medium,Multiple Choice,What is the dense core of an atom that contains almost all of the atom's total mass?,A) Atomic nucleus | B) Electron shell | C) Valence band | D) Positron cloud,A
+184,Science,Medium,Multiple Choice,Atoms of the same chemical element that have the same number of protons but different numbers of neutrons are called what?,A) Isomers | B) Isotopes | C) Allotropes | D) Ions,B
+185,Science,Medium,Multiple Choice,An atom that has lost or gained one or more electrons and therefore carries a net electric charge is called what?,A) Molecule | B) Isotope | C) Ion | D) Radical,C
+186,Science,Medium,Multiple Choice,What positively charged ion is formed when a neutral atom loses one or more valence electrons?,A) Anion | B) Positron | C) Neutrino | D) Cation,D
+187,Science,Medium,Multiple Choice,What negatively charged ion is formed when a neutral atom gains one or more valence electrons?,A) Anion | B) Cation | C) Proton | D) Boson,A
+188,Science,Medium,Multiple Choice,"What Russian chemist published the first widely recognized Periodic Table of Elements in 1869, arranging elements by atomic mass?",A) Antoine Lavoisier | B) Dmitri Mendeleev | C) John Dalton | D) Marie Curie,B
+189,Science,Medium,Multiple Choice,What group of elements in the far-right column of the periodic table (Group 18) are extremely unreactive noble gases?,A) Alkali metals | B) Halogens | C) Noble gases | D) Transition metals,C
+190,Science,Medium,Multiple Choice,"What group of highly reactive non-metal elements in Group 17 includes fluorine, chlorine, bromine, and iodine?",A) Alkali metals | B) Alkaline earth metals | C) Actinides | D) Halogens,D
+191,Science,Medium,Multiple Choice,What is the name of the vertical columns in the periodic table that contain elements with similar chemical properties?,A) Group | B) Period | C) Series | D) Block,A
+192,Science,Medium,Typing,What is the name of the horizontal rows across the periodic table?,,period
+193,Science,Hard,Multiple Choice,What fundamental chemical principle states that no two electrons in an atom can have the identical set of four quantum numbers?,A) Hund's rule | B) Pauli exclusion principle | C) Heisenberg uncertainty principle | D) Aufbau principle,B
+194,Science,Hard,Multiple Choice,What quantum mechanics principle states that it is fundamentally impossible to simultaneously know both the exact position and momentum of a particle?,A) De Broglie hypothesis | B) Planck's law | C) Heisenberg uncertainty principle | D) Schrödinger equation,C
+195,Science,Hard,Multiple Choice,"In thermochemistry, what state function measures the total heat content and thermal energy of a thermodynamic system (H = U + PV)?",A) Entropy | B) Gibbs free energy | C) Helmholtz energy | D) Enthalpy,D
+196,Science,Hard,Multiple Choice,What thermodynamic property (S) is a measure of the molecular disorder or randomness within a physical system?,A) Entropy | B) Enthalpy | C) Temperature | D) Heat capacity,A
+197,Science,Hard,Multiple Choice,A chemical reaction will occur spontaneously at constant temperature and pressure if its change in Gibbs Free Energy (ΔG) is what?,A) Zero | B) Negative (< 0) | C) Positive (> 0) | D) Infinitely high,B
+198,Science,Hard,Multiple Choice,What is the catalyst in human biological systems that dramatically speeds up chemical reactions without being consumed in the process?,A) Hormone | B) Lipid | C) Enzyme | D) Vitamin,C
+199,Science,Hard,Typing,What is the term for a substance that increases the rate of a chemical reaction without undergoing any permanent chemical change itself?,,catalyst
+200,Science,Hard,Typing,"What is the atomic number of Hydrogen, the simplest element?",,1
+201,Science,Easy,Multiple Choice,What fundamental invisible force pulls objects toward the center of the Earth?,A) Magnetism | B) Friction | C) Air resistance | D) Gravity,D
+202,Science,Easy,Multiple Choice,"What is the speed of light in a vacuum, approximately?","A) 300,000 km/s | B) 300 km/s | C) 1,500 m/s | D) 3,000 km/h",A
+203,Science,Easy,Multiple Choice,What form of energy is stored in an object due to its elevated position above the ground?,A) Kinetic energy | B) Gravitational potential energy | C) Thermal energy | D) Nuclear energy,B
+204,Science,Easy,Multiple Choice,What form of energy does an object possess due to its motion?,A) Chemical energy | B) Potential energy | C) Kinetic energy | D) Static energy,C
+205,Science,Easy,Multiple Choice,What physical phenomenon occurs when light bounces off a shiny surface like a mirror?,A) Refraction | B) Diffraction | C) Absorption | D) Reflection,D
+206,Science,Easy,Multiple Choice,What optical phenomenon causes a pencil to appear bent when partially submerged in a glass of water?,A) Refraction | B) Reflection | C) Dispersion | D) Polarization,A
+207,Science,Easy,Multiple Choice,What type of energy is generated by the movement of electrons through a conductive wire?,A) Thermal energy | B) Electrical energy | C) Solar energy | D) Sound energy,B
+208,Science,Easy,Multiple Choice,Which metal is the most widely used conductor for household electrical wiring due to its high conductivity and affordability?,A) Iron | B) Lead | C) Copper | D) Aluminum,C
+209,Science,Easy,Multiple Choice,What material prevents the flow of electric current and is used to coat electrical wires?,A) Conductor | B) Semiconductor | C) Superconductor | D) Insulator,D
+210,Science,Easy,Multiple Choice,What are the two magnetic poles found on every permanent magnet?,A) North and South | B) East and West | C) Positive and Negative | D) Up and Down,A
+211,Science,Easy,Multiple Choice,What happens when two identical magnetic poles (like North and North) are brought close together?,A) They attract each other | B) They repel each other | C) They cancel each other out | D) They fuse into one,B
+212,Science,Easy,Multiple Choice,What happens when two opposite magnetic poles (North and South) are brought close together?,A) They repel each other | B) They create light | C) They attract each other | D) Nothing happens,C
+213,Science,Easy,Multiple Choice,What physical property of sound determines how high or low a musical note sounds to our ears?,A) Amplitude | B) Loudness | C) Speed | D) Pitch,D
+214,Science,Easy,Multiple Choice,Can sound waves travel through the complete vacuum of outer space?,"A) No, because sound requires a material medium to vibrate | B) Yes, faster than light | C) Yes, but only in low pitch | D) Yes, at the speed of sound",A
+215,Science,Easy,Multiple Choice,What optical device made of transparent triangular glass separates white light into a rainbow of spectrum colors?,A) Lens | B) Prism | C) Mirror | D) Filter,B
+216,Science,Easy,Multiple Choice,What is the standard metric unit used to measure force in physics?,A) Joule | B) Watt | C) Newton | D) Pascal,C
+217,Science,Easy,Multiple Choice,What is the standard metric unit used to measure energy and work in physics?,A) Newton | B) Watt | C) Volt | D) Joule,D
+218,Science,Easy,Multiple Choice,What is the standard metric unit used to measure electrical power (rate of energy consumption)?,A) Watt | B) Volt | C) Ampere | D) Ohm,A
+219,Science,Easy,Multiple Choice,What simple machine consists of a rigid bar pivoted around a fixed fulcrum (like a seesaw or crowbar)?,A) Pulley | B) Lever | C) Wheel and axle | D) Inclined plane,B
+220,Science,Easy,Multiple Choice,What resistive force opposes the sliding motion of two surfaces in contact with each other?,A) Gravity | B) Inertia | C) Friction | D) Tension,C
+221,Science,Easy,Multiple Choice,What is the primary source of all light and thermal energy on Earth?,A) Earth's core | B) The Moon | C) Volcanoes | D) The Sun,D
+222,Science,Easy,Multiple Choice,Which color in the visible light spectrum has the longest wavelength?,A) Red | B) Violet | C) Blue | D) Green,A
+223,Science,Easy,Typing,What is the invisible pulling force between any two masses in the universe?,,gravity
+224,Science,Easy,Typing,What is the unit of electric current named after a French physicist?,,ampere
+225,Science,Easy,Typing,What SI unit of electrical resistance is represented by the Greek symbol Omega (Ω)?,,ohm
+226,Science,Easy,Typing,What optical lens is thicker in the middle than at the edges to converge light rays?,,convex
+227,Science,Medium,Multiple Choice,"According to Newton's First Law of Motion, what will an object at rest or moving in a straight line at constant speed do if no net external force acts on it?",A) Gradually slow down and stop | B) Remain at rest or keep moving at constant velocity | C) Accelerate continuously | D) Turn in circles,B
+228,Science,Medium,Multiple Choice,"What fundamental formula expresses Newton's Second Law of Motion relating force (F), mass (m), and acceleration (a)?",A) F = m / a | B) F = m + a | C) F = m × a | D) F = 1/2 m a²,C
+229,Science,Medium,Multiple Choice,What famous physical principle is stated in Newton's Third Law of Motion?,"A) Energy is conserved | B) Mass increases with speed | C) Gravity decreases with altitude | D) For every action, there is an equal and opposite reaction",D
+230,Science,Medium,Multiple Choice,"What fundamental law of physics states that energy cannot be created or destroyed, only transformed from one form to another?",A) Law of Conservation of Energy | B) Law of Gravity | C) Hooke's Law | D) Coulomb's Law,A
+231,Science,Medium,Multiple Choice,What is the approximate standard acceleration due to gravity (g) near the surface of Earth?,A) 5.0 m/s² | B) 9.8 m/s² | C) 12.4 m/s² | D) 3.14 m/s²,B
+232,Science,Medium,Multiple Choice,"In electrical physics, what fundamental law states that current (I) equals voltage (V) divided by resistance (R) (V = I × R)?",A) Faraday's Law | B) Ampere's Law | C) Ohm's Law | D) Kirchhoff's Law,C
+233,Science,Medium,Multiple Choice,"In a simple electrical circuit, what happens to the total current if you keep the voltage constant and double the resistance?",A) It doubles | B) It quadruples | C) It remains unchanged | D) It is cut in half,D
+234,Science,Medium,Multiple Choice,What is the change in frequency or pitch of a sound wave perceived by an observer moving relative to the sound source (like a passing siren) called?,A) Doppler effect | B) Photoelectric effect | C) Raman effect | D) Compton effect,A
+235,Science,Medium,Multiple Choice,"What type of wave is sound, in which medium particles oscillate parallel to the direction of wave travel?",A) Transverse wave | B) Longitudinal wave | C) Electromagnetic wave | D) Surface wave,B
+236,Science,Medium,Multiple Choice,"What type of wave are light and radio waves, in which electric and magnetic fields oscillate perpendicular to the direction of wave travel?",A) Longitudinal wave | B) Acoustic wave | C) Transverse electromagnetic wave | D) Pressure wave,C
+237,Science,Medium,Multiple Choice,What property of a musical sound or wave corresponds to the height of the wave crest and determines its perceived loudness or intensity?,A) Frequency | B) Wavelength | C) Period | D) Amplitude,D
+238,Science,Medium,Multiple Choice,What physical phenomenon occurs when an electrical conductor moves through a magnetic field to generate an electric voltage (discovered by Michael Faraday)?,A) Electromagnetic induction | B) Electrostatic discharge | C) Superconductivity | D) Thermoelectricity,A
+239,Science,Medium,Multiple Choice,What optical lens is thinner in the center than at the edges and causes parallel light rays to spread apart (diverge)?,A) Convex lens | B) Concave lens | C) Cylindrical lens | D) Plano-convex lens,B
+240,Science,Medium,Typing,What is the standard SI unit of frequency representing one cycle per second?,,hertz
+241,Science,Medium,Typing,What is the standard SI unit of electrical potential difference (voltage)?,,volt
+242,Science,Medium,Typing,What physical quantity is defined as the rate of doing work or transferring energy (measured in watts)?,,power
+243,Science,Hard,Multiple Choice,What famous physics equation formulated by Albert Einstein establishes the equivalence of mass (m) and energy (E)?,A) F = ma | B) PV = nRT | C) E = mc² | D) E = hf,C
+244,Science,Hard,Multiple Choice,"In quantum mechanics, what equation relates the energy (E) of a photon directly to its frequency (f) via Planck's constant (h)?",A) E = mc² | B) E = 1/2 mv² | C) E = qV | D) E = hf,D
+245,Science,Hard,Multiple Choice,"What phenomenon did Albert Einstein explain in 1905, showing that light acts as discrete packets of energy (photons) that eject electrons from metal surfaces?",A) Photoelectric effect | B) Compton scattering | C) Blackbody radiation | D) Pair production,A
+246,Science,Hard,Multiple Choice,What thermodynamic law states that the entropy of a completely isolated system always increases over time in any spontaneous process?,A) Zeroth Law of Thermodynamics | B) Second Law of Thermodynamics | C) First Law of Thermodynamics | D) Third Law of Thermodynamics,B
+247,Science,Medium,Multiple Choice,"What is the theoretical temperature at which all molecular motion ceases, equivalent to 0 Kelvin (-273.15°C)?",A) Triple point | B) Critical temperature | C) Absolute zero | D) Boiling point,C
+248,Science,Hard,Multiple Choice,"In special relativity, what happens to the measured time interval on a clock moving at speeds close to the speed of light relative to a stationary observer?",A) Time flows backwards | B) Time accelerates (runs faster) | C) Time stops permanently | D) Time dilates (runs slower),D
+249,Science,Hard,Multiple Choice,What type of nuclear reaction powers the core of the Sun by combining light hydrogen nuclei into helium under extreme temperature and pressure?,A) Nuclear fusion | B) Nuclear fission | C) Alpha decay | D) Beta decay,A
+250,Science,Hard,Multiple Choice,What type of nuclear reaction occurs in commercial nuclear power plants where heavy uranium-235 nuclei are split by neutrons into smaller fragments?,A) Nuclear fusion | B) Nuclear fission | C) Proton capture | D) Positron emission,B
+251,Science,Hard,Typing,What is the temperature scale that begins at absolute zero (0 K)?,,Kelvin
+252,Science,Hard,Typing,What subatomic particle of light carries electromagnetic radiation?,,photon
+253,Science,Hard,Multiple Choice,What is the SI unit of magnetic field strength (magnetic flux density)?,A) Gauss | B) Weber | C) Tesla | D) Henry,C
+254,Science,Easy,Multiple Choice,What form of heat transfer occurs through direct physical contact between colliding molecules (such as a metal spoon heating in hot soup)?,A) Convection | B) Radiation | C) Evaporation | D) Conduction,D
+255,Science,Easy,Multiple Choice,What form of heat transfer occurs through the bulk circulation and movement of warmed fluids (liquids or gases)?,A) Convection | B) Conduction | C) Radiation | D) Absorption,A
+256,Science,Easy,Multiple Choice,What form of heat transfer travels across the vacuum of space in the form of electromagnetic waves (such as warmth from the Sun)?,A) Conduction | B) Radiation | C) Convection | D) Condensation,B
+257,Science,Easy,Multiple Choice,What tool is used to measure ambient temperature?,A) Barometer | B) Anemometer | C) Thermometer | D) Hygrometer,C
+258,Science,Easy,Multiple Choice,What instrument is used to measure atmospheric air pressure?,A) Thermometer | B) Voltmeter | C) Speedometer | D) Barometer,D
+259,Science,Easy,Multiple Choice,What instrument is used to measure wind speed?,A) Anemometer | B) Barometer | C) Hygrometer | D) Seismograph,A
+260,Science,Easy,Multiple Choice,What instrument is used by scientists to detect and record earthquake ground vibrations?,A) Telescope | B) Seismograph | C) Microscope | D) Oscilloscope,B
+261,Science,Easy,Multiple Choice,What optical instrument uses curved glass lenses to magnify tiny microscopic organisms and cells?,A) Telescope | B) Periscope | C) Microscope | D) Kaleidoscope,C
+262,Science,Easy,Multiple Choice,"What optical instrument uses lenses and curved mirrors to observe distant planets, stars, and galaxies?",A) Microscope | B) Spectrometer | C) Stethoscope | D) Telescope,D
+263,Science,Easy,Multiple Choice,What is the natural electrical discharge that occurs between clouds or between a cloud and the ground during a thunderstorm?,A) Lightning | B) Aurora | C) Rainbow | D) Sunspot,A
+264,Science,Easy,Multiple Choice,What causes the loud sound of thunder during a thunderstorm?,A) Clouds colliding physically | B) The explosive expansion of air heated rapidly by lightning | C) Raindrops falling at high speeds | D) Wind rushing into clouds,B
+265,Science,Easy,Multiple Choice,Why do you always see a lightning flash before you hear the corresponding thunder?,A) Ears are slower than eyes | B) Thunder is generated later | C) Light travels vastly faster than sound | D) Sound is absorbed by clouds,C
+266,Science,Easy,Multiple Choice,What is the metric unit used to measure electric potential difference in batteries and power outlets?,A) Ampere | B) Ohm | C) Watt | D) Volt,D
+267,Science,Easy,Multiple Choice,What component in an electrical circuit opens or closes the path to control the flow of electricity?,A) Switch | B) Battery | C) Resistor | D) Capacitor,A
+268,Science,Easy,Multiple Choice,"What type of electricity is produced when two insulating objects are rubbed together, building up an electric charge on their surfaces?",A) Dynamic current | B) Static electricity | C) Alternating current | D) Nuclear electricity,B
+269,Science,Easy,Multiple Choice,What is the path along which electric current flows called?,A) Vector | B) Wave | C) Circuit | D) Frequency,C
+270,Science,Easy,Multiple Choice,"In an electrical circuit, if a single bulb burns out and causes all the other bulbs in the loop to turn off, what type of circuit is it?",A) Parallel circuit | B) Short circuit | C) Integrated circuit | D) Series circuit,D
+271,Science,Easy,Multiple Choice,"In household wiring, what type of circuit allows other appliances to keep running even if one device is turned off or unplugged?",A) Parallel circuit | B) Series circuit | C) Open circuit | D) Static circuit,A
+272,Science,Easy,Multiple Choice,What is the property of an object to resist changes in its state of motion (proportional to its mass)?,A) Friction | B) Inertia | C) Velocity | D) Gravity,B
+273,Science,Easy,Typing,What device converts chemical energy into electrical energy to power portable electronics?,,battery
+274,Science,Easy,Typing,What is the force of attraction that Earth exerts on an object's mass?,,weight
+275,Science,Easy,Typing,"What unit of measurement is equal to 1,000 watts of electrical power?",,kilowatt
+276,Science,Medium,Multiple Choice,What happens to the pressure of a fixed mass of gas if its volume is decreased while keeping the temperature constant (Boyle's Law)?,A) Pressure decreases | B) Pressure remains identical | C) Pressure increases | D) Pressure drops to zero,C
+277,Science,Medium,Multiple Choice,What happens to the volume of a gas when it is heated at constant pressure (Charles's Law)?,A) The volume shrinks (decreases) | B) The gas liquefies immediately | C) The volume stays unchanged | D) The volume expands (increases),D
+278,Science,Medium,Multiple Choice,"What is the upward buoyant force exerted on a submerged body equal to, according to Archimedes' Principle?",A) The weight of the fluid displaced by the body | B) The mass of the body | C) The surface area of the body | D) The atmospheric pressure,A
+279,Science,Medium,Multiple Choice,"What physical property describes a fluid's internal resistance to flow and gradual deformation (e.g., honey having a higher value than water)?",A) Density | B) Viscosity | C) Compressibility | D) Surface tension,B
+280,Science,Medium,Multiple Choice,"What force pulls the surface molecules of a liquid inward, allowing small insects to walk across pond water without sinking?",A) Osmotic pressure | B) Viscosity | C) Surface tension | D) Buoyancy,C
+281,Science,Medium,Multiple Choice,What is the rate of change of an object's velocity over time called in physics (Velocity / Time)?,A) Momentum | B) Kinetic energy | C) Speed | D) Acceleration,D
+282,Science,Medium,Multiple Choice,What vector physical quantity is defined as the product of an object's mass and its velocity (p = m × v)?,A) Momentum | B) Force | C) Impulse | D) Power,A
+283,Science,Medium,Multiple Choice,What is the product of the force applied to an object and the distance through which the force moves it in the same direction (Work = Force × Distance)?,A) Power | B) Mechanical work | C) Torque | D) Acceleration,B
+284,Science,Medium,Multiple Choice,What is the rotational analog of linear force that causes an object to rotate around an axis or pivot point?,A) Centripetal force | B) Momentum | C) Torque | D) Friction,C
+285,Science,Medium,Multiple Choice,What inward force keeps an object moving in a circular path directed toward the center of curvature?,A) Centrifugal force | B) Inertia | C) Gravity only | D) Centripetal force,D
+286,Science,Medium,Multiple Choice,What type of electrical current flows in only one constant direction (such as power provided by batteries)?,A) Direct current (DC) | B) Alternating current (AC) | C) Static current | D) Transient current,A
+287,Science,Medium,Typing,What type of electrical current periodically reverses direction (as delivered in wall outlets)?,,AC
+288,Science,Medium,Typing,What is the distance between two consecutive crests of a wave called?,,wavelength
+289,Science,Hard,Multiple Choice,"In optics, what law relates the angles of incidence and refraction for a wave passing between two media with indices of refraction n1 and n2 (n1 sin θ1 = n2 sin θ2)?",A) Brewster's Law | B) Snell's Law | C) Bragg's Law | D) Huygens' Principle,B
+290,Science,Hard,Multiple Choice,"What optical phenomenon occurs when light propagating in a denser medium hits a boundary with a less dense medium at an angle greater than the critical angle, reflecting 100% of the light (used in fiber optics)?",A) Total internal refraction | B) Rayleigh scattering | C) Total internal reflection | D) Diffraction grating,C
+291,Science,Hard,Multiple Choice,What is the phenomenon where a superconducting material completely expels internal magnetic fields when cooled below its critical temperature?,A) Hall effect | B) Zeeman effect | C) Josephson effect | D) Meissner effect,D
+292,Science,Hard,Multiple Choice,"In quantum mechanics, what equation formulated by Erwin Schrödinger describes the time evolution of a quantum wave function?",A) Schrödinger wave equation | B) Dirac equation | C) Maxwell's equations | D) Lorentz transformation,A
+293,Science,Hard,Multiple Choice,"What group of four fundamental differential equations unified electricity, magnetism, and classical optics into a single theory of electromagnetism?",A) Newton's equations | B) Maxwell's equations | C) Einstein's field equations | D) Navier-Stokes equations,B
+294,Science,Hard,Multiple Choice,What is the theoretical particle of light that acts as the force carrier (gauge boson) for the electromagnetic interaction?,A) Gluon | B) Graviton | C) Photon | D) W boson,C
+295,Science,Medium,Multiple Choice,"In fluid dynamics, what principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure (explaining aerodynamic lift)?",A) Pascal's Law | B) Archimedes' Principle | C) Poiseuille's Law | D) Bernoulli's Principle,D
+296,Science,Hard,Multiple Choice,"In wave physics, what principle states that when two or more waves overlap in space, the resultant displacement at any point is the vector sum of the individual displacements?",A) Principle of Superposition | B) Huygens' principle | C) Doppler effect | D) Fermat's principle,A
+297,Science,Hard,Typing,What is the SI unit of atmospheric pressure named after Blaise Pascal?,,pascal
+298,Science,Hard,Typing,What is the SI unit of radioactive activity representing one nuclear decay per second?,,becquerel
+299,Science,Hard,Typing,What is the SI unit of electrical capacitance named after Michael Faraday?,,farad
+300,Science,Hard,Multiple Choice,What is the term for a quantum state where two or more particles have mutually linked properties regardless of the distance separating them?,A) Quantum tunneling | B) Quantum entanglement | C) Wave-particle duality | D) Superposition,B
+301,Science,Easy,Multiple Choice,"What star is at the center of our Solar System, around which all planets orbit?",A) Polaris | B) Sirius | C) The Sun | D) Betelgeuse,C
+302,Science,Easy,Multiple Choice,Which planet in our Solar System is closest to the Sun?,A) Venus | B) Earth | C) Mars | D) Mercury,D
+303,Science,Easy,Multiple Choice,Which planet in the Solar System is known as the 'Red Planet' due to iron oxide rust on its surface?,A) Mars | B) Jupiter | C) Venus | D) Mercury,A
+304,Science,Easy,Multiple Choice,Which gas giant is the largest planet in our entire Solar System?,A) Saturn | B) Jupiter | C) Neptune | D) Uranus,B
+305,Science,Easy,Multiple Choice,"Which planet in our Solar System is famous for its bright, prominent system of rings made of ice and dust?",A) Mars | B) Jupiter | C) Saturn | D) Mercury,C
+306,Science,Easy,Multiple Choice,"What natural satellite orbits the Earth, creating ocean tides with its gravitational pull?",A) Phobos | B) Europa | C) Titan | D) The Moon,D
+307,Science,Easy,Multiple Choice,How long does it take for Earth to complete one full revolution (orbit) around the Sun?,A) 365.25 days | B) 24 hours | C) 30 days | D) 12 hours,A
+308,Science,Easy,Multiple Choice,"How long does it take for Earth to complete one full rotation on its axis, producing day and night?",A) 365 days | B) 24 hours | C) 12 hours | D) 7 days,B
+309,Science,Easy,Multiple Choice,"What astronomical event occurs when the Moon passes directly between the Sun and Earth, casting a shadow on Earth?",A) Lunar eclipse | B) Equinox | C) Solar eclipse | D) Solstice,C
+310,Science,Easy,Multiple Choice,"What astronomical event occurs when the Earth passes directly between the Sun and the Moon, casting a shadow on the full Moon?",A) Solar eclipse | B) Supernova | C) Comet impact | D) Lunar eclipse,D
+311,Science,Easy,Multiple Choice,What is the solid outermost rocky layer of the Earth where humans live called?,A) Earth's crust | B) Mantle | C) Outer core | D) Inner core,A
+312,Science,Easy,Multiple Choice,What is molten rock called when it is located beneath the Earth's surface before an eruption?,A) Lava | B) Magma | C) Basalt | D) Obsidian,B
+313,Science,Easy,Multiple Choice,What is molten rock called after it erupts onto the Earth's surface from a volcano?,A) Magma | B) Granite | C) Lava | D) Slag,C
+314,Science,Easy,Multiple Choice,What type of rock is formed by the cooling and solidification of molten magma or lava (such as basalt and granite)?,A) Sedimentary rock | B) Metamorphic rock | C) Fossil rock | D) Igneous rock,D
+315,Science,Easy,Multiple Choice,What type of rock is formed from compacted and cemented layers of mineral and organic particles (such as sandstone and limestone)?,A) Sedimentary rock | B) Igneous rock | C) Volcanic rock | D) Metamorphic rock,A
+316,Science,Easy,Multiple Choice,What type of rock is formed when existing rocks are transformed under intense underground heat and pressure (such as marble and slate)?,A) Igneous rock | B) Metamorphic rock | C) Sedimentary rock | D) Basaltic rock,B
+317,Science,Easy,Multiple Choice,What large frozen body of dense ice moves slowly downhill under its own weight over land?,A) Iceberg | B) Avalanche | C) Glacier | D) Tsunami,C
+318,Science,Easy,Multiple Choice,What giant ocean wave is usually triggered by an underwater earthquake or volcanic eruption?,A) Cyclone | B) Hurricane | C) Monsoon | D) Tsunami,D
+319,Science,Easy,Multiple Choice,"What is the lowest layer of Earth's atmosphere, where almost all human activity and weather events occur?",A) Troposphere | B) Stratosphere | C) Mesosphere | D) Thermosphere,A
+320,Science,Easy,Multiple Choice,"In which atmospheric layer is the protective ozone layer located, absorbing harmful solar ultraviolet (UV) radiation?",A) Troposphere | B) Stratosphere | C) Mesosphere | D) Exosphere,B
+321,Science,Easy,Multiple Choice,"What is the continuous natural cycle of water evaporating, condensing into clouds, and precipitating as rain or snow called?",A) Carbon cycle | B) Nitrogen cycle | C) Water cycle | D) Rock cycle,C
+322,Science,Easy,Multiple Choice,What is the hottest planet in the Solar System due to an extreme runaway greenhouse effect in its thick atmosphere?,A) Mercury | B) Mars | C) Jupiter | D) Venus,D
+323,Science,Easy,Typing,What galaxy contains our Solar System?,,Milky Way
+324,Science,Easy,Typing,What is the name of the nearest major spiral galaxy to the Milky Way?,,Andromeda
+325,Science,Easy,Typing,What layer of Earth lies directly between the crust and the outer core?,,mantle
+326,Science,Easy,Typing,What gas makes up the ozone layer (formula: O3)?,,ozone
+327,Science,Medium,Multiple Choice,What scientific geological theory explains that Earth's outer crust is divided into massive rigid slabs that move slowly atop the asthenosphere?,A) Plate tectonics | B) Continental drift | C) Catastrophism | D) Volcanism,A
+328,Science,Medium,Multiple Choice,What is the zone of intense seismic and volcanic activity encircling the basin of the Pacific Ocean called?,A) The Mid-Atlantic Ridge | B) The Ring of Fire | C) The San Andreas Fault | D) The Great Rift Valley,B
+329,Science,Medium,Multiple Choice,What scale was historically used to measure the total energy magnitude released by an earthquake based on seismograph readings?,A) Fujita scale | B) Beaufort scale | C) Richter scale | D) Mohs scale,C
+330,Science,Medium,Multiple Choice,What scale is used in mineralogy to measure the scratch resistance hardness of minerals from 1 (talc) to 10 (diamond)?,A) Richter scale | B) Kelvin scale | C) Celsius scale | D) Mohs hardness scale,D
+331,Science,Medium,Multiple Choice,"What is a massive celestial body composed of frozen gases, ice, rock, and dust that develops a glowing coma and long tail when approaching the Sun?",A) Comet | B) Asteroid | C) Meteorite | D) Dwarf planet,A
+332,Science,Medium,Multiple Choice,What is the rocky region located between the orbits of Mars and Jupiter where thousands of rocky asteroids orbit the Sun called?,A) The Kuiper Belt | B) The Asteroid Belt | C) The Oort Cloud | D) The Van Allen Belt,B
+333,Science,Medium,Multiple Choice,What is the disc-shaped region of icy bodies and dwarf planets (including Pluto) extending beyond Neptune's orbit called?,A) Asteroid belt | B) Oort Cloud | C) Kuiper Belt | D) Heliosphere,C
+334,Science,Medium,Multiple Choice,"What causes the four changing astronomical seasons (Spring, Summer, Autumn, Winter) on Earth throughout the year?",A) Earth's varying distance from the Sun | B) Sunspots expanding | C) Moon's shadow blocking sunlight | D) Earth's 23.5-degree axial tilt as it orbits the Sun,D
+335,Science,Medium,Multiple Choice,What colorful atmospheric light display near the Earth's polar regions is caused by solar wind particles interacting with Earth's magnetic field?,A) Aurora | B) Rainbow | C) Mirage | D) Corona,A
+336,Science,Medium,Multiple Choice,What is the primary heat-trapping greenhouse gas naturally present in Earth's atmosphere that regulates global surface temperature?,A) Nitrogen gas | B) Carbon dioxide | C) Argon | D) Oxygen gas,B
+337,Science,Medium,Multiple Choice,What scale is used by meteorologists to measure and classify wind speed on a scale from 0 (calm) to 12 (hurricane)?,A) Richter scale | B) Saffir-Simpson scale | C) Beaufort wind scale | D) Enhanced Fujita scale,C
+338,Science,Medium,Multiple Choice,What boundary in the atmosphere separates the troposphere below from the stratosphere above?,A) Mesopause | B) Stratopause | C) Thermopause | D) Tropopause,D
+339,Science,Medium,Multiple Choice,What is the deep ocean zone where sunlight cannot penetrate (perpetual darkness) called?,A) Aphotic zone | B) Photic zone | C) Pelagic zone | D) Littoral zone,A
+340,Science,Medium,Typing,What dwarf planet was classified as the ninth planet from the Sun until 2006?,,Pluto
+341,Science,Medium,Typing,What is the solid innermost layer of Earth composed primarily of iron and nickel?,,inner core
+342,Science,Medium,Typing,What is the geological boundary where two tectonic plates slide horizontally past one another called?,,transform
+343,Science,Hard,Multiple Choice,"What is the boundary around a black hole beyond which nothing, not even light, can escape the gravitational pull called?",A) Singularity | B) Event horizon | C) Accretion disk | D) Ergosphere,B
+344,Science,Hard,Multiple Choice,What is the theoretical infinitely dense and dimensionless point at the center of a black hole where spacetime curvature becomes infinite?,A) Photon sphere | B) Event horizon | C) Singularity | D) Wormhole,C
+345,Science,Medium,Multiple Choice,"In observational astronomy, what is the apparent shift in the spectral lines of a distant galaxy toward longer wavelengths called, indicating that the universe is expanding?",A) Blueshift | B) Gravitational lensing | C) Dispersion | D) Redshift,D
+346,Science,Hard,Multiple Choice,What law of physical cosmology states that galaxies are moving away from Earth at speeds proportional to their distance (v = H0 × d)?,A) Hubble-Lemaître Law | B) Kepler's Third Law | C) Newton's Law of Gravitation | D) Wien's Law,A
+347,Science,Hard,Multiple Choice,What is the faint thermal radiation remnant left over from the Big Bang that uniformly fills all of space at a temperature of about 2.725 Kelvin?,A) Cosmic ray flux | B) Cosmic Microwave Background | C) Solar wind | D) Hawking radiation,B
+348,Science,Hard,Multiple Choice,"In stellar evolution, what extremely dense stellar remnant is formed by the gravitational collapse of the remnant of a massive star, composed almost entirely of neutrons?",A) White dwarf | B) Red giant | C) Neutron star | D) Brown dwarf,C
+349,Science,Hard,Multiple Choice,What upper mass limit (approximately 1.44 solar masses) determines the maximum possible mass of a stable white dwarf star before it collapses into a neutron star?,A) Schwarzschild radius | B) Eddington limit | C) Roche limit | D) Chandrasekhar limit,D
+350,Science,Hard,Multiple Choice,"In geophysics, what seismic body waves are longitudinal compressional waves that travel fastest through Earth and can pass through both solids and liquids?",A) P-waves (Primary waves) | B) S-waves (Secondary waves) | C) Rayleigh waves | D) Love waves,A
+351,Science,Hard,Multiple Choice,What seismic shear waves can travel only through solid rock and cannot propagate through liquid outer core?,A) P-waves | B) S-waves | C) Surface waves | D) Rayleigh waves,B
+352,Science,Hard,Typing,What is the astronomical distance that light travels in one Julian year (approx. 9.46 trillion km)?,,light year
+353,Science,Hard,Typing,"What is the term for a cataclysmic, extremely luminous explosion of a dying massive star?",,supernova
+354,Science,Easy,Multiple Choice,What is the name of the natural force that causes high and low ocean tides on Earth twice every day?,A) Ocean currents | B) Earth's magnetic field | C) Gravitational pull of the Moon and Sun | D) Underwater volcanoes,C
+355,Science,Easy,Multiple Choice,What percentage of the Earth's total surface area is covered by oceans and liquid water?,A) About 50% | B) About 90% | C) About 30% | D) About 71%,D
+356,Science,Easy,Multiple Choice,Which of Earth's oceans is the largest and deepest ocean on the planet?,A) Pacific Ocean | B) Atlantic Ocean | C) Indian Ocean | D) Arctic Ocean,A
+357,Science,Easy,Multiple Choice,"What is the deepest known oceanic trench on Earth, located in the western Pacific Ocean?",A) Java Trench | B) Mariana Trench | C) Puerto Rico Trench | D) Sunda Trench,B
+358,Science,Easy,Multiple Choice,What is the preserved remains or trace of an ancient plant or animal embedded in sedimentary rock called?,A) Mineral | B) Crystal | C) Fossil | D) Artifact,C
+359,Science,Easy,Multiple Choice,What extinct group of giant reptiles dominated the land for over 160 million years before going extinct 66 million years ago?,A) Mammoths | B) Trilobites | C) Pterosaurs | D) Dinosaurs,D
+360,Science,Easy,Multiple Choice,What large asteroid impact site in modern-day Mexico is widely believed to have caused the extinction of the non-avian dinosaurs?,A) Chicxulub crater | B) Vredefort crater | C) Barringer crater | D) Manicouagan crater,A
+361,Science,Easy,Multiple Choice,What is the term for the scientific study of weather and atmospheric conditions?,A) Geology | B) Meteorology | C) Oceanography | D) Astronomy,B
+362,Science,Easy,Multiple Choice,What type of fluffy white clouds that resemble cotton balls typically indicate fair weather?,A) Stratus clouds | B) Cirrus clouds | C) Cumulus clouds | D) Nimbus clouds,C
+363,Science,Easy,Multiple Choice,"What high-altitude wispy, feather-like clouds are composed entirely of microscopic ice crystals?",A) Cumulus | B) Stratus | C) Fog | D) Cirrus clouds,D
+364,Science,Easy,Multiple Choice,"What dark, towering storm clouds produce heavy rain, lightning, and severe thunderstorms?",A) Cumulonimbus clouds | B) Cirrocumulus | C) Altostratus | D) Stratocumulus,A
+365,Science,Easy,Multiple Choice,What is a rapidly rotating column of air extending from a thunderstorm to the ground called?,A) Hurricane | B) Tornado | C) Cyclone | D) Typhoon,B
+366,Science,Easy,Multiple Choice,What is a large rotating tropical storm system with high winds and heavy rains called in the Atlantic Ocean?,A) Tornado | B) Blizzard | C) Hurricane | D) Dust storm,C
+367,Science,Easy,Multiple Choice,"What is the calm, low-pressure center of a hurricane called?",A) Core | B) Peak | C) Apex | D) The Eye,D
+368,Science,Easy,Multiple Choice,What bright streak of light is produced when a small space rock burns up upon entering Earth's atmosphere (a 'shooting star')?,A) Meteor | B) Comet | C) Asteroid | D) Supernova,A
+369,Science,Easy,Multiple Choice,What is a meteoroid that survives its fiery passage through Earth's atmosphere and lands on the ground called?,A) Asteroid | B) Meteorite | C) Comet | D) Pulsar,B
+370,Science,Easy,Multiple Choice,What is the name of the theoretical ancient supercontinent that existed 250 million years ago before breaking into modern continents?,A) Gondwana | B) Laurasia | C) Pangaea | D) Rodinia,C
+371,Science,Easy,Multiple Choice,What imaginary line divides the Earth into the Northern and Southern Hemispheres at 0 degrees latitude?,A) Prime Meridian | B) Tropic of Cancer | C) Arctic Circle | D) The Equator,D
+372,Science,Easy,Multiple Choice,"What imaginary vertical reference line passes through Greenwich, England at 0 degrees longitude?",A) The Prime Meridian | B) Equator | C) International Date Line | D) Tropic of Capricorn,A
+373,Science,Easy,Multiple Choice,Which continent contains the geographic South Pole and is covered almost entirely by thick ice sheets?,A) Greenland | B) Antarctica | C) Australia | D) South America,B
+374,Science,Easy,Typing,What is the name of the supercontinent that existed during the late Paleozoic and early Mesozoic eras?,,Pangaea
+375,Science,Easy,Typing,What is the name of the 0-degree latitude line encircling Earth?,,equator
+376,Science,Easy,Typing,"What is the scientific study of the Earth's physical structure, rocks, and history?",,geology
+377,Science,Medium,Multiple Choice,"What geological process wears away rock, soil, and landscape surfaces through wind, flowing water, or ice movement?",A) Deposition | B) Subduction | C) Erosion | D) Metamorphism,C
+378,Science,Medium,Multiple Choice,What geological process drops and deposits eroded sediment particles in new locations such as river deltas and sand dunes?,A) Weathering | B) Faulting | C) Folding | D) Deposition,D
+379,Science,Medium,Multiple Choice,What is the mechanical or chemical breakdown of rocks at or near the Earth's surface without moving them called?,A) Weathering | B) Erosion | C) Volcanism | D) Subduction,A
+380,Science,Medium,Multiple Choice,What is the boundary where two tectonic plates move apart from each other (such as the Mid-Atlantic Ridge) called?,A) Convergent boundary | B) Divergent boundary | C) Transform fault | D) Subduction zone,B
+381,Science,Medium,Multiple Choice,What is the boundary where two tectonic plates collide into each other (such as the collision forming the Himalayas) called?,A) Divergent boundary | B) Transform boundary | C) Convergent boundary | D) Rift valley,C
+382,Science,Medium,Multiple Choice,What geological process occurs when a denser oceanic plate slides underneath a lighter continental plate and sinks into the mantle?,A) Rifting | B) Orogeny | C) Isostasy | D) Subduction,D
+383,Science,Medium,Multiple Choice,"What is the name of the semi-fluid, ductile upper layer of the mantle directly below the rigid lithosphere?",A) Asthenosphere | B) Mesosphere | C) Crust | D) Core,A
+384,Science,Medium,Multiple Choice,What is the point on Earth's surface vertically directly above the underground focus (hypocenter) of an earthquake called?,A) Fault line | B) Epicenter | C) Seismic gap | D) Crater,B
+385,Science,Medium,Typing,What is the underground point where rock ruptures and an earthquake originates called?,,focus
+386,Science,Medium,Multiple Choice,What is the term for a natural warm spring that intermittently boils and shoots a column of hot water and steam into the air?,A) Volcano | B) Fumarole | C) Geyser | D) Sinkhole,C
+387,Science,Hard,Multiple Choice,"According to Kepler's First Law of Planetary Motion, what shape is the orbital path of every planet around the Sun?",A) Perfect circle | B) Parabola | C) Hyperbola | D) Ellipse,D
+388,Science,Hard,Multiple Choice,"According to Kepler's Second Law (Law of Equal Areas), what happens to a planet's orbital speed as it moves closer to the Sun at perihelion?",A) It speeds up | B) It slows down | C) It stops orbiting | D) It remains perfectly constant,A
+389,Science,Hard,Multiple Choice,What law of planetary motion relates the square of a planet's orbital period (P) to the cube of its semi-major axis (a) (P² = a³)?,A) Newton's Law of Gravitation | B) Kepler's Third Law | C) Kepler's Second Law | D) Bode's Law,B
+390,Science,Hard,Multiple Choice,What theoretical boundary radius marks the closest distance a celestial body held together by its own gravity can approach a second body before tidal forces tear it apart?,A) Schwarzschild radius | B) Event horizon | C) Roche limit | D) Kuiper limit,C
+391,Science,Hard,Multiple Choice,"In physical geology, what discontinuity represents the boundary separating the Earth's crust from the underlying mantle?",A) Gutenberg discontinuity | B) Lehmann discontinuity | C) Conrad discontinuity | D) Mohorovičić discontinuity,D
+392,Science,Hard,Multiple Choice,"What boundary represents the transition between Earth's solid mantle and the liquid outer core at a depth of about 2,900 km?",A) Gutenberg discontinuity | B) Moho discontinuity | C) Lehmann boundary | D) Asthenosphere base,A
+393,Science,Hard,Multiple Choice,What planetary geodynamo process generates Earth's protective magnetic field?,A) Nuclear fusion in the crust | B) Convection of molten iron and nickel in the liquid outer core | C) Rotation of solid crustal plates | D) Solar wind radiation,B
+394,Science,Hard,Multiple Choice,"What is the radioactive dating method used by geochemists and paleontologists to date organic materials up to about 50,000 years old?",A) Potassium-argon dating | B) Uranium-lead dating | C) Radiocarbon dating | D) Rubidium-strontium dating,C
+395,Science,Hard,Multiple Choice,"In oceanography, what deep, dense global ocean circulation pattern is driven by differences in water temperature and salinity?",A) Coriolis gyres | B) El Niño cycle | C) Hadley circulation | D) Thermohaline circulation,D
+396,Science,Hard,Multiple Choice,What atmospheric circulation cell between the equator and 30 degrees latitude is responsible for trade winds and tropical rainfall belts?,A) Hadley cell | B) Ferrel cell | C) Polar cell | D) Walker circulation,A
+397,Science,Hard,Multiple Choice,"What radioactive isotope of carbon with a half-life of 5,730 years is used to date organic artifacts?",A) Carbon-12 | B) Carbon-14 | C) Uranium-238 | D) Potassium-40,B
+398,Science,Hard,Typing,What is the term for the apparent deflection of moving objects caused by Earth's rotation?,,Coriolis effect
+399,Science,Hard,Multiple Choice,What is the astronomical term for the point in a planet's orbit where it is closest to the Sun?,A) Aphelion | B) Perigee | C) Perihelion | D) Apogee,C
+400,Science,Hard,Multiple Choice,What is the astronomical term for the point in a planet's orbit where it is farthest from the Sun?,A) Perihelion | B) Perigee | C) Zenith | D) Aphelion,D
+401,Science,Easy,Multiple Choice,Who discovered the universal law of gravitation and formulated the three laws of classical motion?,A) Isaac Newton | B) Albert Einstein | C) Galileo Galilei | D) Nikola Tesla,A
+402,Science,Easy,Multiple Choice,Who developed the groundbreaking theory of general and special relativity and proposed E = mc²?,A) Isaac Newton | B) Albert Einstein | C) Niels Bohr | D) Stephen Hawking,B
+403,Science,Easy,Multiple Choice,Who proposed the scientific theory of biological evolution by natural selection in 'On the Origin of Species'?,A) Gregor Mendel | B) Louis Pasteur | C) Charles Darwin | D) Jean-Baptiste Lamarck,C
+404,Science,Easy,Multiple Choice,"Who discovered the first widely used antibiotic, penicillin, from mold culture in 1928?",A) Louis Pasteur | B) Edward Jenner | C) Robert Koch | D) Alexander Fleming,D
+405,Science,Easy,Multiple Choice,Who was the pioneering Polish-French scientist who won two Nobel Prizes for discovering the radioactive elements polonium and radium?,A) Marie Curie | B) Rosalind Franklin | C) Lise Meitner | D) Ada Lovelace,A
+406,Science,Easy,Multiple Choice,Who was the Italian astronomer who used a telescope to discover four large moons orbiting Jupiter in 1610?,A) Johannes Kepler | B) Galileo Galilei | C) Nicolaus Copernicus | D) Tycho Brahe,B
+407,Science,Easy,Multiple Choice,"Who proposed the heliocentric model of the Solar System, stating that the Earth and planets orbit around the Sun?",A) Ptolemy | B) Aristotle | C) Nicolaus Copernicus | D) Edwin Hubble,C
+408,Science,Easy,Multiple Choice,"What French microbiologist invented the food safety process of heating liquids to kill harmful microbes, known as pasteurization?",A) Alexander Fleming | B) Edward Jenner | C) Joseph Lister | D) Louis Pasteur,D
+409,Science,Easy,Multiple Choice,What is the medical preparation introduced into the body to stimulate the immune system to produce immunity against a specific infectious disease?,A) Vaccine | B) Antibiotic | C) Antihistamine | D) Anesthetic,A
+410,Science,Easy,Multiple Choice,What type of medicine is specifically prescribed to kill or inhibit the growth of bacterial infections (ineffective against viruses)?,A) Antiviral | B) Antibiotic | C) Vaccine | D) Painkiller,B
+411,Science,Easy,Multiple Choice,"What is the basic unit of heredity passed from parents to offspring, composed of a specific sequence of DNA?",A) Protein | B) Chromosome | C) Gene | D) Amino acid,C
+412,Science,Easy,Multiple Choice,What double-helix structured macromolecule stores genetic information in almost all living organisms?,A) RNA | B) ATP | C) Glucose | D) DNA,D
+413,Science,Easy,Multiple Choice,What is an organism made of only a single biological cell called?,A) Unicellular organism | B) Multicellular organism | C) Tissue | D) Organ,A
+414,Science,Easy,Multiple Choice,What microscopic single-celled prokaryotic organisms are among the earliest life forms on Earth and can be beneficial or harmful?,A) Fungi | B) Bacteria | C) Protozoa | D) Algae,B
+415,Science,Easy,Multiple Choice,"What kingdom of non-photosynthetic eukaryotic organisms includes mushrooms, yeasts, and molds?",A) Plantae | B) Protista | C) Fungi | D) Animalia,C
+416,Science,Easy,Multiple Choice,What is the scientific term for the permanent loss of an entire biological species from the planet?,A) Evolution | B) Speciation | C) Domestication | D) Extinction,D
+417,Science,Easy,Multiple Choice,"What is the natural environment or surroundings where a plant, animal, or organism normally lives and thrives called?",A) Habitat | B) Niche | C) Biome | D) Trophic level,A
+418,Science,Easy,Multiple Choice,What is the term for the biological interaction where two different species live in close physical contact with each other?,A) Predation | B) Symbiosis | C) Competition | D) Parasitism,B
+419,Science,Easy,Multiple Choice,What type of symbiotic relationship benefits both participating organisms (such as bees pollinating flowering plants)?,A) Commensalism | B) Parasitism | C) Mutualism | D) Amensalism,C
+420,Science,Easy,Multiple Choice,What is the process by which living cells break down glucose with oxygen to release chemical energy (ATP)?,A) Photosynthesis | B) Fermentation | C) Transpiration | D) Cellular respiration,D
+421,Science,Easy,Multiple Choice,What is the primary waste gas produced during cellular respiration and exhaled by humans?,A) Carbon dioxide | B) Oxygen | C) Nitrogen | D) Carbon monoxide,A
+422,Science,Easy,Multiple Choice,What simple sugar molecule is the primary fuel source for energy in living cells (formula: C6H12O6)?,A) Sucrose | B) Glucose | C) Fructose | D) Lactose,B
+423,Science,Easy,Typing,What English physician created the world's first successful smallpox vaccine in 1796?,,Edward Jenner
+424,Science,Easy,Typing,What is the four-letter acronym for the genetic blueprint molecule of life?,,DNA
+425,Science,Easy,Typing,What is the biological process by which a cell divides to create new cells?,,mitosis
+426,Science,Easy,Typing,What single-celled fungus is universally used to make bread rise and brew beer?,,yeast
+427,Science,Medium,Multiple Choice,"What British biophysicist captured 'Photo 51', the crucial X-ray diffraction image that revealed the double-helix structure of DNA?",A) Marie Curie | B) Barbara McClintock | C) Rosalind Franklin | D) Dorothy Hodgkin,C
+428,Science,Medium,Multiple Choice,What two scientists were awarded the Nobel Prize in 1962 for modeling the double-helix molecular structure of DNA?,A) Newton and Leibniz | B) Pasteur and Koch | C) Darwin and Wallace | D) James Watson and Francis Crick,D
+429,Science,Medium,Multiple Choice,"In genetics, what term describes having two identical alleles for a specific gene (such as BB or bb)?",A) Homozygous | B) Heterozygous | C) Hemizygous | D) Polygenic,A
+430,Science,Medium,Multiple Choice,"In genetics, what term describes having two different alleles for a specific gene (such as Bb)?",A) Homozygous | B) Heterozygous | C) Codominant | D) Recessive,B
+431,Science,Medium,Multiple Choice,What grid diagram is used by geneticists to calculate and predict the probability of genotypes and phenotypes in cross-breeding?,A) Venn diagram | B) Pedigree chart | C) Punnett square | D) Karyotype,C
+432,Science,Medium,Multiple Choice,What type of cellular organism lacks a membrane-bound nucleus and membrane-bound organelles (such as bacteria)?,A) Eukaryote | B) Protist | C) Fungus | D) Prokaryote,D
+433,Science,Medium,Multiple Choice,"What type of cellular organism possesses a membrane-bound nucleus containing its genetic DNA (such as plants, animals, and fungi)?",A) Eukaryote | B) Prokaryote | C) Archaea | D) Bacteriophage,A
+434,Science,Medium,Multiple Choice,"What organelle in eukaryotic cells modifies, sorts, and packages proteins and lipids for transport (the cellular 'post office')?",A) Ribosome | B) Golgi apparatus | C) Lysosome | D) Vacuole,B
+435,Science,Medium,Multiple Choice,"What organelle contains digestive enzymes that break down cellular waste, foreign debris, and worn-out organelles?",A) Ribosome | B) Peroxisome | C) Lysosome | D) Centrosome,C
+436,Science,Medium,Multiple Choice,"What is the rigid structural layer surrounding plant cells, fungi, and bacteria outside the cell membrane?",A) Plasma membrane | B) Cytoskeleton | C) Glycocalyx | D) Cell wall,D
+437,Science,Medium,Multiple Choice,What complex carbohydrate polymer is the primary building material of plant cell walls?,A) Cellulose | B) Starch | C) Glycogen | D) Chitin,A
+438,Science,Medium,Multiple Choice,What tough structural polysaccharide makes up the cell walls of fungi and the exoskeletons of arthropods?,A) Cellulose | B) Chitin | C) Keratin | D) Peptidoglycan,B
+439,Science,Medium,Multiple Choice,What are the building blocks (monomers) that link together via peptide bonds to form proteins?,A) Nucleotides | B) Fatty acids | C) Amino acids | D) Monosaccharides,C
+440,Science,Medium,Typing,How many standard amino acids are encoded by the universal genetic code in living organisms?,,20
+441,Science,Medium,Typing,What is a permanent alteration in the DNA sequence of an organism's genome called?,,mutation
+442,Science,Medium,Typing,What is the three-nucleotide sequence in mRNA that codes for a specific amino acid called?,,codon
+443,Science,Hard,Multiple Choice,"In molecular genetics, what is the start codon that signals the beginning of protein translation in mRNA, coding for methionine?",A) UAA | B) UAG | C) UGA | D) AUG,D
+444,Science,Hard,Multiple Choice,What revolutionary gene-editing technology derived from bacterial antiviral defense systems uses Cas9 endonuclease to make targeted DNA cuts?,A) CRISPR-Cas9 | B) Sanger sequencing | C) Polymerase chain reaction | D) Western blotting,A
+445,Science,Hard,Multiple Choice,What laboratory technique invented by Kary Mullis rapidly amplifies and makes millions of copies of a specific DNA segment?,A) Gel electrophoresis | B) Polymerase Chain Reaction | C) Flow cytometry | D) ELISA assay,B
+446,Science,Hard,Multiple Choice,"In biochemistry, what metabolic cycle in the mitochondrial matrix oxidizes acetyl-CoA to produce NADH, FADH2, and CO2?",A) Calvin cycle | B) Glycolysis | C) Krebs cycle | D) Urea cycle,C
+447,Science,Hard,Multiple Choice,What enzyme embedded in the inner mitochondrial membrane harnesses the proton electrochemical gradient to synthesize ATP from ADP and inorganic phosphate?,A) Hexokinase | B) Phosphofructokinase | C) Cytochrome c oxidase | D) ATP synthase,D
+448,Science,Hard,Multiple Choice,"In genetics, what term describes the phenomenon where a single gene influences multiple unrelated phenotypic traits?",A) Pleiotropy | B) Epistasis | C) Polygenic inheritance | D) Incomplete dominance,A
+449,Science,Hard,Multiple Choice,"In genetics, what term describes the interaction where the expression of one gene is masked or modified by another independent gene?",A) Pleiotropy | B) Epistasis | C) Codominance | D) Penetrance,B
+450,Science,Hard,Multiple Choice,"In biochemistry, what type of enzyme inhibition occurs when an inhibitor binds directly to the active site, preventing substrate binding?",A) Allosteric inhibition | B) Noncompetitive inhibition | C) Competitive inhibition | D) Uncompetitive inhibition,C
+451,Science,Medium,Multiple Choice,"In molecular biology, what protective repetitive nucleotide sequences at the ends of eukaryotic chromosomes prevent chromosome degradation?",A) Centromeres | B) Kinetochores | C) Introns | D) Telomeres,D
+452,Science,Hard,Multiple Choice,What enzyme catalyzes the addition of repetitive nucleotide sequences to the ends of chromosomes to maintain telomere length in germ and cancer cells?,A) Telomerase | B) Topoisomerase | C) Primase | D) Helicase,A
+453,Science,Hard,Typing,What is the fundamental start codon sequence in mRNA coding for methionine?,,AUG
+454,Science,Easy,Multiple Choice,What is the physical process where liquid water turns into solid ice at low temperatures?,A) Melting | B) Freezing | C) Boiling | D) Sublimation,B
+455,Science,Easy,Multiple Choice,What is the physical process where solid ice turns into liquid water when heated?,A) Freezing | B) Evaporation | C) Melting | D) Condensation,C
+456,Science,Easy,Multiple Choice,What is the physical process where liquid water rapidly turns into steam at 100°C?,A) Freezing | B) Condensation | C) Melting | D) Boiling,D
+457,Science,Easy,Multiple Choice,What gas is produced by plants and trees that is vital for animal respiration?,A) Oxygen | B) Nitrogen | C) Carbon monoxide | D) Hydrogen,A
+458,Science,Easy,Multiple Choice,What is the nearest star to the planet Earth?,A) Alpha Centauri | B) The Sun | C) Proxima Centauri | D) Betelgeuse,B
+459,Science,Easy,Multiple Choice,What is the force that pulls falling rain down to the ground?,A) Magnetism | B) Air pressure | C) Gravity | D) Inertia,C
+460,Science,Easy,Multiple Choice,What is the freezing point of water on the Fahrenheit scale?,A) 0°F | B) 100°F | C) 212°F | D) 32°F,D
+461,Science,Easy,Multiple Choice,What is the boiling point of water on the Fahrenheit scale at sea level?,A) 212°F | B) 100°F | C) 180°F | D) 32°F,A
+462,Science,Easy,Multiple Choice,What organ in the human body is primarily responsible for filtering alcohol and toxins from the blood?,A) Heart | B) Liver | C) Stomach | D) Spleen,B
+463,Science,Easy,Multiple Choice,What hard white substance covers and protects the outer surface of human teeth?,A) Dentin | B) Bone | C) Enamel | D) Keratin,C
+464,Science,Easy,Multiple Choice,"What protein is the primary structural component of human hair, fingernails, and animal claws?",A) Collagen | B) Myoglobin | C) Hemoglobin | D) Keratin,D
+465,Science,Easy,Multiple Choice,"What is the primary protein found in human connective tissue, tendons, and skin that provides elasticity and tensile strength?",A) Collagen | B) Keratin | C) Elastin | D) Actin,A
+466,Science,Easy,Multiple Choice,What is the process where green plants absorb water through roots and release water vapor through leaves?,A) Photosynthesis | B) Transpiration | C) Respiration | D) Germination,B
+467,Science,Easy,Multiple Choice,What is the colored part of the human eye that controls the diameter of the pupil?,A) Retina | B) Cornea | C) Iris | D) Sclera,C
+468,Science,Easy,Multiple Choice,What light-sensitive tissue layer at the back of the eye contains rods and cones to capture visual images?,A) Cornea | B) Iris | C) Lens | D) Retina,D
+469,Science,Easy,Multiple Choice,What photoreceptor cells in the retina are primarily responsible for daylight color vision?,A) Cones | B) Rods | C) Ganglion cells | D) Bipolar cells,A
+470,Science,Easy,Multiple Choice,What photoreceptor cells in the retina are highly sensitive to low-light conditions and provide night vision in grayscale?,A) Cones | B) Rods | C) Optic nerve | D) Fovea,B
+471,Science,Easy,Multiple Choice,"What is the longest bone in the human body, located in the thigh?",A) Tibia | B) Humerus | C) Femur | D) Fibula,C
+472,Science,Easy,Multiple Choice,"What is the smallest bone in the human body, located in the middle ear?",A) Malleus | B) Incus | C) Hyoid | D) Stapes,D
+473,Science,Easy,Typing,How many bones are in the adult human skeleton?,,206
+474,Science,Easy,Multiple Choice,How many pairs of ribs do typical humans have?,A) 12 pairs | B) 10 pairs | C) 14 pairs | D) 8 pairs,A
+475,Science,Easy,Multiple Choice,"What major body system consists of the brain, spinal cord, and peripheral nerves?",A) Digestive system | B) Nervous system | C) Endocrine system | D) Respiratory system,B
+476,Science,Easy,Typing,What is the longest and strongest bone in the human skeleton?,,femur
+477,Science,Easy,Typing,What is the total number of bones in an adult human body?,,206
+478,Science,Easy,Typing,"What is the hardest substance in the human body, covering teeth?",,enamel
+479,Science,Medium,Multiple Choice,What is the primary function of the thyroid gland in the human neck?,A) Digest dietary fats | B) Filter blood waste | C) Regulate metabolic rate and energy consumption | D) Produce insulin,C
+480,Science,Medium,Multiple Choice,What blood component consists of cell fragments essential for blood clotting and wound healing?,A) Red blood cells | B) White blood cells | C) Plasma | D) Platelets,D
+481,Science,Medium,Multiple Choice,What is the scientific term for the tiny air sacs in the lungs where oxygen and carbon dioxide are exchanged with blood capillaries?,A) Alveoli | B) Bronchioles | C) Trachea | D) Pleura,A
+482,Science,Medium,Multiple Choice,What primary dome-shaped muscle located below the lungs contracts and flattens to drive human inhalation?,A) Intercostal muscle | B) Diaphragm | C) Pectoral muscle | D) Abdominal rectus,B
+483,Science,Medium,Multiple Choice,"What type of muscle tissue is found in the walls of the human heart, contracting rhythmically and involuntarily?",A) Skeletal muscle | B) Smooth muscle | C) Cardiac muscle | D) Voluntary muscle,C
+484,Science,Medium,Multiple Choice,"What type of involuntary, non-striated muscle is found in the walls of blood vessels and digestive organs?",A) Skeletal muscle | B) Cardiac muscle | C) Striated muscle | D) Smooth muscle,D
+485,Science,Medium,Multiple Choice,"What is the liquid portion of human blood called, making up about 55% of total blood volume?",A) Plasma | B) Lymph | C) Serum | D) Hemolymph,A
+486,Science,Medium,Multiple Choice,What type of immunity is acquired when antibodies are passed directly to an individual (such as from mother to baby via breast milk)?,A) Active immunity | B) Passive immunity | C) Innate immunity | D) Cell-mediated immunity,B
+487,Science,Medium,Multiple Choice,What type of immunity is generated when the body's own immune system produces antibodies in response to an infection or vaccine?,A) Passive immunity | B) Maternal immunity | C) Active immunity | D) Synthetic immunity,C
+488,Science,Medium,Multiple Choice,What is the scientific study of insects called?,A) Arachnology | B) Ornithology | C) Herpetology | D) Entomology,D
+489,Science,Medium,Multiple Choice,What is the scientific study of birds called?,A) Ornithology | B) Entomology | C) Mammalogy | D) Ichthyology,A
+490,Science,Medium,Typing,What is the scientific study of fossilized remains of ancient life called?,,paleontology
+491,Science,Medium,Typing,What is the scientific study of plant life and botany?,,botany
+492,Science,Hard,Multiple Choice,"In genetics, what are non-coding intervening sequences within a pre-mRNA transcript that are spliced out before translation called?",A) Exons | B) Introns | C) Codons | D) Promoters,B
+493,Science,Hard,Multiple Choice,What are the expressed coding regions of an RNA transcript that remain in the mature mRNA and code for protein sequences?,A) Introns | B) Enhancers | C) Exons | D) Silencers,C
+494,Science,Hard,Multiple Choice,"In immunology, what class of antibodies is the most abundant immunoglobulin in human serum, providing long-term systemic humoral immunity?",A) IgA | B) IgM | C) IgE | D) IgG,D
+495,Science,Hard,Multiple Choice,"In immunology, what class of antibodies is primarily responsible for allergic reactions and histamine release from mast cells?",A) IgE | B) IgG | C) IgA | D) IgM,A
+496,Science,Hard,Multiple Choice,What model proposed by S.J. Singer and G.L. Nicolson describes the structural arrangement of proteins embedded in a dynamic lipid bilayer of biological membranes?,A) Unit Membrane Model | B) Fluid Mosaic Model | C) Lipid Raft Theory | D) Sandwich Model,B
+497,Science,Hard,Multiple Choice,What specialized cell-surface junction allows direct chemical and electrical communication between adjacent animal cells via connexin protein channels?,A) Tight junction | B) Desmosome | C) Gap junction | D) Hemidesmosome,C
+498,Science,Hard,Multiple Choice,"What microscopic cytoplasmic channels pass through plant cell walls, enabling direct transport and communication between adjacent plant cells?",A) Desmosomes | B) Gap junctions | C) Tight junctions | D) Plasmodesmata,D
+499,Science,Hard,Multiple Choice,What immunoglobulin class is primarily involved in allergic responses and anti-parasitic defense?,A) IgE | B) IgG | C) IgM | D) IgA,A
+500,Science,Hard,Typing,What is the enzyme that unwinds the double helix DNA during replication?,,helicase

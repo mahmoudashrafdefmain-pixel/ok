@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.buildozer/
+bin/
+*.spec.bak
+.pytest_cache/
+*.log
+crash_log.txt
+suggestions.txt

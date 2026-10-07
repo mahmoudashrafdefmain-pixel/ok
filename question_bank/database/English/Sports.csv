@@ -1,0 +1,501 @@
+﻿number,subject,difficulty,question_type,question,multiple_choices,answer
+1,Sports,Easy,Multiple Choice,How many players are on the pitch for one team in a standard association football (soccer) match?,A) 11 | B) 9 | C) 10 | D) 12,A
+2,Sports,Easy,Multiple Choice,In which European football league does Real Madrid compete?,A) Premier League | B) La Liga | C) Serie A | D) Bundesliga,B
+3,Sports,Easy,Multiple Choice,What are the primary traditional home colors of Liverpool FC?,A) Blue and White | B) Yellow and Black | C) All Red | D) Green and White,C
+4,Sports,Easy,Multiple Choice,Which player position is primarily responsible for preventing the opposing team from scoring and is permitted to use hands inside the penalty box?,A) Striker | B) Central Midfielder | C) Left Wing | D) Goalkeeper,D
+5,Sports,Easy,Multiple Choice,How long is a standard professional football match in regular time (excluding extra time and injury time)?,A) 90 minutes | B) 80 minutes | C) 100 minutes | D) 60 minutes,A
+6,Sports,Easy,Multiple Choice,"In which top-tier league do clubs like Manchester United, Arsenal, and Chelsea compete?",A) La Liga | B) English Premier League | C) Serie A | D) Ligue 1,B
+7,Sports,Easy,Multiple Choice,What color card is shown by the referee to immediately expel a player from the football match?,A) Yellow Card | B) Green Card | C) Red Card | D) Blue Card,C
+8,Sports,Easy,Multiple Choice,Which country's top professional football division is known as Serie A?,A) Spain | B) Germany | C) France | D) Italy,D
+9,Sports,Easy,Multiple Choice,What are the iconic primary club colors of FC Barcelona's home kit?,A) Blue and Deep Red | B) White and Gold | C) Black and White | D) Red and Black,A
+10,Sports,Easy,Multiple Choice,What is the name of the top-flight football league in Germany where Bayern Munich competes?,A) Eredivisie | B) Bundesliga | C) Ligue 1 | D) Primeira Liga,B
+11,Sports,Easy,Multiple Choice,"What are the traditional home colors of Juventus FC, giving them their famous nickname?",A) Blue and Red | B) All Red | C) Black and White stripes | D) Green and Yellow,C
+12,Sports,Easy,Multiple Choice,What distance from the goal line is a penalty kick taken from in standard football?,A) 18 yards | B) 10 yards | C) 15 yards | D) 12 yards,D
+13,Sports,Easy,Multiple Choice,In which country's top division (Ligue 1) does Paris Saint-Germain (PSG) play?,A) France | B) Spain | C) Belgium | D) Portugal,A
+14,Sports,Easy,Multiple Choice,What are the classic home kit colors of AC Milan?,A) Blue and Black | B) Red and Black stripes | C) Red and White | D) Green and White,B
+15,Sports,Easy,Multiple Choice,What color card is shown by a referee as a formal caution to a player?,A) Red Card | B) Blue Card | C) Yellow Card | D) White Card,C
+16,Sports,Easy,Multiple Choice,Which national football team is famous for playing in bright yellow shirts and blue shorts?,A) Argentina | B) Germany | C) Italy | D) Brazil,D
+17,Sports,Easy,Multiple Choice,Which country won the inaugural FIFA World Cup hosted in 1930?,A) Uruguay | B) Argentina | C) Brazil | D) Italy,A
+18,Sports,Easy,Multiple Choice,What are the primary home shirt colors of the Argentina national football team?,A) Yellow and Green | B) Sky Blue and White stripes | C) Red and White | D) Blue and Red,B
+19,Sports,Easy,Multiple Choice,Which club plays its home matches at the iconic stadium known as Old Trafford?,A) Manchester City | B) Liverpool | C) Manchester United | D) Arsenal,C
+20,Sports,Easy,Multiple Choice,Which club plays its home matches at the Santiago Bernabéu Stadium?,A) Atletico Madrid | B) Barcelona | C) Sevilla | D) Real Madrid,D
+21,Sports,Easy,Multiple Choice,Which club plays its home matches at the Camp Nou (Spotify Camp Nou)?,A) FC Barcelona | B) Real Madrid | C) Valencia | D) Espanyol,A
+22,Sports,Easy,Multiple Choice,What are the traditional home kit colors of Borussia Dortmund?,A) Red and White | B) Yellow and Black | C) Blue and White | D) Green and White,B
+23,Sports,Easy,Typing,How many total players from both teams combined start on the pitch in a football match?,,22
+24,Sports,Easy,Typing,What is the country of origin of the famous club Bayern Munich?,,Germany
+25,Sports,Easy,Typing,What English football club is famously nicknamed 'The Gunners'?,,Arsenal
+26,Sports,Easy,Typing,What Spanish club is famously nicknamed 'Los Blancos' (The Whites)?,,Real Madrid
+27,Sports,Medium,Multiple Choice,Who won the Ballon d'Or award for the best men's football player in the world in 2023?,A) Erling Haaland | B) Kylian Mbappe | C) Lionel Messi | D) Kevin De Bruyne,C
+28,Sports,Medium,Multiple Choice,"Which club won the UEFA Champions League title in the 2022-2023 season, completing a historic treble?",A) Inter Milan | B) Real Madrid | C) Bayern Munich | D) Manchester City,D
+29,Sports,Medium,Multiple Choice,Who was the top goalscorer (Golden Boot winner) at the 2022 FIFA World Cup in Qatar?,A) Kylian Mbappe | B) Lionel Messi | C) Olivier Giroud | D) Julian Alvarez,A
+30,Sports,Medium,Multiple Choice,Which nation won the 2018 FIFA World Cup held in Russia?,A) Croatia | B) France | C) Belgium | D) England,B
+31,Sports,Medium,Multiple Choice,Who won the European Golden Shoe for top league scorer across Europe in the 2022-2023 season with 36 Premier League goals?,A) Harry Kane | B) Robert Lewandowski | C) Erling Haaland | D) Mohamed Salah,C
+32,Sports,Medium,Multiple Choice,Which club has won the most UEFA Champions League / European Cup titles in football history?,A) AC Milan | B) Liverpool | C) Bayern Munich | D) Real Madrid,D
+33,Sports,Medium,Multiple Choice,In what year did Portugal win their first major international trophy by defeating France in the UEFA Euro final?,A) 2016 | B) 2012 | C) 2020 | D) 2008,A
+34,Sports,Medium,Multiple Choice,Who holds the all-time official record for the most international goals scored in men's football history?,A) Lionel Messi | B) Cristiano Ronaldo | C) Ali Daei | D) Pele,B
+35,Sports,Medium,Multiple Choice,Which country won the 2010 FIFA World Cup in South Africa with an extra-time goal by Andres Iniesta?,A) Netherlands | B) Germany | C) Spain | D) Brazil,C
+36,Sports,Medium,Multiple Choice,Which manager famously led Arsenal through the entire 2003-2004 Premier League season undefeated as 'The Invincibles'?,A) Alex Ferguson | B) Jose Mourinho | C) Pep Guardiola | D) Arsene Wenger,D
+37,Sports,Medium,Multiple Choice,In what year did Leicester City shock the sporting world by winning the English Premier League at 5000-to-1 odds?,A) 2016 | B) 2014 | C) 2018 | D) 2020,A
+38,Sports,Medium,Multiple Choice,Which Italian goalkeeper holds the record for the most appearances in Serie A history?,A) Dino Zoff | B) Gianluigi Buffon | C) Walter Zenga | D) Gianluigi Donnarumma,B
+39,Sports,Medium,Multiple Choice,Who is the all-time top goalscorer in the history of the FIFA World Cup tournament finals with 16 goals?,A) Ronaldo Nazario | B) Gerd Muller | C) Miroslav Klose | D) Pele,C
+40,Sports,Medium,Typing,Which nation won the 2022 FIFA World Cup in Qatar?,,Argentina
+41,Sports,Medium,Typing,Who won the Ballon d'Or in 2022 after leading Real Madrid to the Champions League title?,,Karim Benzema
+42,Sports,Medium,Typing,What is the surname of the manager who won a record 13 Premier League titles with Manchester United?,,Ferguson
+43,Sports,Hard,Multiple Choice,"Who remains the only player in football history to win three FIFA World Cup tournaments as a player (1958, 1962, 1970)?",A) Diego Maradona | B) Garrincha | C) Mario Zagallo | D) Pele,D
+44,Sports,Hard,Multiple Choice,What was the record transfer fee paid by Paris Saint-Germain to FC Barcelona for Neymar Jr in August 2017?,A) €222 million | B) €180 million | C) €150 million | D) €120 million,A
+45,Sports,Hard,Multiple Choice,Which African nation became the first ever to reach the semi-finals of a FIFA World Cup in 2022?,A) Cameroon | B) Morocco | C) Senegal | D) Ghana,B
+46,Sports,Hard,Multiple Choice,Who scored the fastest hat-trick in English Premier League history in just 2 minutes and 56 seconds for Southampton against Aston Villa in 2015?,A) Sergio Aguero | B) Robbie Fowler | C) Sadio Mane | D) Jermain Defoe,C
+47,Sports,Hard,Multiple Choice,Which club won five consecutive European Cup titles from the tournament's inception between 1956 and 1960?,A) Ajax | B) Benfica | C) Inter Milan | D) Real Madrid,D
+48,Sports,Hard,Multiple Choice,Who is the only goalkeeper in football history to have won the prestigious Ballon d'Or award (in 1963)?,A) Lev Yashin | B) Gordon Banks | C) Dino Zoff | D) Iker Casillas,A
+49,Sports,Hard,Multiple Choice,In which city was the famous 'Miracle of Istanbul' Champions League final played in 2005 when Liverpool came back from 3-0 down against AC Milan?,A) Athens | B) Istanbul | C) Madrid | D) Rome,B
+50,Sports,Hard,Multiple Choice,"Which referee officiated the 2010 FIFA World Cup Final between Spain and the Netherlands, issuing a record 14 yellow cards and 1 red card?",A) Pierluigi Collina | B) Nicola Rizzoli | C) Howard Webb | D) Mark Clattenburg,C
+51,Sports,Easy,Typing,What country hosted the 1994 FIFA World Cup?,,United States
+52,Sports,Hard,Multiple Choice,What Dutch legend popularized the concept of 'Total Football' with Ajax and Barcelona?,A) Rinus Michels | B) Marco van Basten | C) Ruud Gullit | D) Johan Cruyff,D
+53,Sports,Hard,Typing,Which club was founded in 1899 by Joan Gamper?,,Barcelona
+54,Sports,Easy,Multiple Choice,What is the primary role of a striker or center-forward in a football team?,A) Score goals | B) Make saves | C) Defend corner kicks only | D) Officiate the game,A
+55,Sports,Easy,Multiple Choice,What part of the body is a football outfield player NOT allowed to intentionally use during open play?,A) Head | B) Hands and arms | C) Chest | D) Feet,B
+56,Sports,Easy,Multiple Choice,What are the traditional home kit colors of Chelsea FC?,A) Red | B) Yellow | C) Royal Blue | D) Green,C
+57,Sports,Easy,Multiple Choice,What are the traditional home kit colors of Manchester City?,A) Red and Black | B) Navy Blue | C) Yellow and Blue | D) Sky Blue and White,D
+58,Sports,Easy,Multiple Choice,What is the name of the prestigious annual European club competition organized by UEFA?,A) UEFA Champions League | B) Copa Libertadores | C) Copa America | D) FIFA Club World Cup,A
+59,Sports,Easy,Multiple Choice,How many substitutions are typically allowed per team in standard modern 90-minute top-flight football matches?,A) 2 | B) 5 | C) 3 | D) 7,B
+60,Sports,Easy,Multiple Choice,Which major football club plays its home games at the stadium named Anfield?,A) Everton | B) Arsenal | C) Liverpool FC | D) Chelsea,C
+61,Sports,Easy,Multiple Choice,What is the term for a match played between two rival clubs from the same city or local region (e.g. Real Madrid vs Atletico Madrid)?,A) Friendly | B) Playoff | C) Exhibition | D) Derby,D
+62,Sports,Easy,Multiple Choice,"In football, what restart is awarded when the ball completely crosses the sideline (touchline)?",A) Throw-in | B) Corner kick | C) Goal kick | D) Penalty kick,A
+63,Sports,Easy,Multiple Choice,What restart is awarded to the attacking team when the defending team knocks the ball over their own goal line outside the goal?,A) Penalty kick | B) Corner kick | C) Throw-in | D) Free kick,B
+64,Sports,Easy,Multiple Choice,How many halves are in a standard football match?,A) 4 | B) 3 | C) 2 | D) 1,C
+65,Sports,Easy,Multiple Choice,How long is each half in a standard professional football match?,A) 40 minutes | B) 30 minutes | C) 50 minutes | D) 45 minutes,D
+66,Sports,Easy,Multiple Choice,What are the primary home colors of the national football team of Italy (Azzurri)?,A) Azure Blue | B) Green | C) White | D) Red,A
+67,Sports,Easy,Multiple Choice,What are the primary home colors of the national football team of Germany?,A) Red and Yellow | B) White shirts and Black shorts | C) Blue and White | D) All Green,B
+68,Sports,Easy,Multiple Choice,What are the primary home colors of the Netherlands national football team?,A) Red | B) Blue | C) Bright Orange | D) Yellow,C
+69,Sports,Easy,Multiple Choice,What is the term for a player scoring three goals in a single football match?,A) Brace | B) Grand slam | C) Double | D) Hat-trick,D
+70,Sports,Easy,Multiple Choice,What is the term for a player scoring two goals in a single football match?,A) Brace | B) Hat-trick | C) Treble | D) Clean sheet,A
+71,Sports,Easy,Multiple Choice,What term describes a goalkeeper or team preventing the opponent from scoring any goals during an entire match?,A) Hat-trick | B) Shutout / Clean sheet | C) Brace | D) Golden goal,B
+72,Sports,Easy,Multiple Choice,Which country hosted the FIFA World Cup in 2014?,A) Russia | B) South Africa | C) Brazil | D) Qatar,C
+73,Sports,Easy,Multiple Choice,Which country hosted the FIFA World Cup in 2018?,A) Brazil | B) Germany | C) France | D) Russia,D
+74,Sports,Easy,Multiple Choice,Which country hosted the FIFA World Cup in 2022?,A) Qatar | B) United States | C) Japan | D) Spain,A
+75,Sports,Easy,Multiple Choice,Which South American tournament crowns the continent's champion national football team?,A) UEFA Euro | B) Copa America | C) Gold Cup | D) AFCON,B
+76,Sports,Easy,Typing,What international football governing body organizes the World Cup?,,FIFA
+77,Sports,Easy,Typing,What European football governing body organizes the Champions League?,,UEFA
+78,Sports,Easy,Typing,What term describes a kick awarded inside the 18-yard box for a direct foul?,,penalty
+79,Sports,Medium,Multiple Choice,Who won the FIFA Men's World Player of the Year / Best FIFA Men's Player award for 2020 and 2021 playing for Bayern Munich?,A) Cristiano Ronaldo | B) Lionel Messi | C) Robert Lewandowski | D) Neymar Jr,C
+80,Sports,Medium,Multiple Choice,"Which national team won the UEFA European Championship (Euro 2020, played in 2021) by defeating England on penalties at Wembley?",A) Spain | B) France | C) Portugal | D) Italy,D
+81,Sports,Medium,Multiple Choice,In what year did Germany defeat Argentina 1-0 with a goal by Mario Gotze to win the FIFA World Cup?,A) 2014 | B) 2010 | C) 2006 | D) 2018,A
+82,Sports,Medium,Multiple Choice,Who is the all-time top goalscorer in UEFA Champions League history?,A) Lionel Messi | B) Cristiano Ronaldo | C) Robert Lewandowski | D) Karim Benzema,B
+83,Sports,Medium,Multiple Choice,Which club won six trophies in a single calendar year (the 'Sextuple') in 2009 under manager Pep Guardiola?,A) Real Madrid | B) Bayern Munich | C) FC Barcelona | D) Manchester United,C
+84,Sports,Medium,Multiple Choice,"Who won the Ballon d'Or in 2018, breaking the ten-year dominance of Lionel Messi and Cristiano Ronaldo?",A) Antoine Griezmann | B) Kylian Mbappe | C) Mohamed Salah | D) Luka Modric,D
+85,Sports,Medium,Multiple Choice,Which English football club won the UEFA Champions League in 2021 by defeating Manchester City 1-0 in the final?,A) Chelsea FC | B) Liverpool | C) Manchester United | D) Tottenham Hotspur,A
+86,Sports,Medium,Multiple Choice,What stadium in London is the traditional national venue for England's home matches and FA Cup finals?,A) Old Trafford | B) Wembley Stadium | C) Emirates Stadium | D) Stamford Bridge,B
+87,Sports,Medium,Multiple Choice,Who was the star Brazilian forward known as 'O Fenomeno' who scored 8 goals to lead Brazil to the 2002 World Cup title?,A) Ronaldinho | B) Rivaldo | C) Ronaldo Nazario | D) Kaka,C
+88,Sports,Medium,Multiple Choice,"Which club won the UEFA Champions League title three consecutive times in 2016, 2017, and 2018 under Zinedine Zidane?",A) Barcelona | B) Bayern Munich | C) Juventus | D) Real Madrid,D
+89,Sports,Medium,Multiple Choice,Who is the all-time top goalscorer in the history of the English Premier League with 260 goals?,A) Alan Shearer | B) Wayne Rooney | C) Harry Kane | D) Sergio Aguero,A
+90,Sports,Medium,Multiple Choice,Which French superstar scored two headers in the 1998 World Cup Final to lead France to a 3-0 victory over Brazil?,A) Thierry Henry | B) Zinedine Zidane | C) Michel Platini | D) Didier Deschamps,B
+91,Sports,Medium,Multiple Choice,What Brazilian club did Neymar and Pele both play for early in their careers?,A) Flamengo | B) Palmeiras | C) Santos | D) Sao Paulo,C
+92,Sports,Medium,Typing,In which country was the 2006 FIFA World Cup held?,,Germany
+93,Sports,Hard,Multiple Choice,"Who holds the record for the most goals scored in a single calendar year in football history, netting 91 official goals in 2012?",A) Cristiano Ronaldo | B) Gerd Muller | C) Pele | D) Lionel Messi,D
+94,Sports,Medium,Multiple Choice,Which country won the first ever UEFA European Championship (then known as the European Nations' Cup) in 1960?,A) Soviet Union | B) Yugoslavia | C) Czechoslovakia | D) France,A
+95,Sports,Easy,Multiple Choice,What was the final score in the historic 2014 World Cup semi-final between Germany and hosts Brazil in Belo Horizonte?,A) 5-0 | B) 7-1 | C) 6-1 | D) 4-0,B
+96,Sports,Hard,Multiple Choice,"Who is the only manager in football history to have won the domestic league title in all five top European leagues (England, Spain, Italy, Germany, France)?",A) Jose Mourinho | B) Pep Guardiola | C) Carlo Ancelotti | D) Jurgen Klopp,C
+97,Sports,Hard,Multiple Choice,Who won the Golden Ball as the best player at the 2014 FIFA World Cup despite his team losing the final?,A) James Rodriguez | B) Thomas Muller | C) Arjen Robben | D) Lionel Messi,D
+98,Sports,Hard,Multiple Choice,"Which club won the European Cup / Champions League title in 1991, becoming the only Serbian/Yugoslav club to do so?",A) Red Star Belgrade | B) Partizan Belgrade | C) Dinamo Zagreb | D) Hajduk Split,A
+99,Sports,Hard,Multiple Choice,"Who was the top goalscorer in a single FIFA World Cup tournament, scoring 13 goals for France in 1958?",A) Eusebio | B) Just Fontaine | C) Sandor Kocsis | D) Ferenc Puskas,B
+100,Sports,Hard,Multiple Choice,What trophy was awarded to the winner of the FIFA World Cup before the current trophy was introduced in 1974?,A) FIFA World Cup Trophy | B) Henri Delaunay Trophy | C) Jules Rimet Trophy | D) Olympic Cup,C
+101,Sports,Easy,Multiple Choice,How many players are on the court for one team at a time during a standard basketball game?,A) 6 | B) 7 | C) 4 | D) 5,D
+102,Sports,Easy,Multiple Choice,How many points is a standard basket scored from inside the three-point arc worth?,A) 2 points | B) 1 point | C) 3 points | D) 4 points,A
+103,Sports,Easy,Multiple Choice,How many points is a successfully made free throw worth in basketball?,A) 2 points | B) 1 point | C) 3 points | D) 0.5 points,B
+104,Sports,Easy,Multiple Choice,How many points is a shot made from beyond the designated arc on the court worth?,A) 2 points | B) 4 points | C) 3 points | D) 1 point,C
+105,Sports,Easy,Multiple Choice,What is the name of the premier professional men's basketball league in North America?,A) WNBA | B) EuroLeague | C) NCAA | D) NBA,D
+106,Sports,Easy,Multiple Choice,What are the iconic primary colors of the Los Angeles Lakers franchise?,A) Purple and Gold | B) Red and Black | C) Green and White | D) Blue and Orange,A
+107,Sports,Easy,Multiple Choice,What are the traditional team colors of the Boston Celtics?,A) Purple and Gold | B) Green and White | C) Red and White | D) Black and Silver,B
+108,Sports,Easy,Multiple Choice,What are the primary team colors of the Chicago Bulls?,A) Blue and White | B) Green and Gold | C) Red and Black | D) Yellow and Blue,C
+109,Sports,Easy,Multiple Choice,What are the primary colors of the Golden State Warriors?,A) Purple and Orange | B) Red and Black | C) Green and White | D) Royal Blue and Gold,D
+110,Sports,Easy,Multiple Choice,What violation occurs when an offensive player takes more than the allowed steps without dribbling the basketball?,A) Traveling | B) Double dribble | C) Goaltending | D) Backcourt violation,A
+111,Sports,Easy,Multiple Choice,"What violation occurs when a player stops dribbling, holds the ball with both hands, and starts dribbling again?",A) Traveling | B) Double dribble | C) Charging | D) Over and back,B
+112,Sports,Easy,Multiple Choice,What is the standard height of a basketball rim above the court floor in feet?,A) 9 feet | B) 11 feet | C) 10 feet | D) 12 feet,C
+113,Sports,Easy,Multiple Choice,How many quarters are played in a standard NBA regulation game?,A) 2 quarters | B) 3 quarters | C) 5 quarters | D) 4 quarters,D
+114,Sports,Easy,Multiple Choice,How long is each quarter in an official NBA basketball game?,A) 12 minutes | B) 10 minutes | C) 15 minutes | D) 8 minutes,A
+115,Sports,Easy,Multiple Choice,Which basketball player is famous for wearing jersey number 23 and winning six NBA championships with the Chicago Bulls in the 1990s?,A) Magic Johnson | B) Michael Jordan | C) Larry Bird | D) Shaquille O'Neal,B
+116,Sports,Easy,Multiple Choice,Which legendary Lakers guard was famously nicknamed 'The Black Mamba' and won five NBA titles?,A) LeBron James | B) Kareem Abdul-Jabbar | C) Kobe Bryant | D) Shaquille O'Neal,C
+117,Sports,Easy,Multiple Choice,Which superstar surpassed Kareem Abdul-Jabbar in February 2023 to become the NBA's all-time leading regular-season scorer?,A) Stephen Curry | B) Kevin Durant | C) Kobe Bryant | D) LeBron James,D
+118,Sports,Easy,Multiple Choice,Which Golden State Warriors point guard is widely regarded as the greatest three-point shooter in basketball history?,A) Stephen Curry | B) Klay Thompson | C) Damian Lillard | D) Ray Allen,A
+119,Sports,Easy,Multiple Choice,What is the position of the player who typically serves as the primary ball-handler and playmaker for the offense?,A) Center | B) Point Guard | C) Power Forward | D) Small Forward,B
+120,Sports,Easy,Multiple Choice,What is the position of the usually tallest player stationed closest to the basket to grab rebounds and protect the rim?,A) Point Guard | B) Shooting Guard | C) Center | D) Small Forward,C
+121,Sports,Easy,Multiple Choice,What is the duration of the shot clock for an offensive possession in the NBA?,A) 30 seconds | B) 35 seconds | C) 20 seconds | D) 24 seconds,D
+122,Sports,Easy,Multiple Choice,What Canadian physical educator invented the game of basketball in December 1891 using peach baskets?,A) James Naismith | B) Walter Camp | C) Abner Doubleday | D) Alexander Cartwright,A
+123,Sports,Easy,Typing,How many total players from both teams are on the basketball court at once?,,10
+124,Sports,Easy,Typing,What is the standard height in feet of an NBA basketball hoop?,,10
+125,Sports,Easy,Typing,What NBA team plays its home games at Madison Square Garden in New York?,,Knicks
+126,Sports,Easy,Typing,What NBA team did Michael Jordan win 6 championships with?,,Chicago Bulls
+127,Sports,Medium,Multiple Choice,"Which NBA franchise won their first ever championship in franchise history in 2023, led by Finals MVP Nikola Jokic?",A) Miami Heat | B) Denver Nuggets | C) Phoenix Suns | D) Memphis Grizzlies,B
+128,Sports,Medium,Multiple Choice,Which team won the NBA Championship in 2022 by defeating the Boston Celtics in six games in the Finals?,A) Milwaukee Bucks | B) Los Angeles Lakers | C) Golden State Warriors | D) Toronto Raptors,C
+129,Sports,Medium,Multiple Choice,Which Greek superstar led the Milwaukee Bucks to the 2021 NBA Championship and scored 50 points in the decisive Game 6?,A) Luka Doncic | B) Nikola Jokic | C) Joel Embiid | D) Giannis Antetokounmpo,D
+130,Sports,Medium,Multiple Choice,"Which Canadian team won the 2019 NBA Championship, the first title won by a non-U.S. franchise in NBA history?",A) Toronto Raptors | B) Vancouver Grizzlies | C) Montreal Royals | D) Ottawa Senators,A
+131,Sports,Medium,Multiple Choice,"In 2016, which team pulled off the greatest comeback in NBA Finals history, overcoming a 3-1 series deficit to defeat the Golden State Warriors?",A) San Antonio Spurs | B) Cleveland Cavaliers | C) Miami Heat | D) Boston Celtics,B
+132,Sports,Medium,Multiple Choice,Who won the NBA regular season Most Valuable Player (MVP) award in both 2021 and 2022 playing for the Denver Nuggets?,A) Giannis Antetokounmpo | B) Joel Embiid | C) Nikola Jokic | D) Stephen Curry,C
+133,Sports,Medium,Multiple Choice,Which center won the NBA regular season MVP award in 2023 while playing for the Philadelphia 76ers?,A) Nikola Jokic | B) Giannis Antetokounmpo | C) Rudy Gobert | D) Joel Embiid,D
+134,Sports,Medium,Multiple Choice,Which two iconic NBA franchises share the record for the most total NBA championships won in league history?,A) Celtics and Lakers | B) Bulls and Warriors | C) Spurs and Heat | D) Knicks and Sixers,A
+135,Sports,Medium,Multiple Choice,Who is the all-time leader in triple-doubles in NBA regular-season history?,A) Magic Johnson | B) Russell Westbrook | C) Oscar Robertson | D) Jason Kidd,B
+136,Sports,Medium,Multiple Choice,In what year did the USA Olympic men's basketball team earn global fame as the original 'Dream Team' at the Barcelona Olympics?,A) 1988 | B) 1996 | C) 1992 | D) 2000,C
+137,Sports,Medium,Multiple Choice,Which legendary coach won 11 NBA championships as head coach (6 with the Chicago Bulls and 5 with the Los Angeles Lakers)?,A) Red Auerbach | B) Gregg Popovich | C) Pat Riley | D) Phil Jackson,D
+138,Sports,Medium,Multiple Choice,Who scored a historic 100 points in a single NBA game for the Philadelphia Warriors against the New York Knicks in March 1962?,A) Wilt Chamberlain | B) Bill Russell | C) Elgin Baylor | D) Oscar Robertson,A
+139,Sports,Medium,Multiple Choice,Which team set the regular-season record for the most wins in NBA history by finishing with a 73-9 record in 2015-2016?,A) 1995-96 Chicago Bulls | B) 2015-16 Golden State Warriors | C) 1985-86 Boston Celtics | D) 1971-72 LA Lakers,B
+140,Sports,Medium,Typing,Who was named the Finals MVP of the 2023 NBA Finals for the Denver Nuggets?,,Nikola Jokic
+141,Sports,Medium,Typing,Which Golden State Warriors guard was named the 2022 NBA Finals MVP?,,Stephen Curry
+142,Sports,Medium,Typing,What is the nickname of the San Antonio Spurs coach who won 5 NBA titles with the team?,,Gregg Popovich
+143,Sports,Hard,Multiple Choice,"Which player holds the record for the most NBA championship rings won as an active player in history, with 11 titles with the Boston Celtics?",A) Michael Jordan | B) Kareem Abdul-Jabbar | C) Bill Russell | D) Sam Jones,C
+144,Sports,Hard,Multiple Choice,"Who is the silhouette featured on the official red, white, and blue NBA league logo?",A) Michael Jordan | B) Elgin Baylor | C) Magic Johnson | D) Jerry West,D
+145,Sports,Hard,Multiple Choice,"Who won the first ever NBA Finals MVP award in 1969, remaining the only player to win the award while playing on the losing team in the Finals?",A) Jerry West | B) Wilt Chamberlain | C) Bill Russell | D) John Havlicek,A
+146,Sports,Hard,Multiple Choice,What was the lowest seed in NBA playoff history to win an NBA Championship (achieved by the Houston Rockets in 1995)?,A) 4th seed | B) 6th seed | C) 5th seed | D) 8th seed,B
+147,Sports,Hard,Multiple Choice,"Who holds the record for the most points scored in a single quarter in NBA history, scoring 37 points in the 3rd quarter against the Kings in 2015?",A) Stephen Curry | B) Damian Lillard | C) Klay Thompson | D) Devin Booker,C
+148,Sports,Hard,Multiple Choice,"Which player scored 81 points in a single game for the Los Angeles Lakers against the Toronto Raptors on January 22, 2006?",A) Shaquille O'Neal | B) Allen Iverson | C) Tracy McGrady | D) Kobe Bryant,D
+149,Sports,Hard,Multiple Choice,Who holds the NBA all-time record for the most career assists and career steals?,A) John Stockton | B) Jason Kidd | C) Steve Nash | D) Chris Paul,A
+150,Sports,Hard,Multiple Choice,Which team drafted Dirk Nowitzki 9th overall in the 1998 NBA Draft before immediately trading him to the Dallas Mavericks on draft night?,A) Boston Celtics | B) Milwaukee Bucks | C) Los Angeles Clippers | D) Golden State Warriors,B
+151,Sports,Hard,Multiple Choice,What French phenom was selected #1 overall in the 2023 NBA Draft by the San Antonio Spurs?,A) Scoot Henderson | B) Brandon Miller | C) Victor Wembanyama | D) Amen Thompson,C
+152,Sports,Hard,Typing,What college did Michael Jordan play for before entering the NBA?,,North Carolina
+153,Sports,Hard,Multiple Choice,Who was named the 2014 NBA regular season MVP playing for the Oklahoma City Thunder?,A) Russell Westbrook | B) James Harden | C) Stephen Curry | D) Kevin Durant,D
+154,Sports,Easy,Multiple Choice,"What is the term for stealing the ball, grabbing a defensive rebound, or forcing a turnover in basketball?",A) Steal | B) Turnover | C) Rebound | D) Block,A
+155,Sports,Easy,Multiple Choice,What is it called when a defensive player legally swats away an opponent's shot attempt before it reaches its downward arc?,A) Foul | B) Block | C) Steal | D) Charge,B
+156,Sports,Easy,Multiple Choice,What is the term for a spectacular scoring play where a player jumps and forcefully throws the basketball straight down through the hoop?,A) Layup | B) Hook shot | C) Slam dunk | D) Free throw,C
+157,Sports,Easy,Multiple Choice,What is the gentle one-handed scoring shot made off the backboard near the rim called?,A) Dunk | B) Fadeaway | C) Jump shot | D) Layup,D
+158,Sports,Easy,Multiple Choice,How many personal fouls causes a player to foul out of an NBA regulation game?,A) 6 fouls | B) 4 fouls | C) 5 fouls | D) 7 fouls,A
+159,Sports,Easy,Multiple Choice,How many personal fouls causes a player to foul out in FIBA international and college (NCAA) basketball?,A) 4 fouls | B) 5 fouls | C) 6 fouls | D) 7 fouls,B
+160,Sports,Easy,Multiple Choice,What is the name of the prestigious championship trophy awarded annually to the NBA champion team?,A) Vince Lombardi Trophy | B) Stanley Cup | C) Larry O'Brien Championship Trophy | D) Commissioner's Trophy,C
+161,Sports,Easy,Multiple Choice,What are the primary colors of the Miami Heat?,"A) Green and Gold | B) Blue and Yellow | C) Purple and Silver | D) Red, Black, and White",D
+162,Sports,Easy,Multiple Choice,What are the primary colors of the Dallas Mavericks?,"A) Royal Blue, Navy Blue, and Silver | B) Red and Black | C) Yellow and Purple | D) Green and White",A
+163,Sports,Easy,Multiple Choice,What are the primary colors of the Philadelphia 76ers?,"A) Green and Yellow | B) Blue, Red, and White | C) Purple and Gold | D) Black and Silver",B
+164,Sports,Easy,Multiple Choice,Which NBA team is located in Canada and won the 2019 title?,A) Vancouver Whitecaps | B) Montreal Canadiens | C) Toronto Raptors | D) Calgary Flames,C
+165,Sports,Easy,Multiple Choice,What is the name of the annual all-star exhibition weekend held in February by the NBA?,A) Super Bowl | B) Finals Week | C) March Madness | D) NBA All-Star Weekend,D
+166,Sports,Easy,Multiple Choice,What famous contest held during NBA All-Star Weekend tests players' aerial creativity and dunking ability?,A) Slam Dunk Contest | B) Three-Point Contest | C) Skills Challenge | D) Rising Stars,A
+167,Sports,Easy,Multiple Choice,Which player was nicknamed 'The Answer' and is celebrated for his signature crossover dribble and iconic braids in Philadelphia?,A) Tracy McGrady | B) Allen Iverson | C) Vince Carter | D) Kobe Bryant,B
+168,Sports,Easy,Multiple Choice,"Which German legend spent his entire 21-season NBA career with the Dallas Mavericks, winning the 2011 championship?",A) Detlef Schrempf | B) Dennis Schroder | C) Dirk Nowitzki | D) Pau Gasol,C
+169,Sports,Easy,Multiple Choice,"Which Spanish superstar forward won two NBA championships playing alongside Kobe Bryant on the LA Lakers (2009, 2010)?",A) Marc Gasol | B) Ricky Rubio | C) Serge Ibaka | D) Pau Gasol,D
+170,Sports,Easy,Multiple Choice,What is the term for a pass that directly leads to a made basket by a teammate?,A) Assist | B) Screen | C) Turnover | D) Rebound,A
+171,Sports,Easy,Multiple Choice,What is the term for grabbing the basketball after a missed field goal or free throw attempt?,A) Steal | B) Rebound | C) Turnover | D) Assist,B
+172,Sports,Easy,Multiple Choice,What is the rectangular painted area directly in front of each basket on a basketball court commonly called?,A) The Zone | B) The Box | C) The Key / The Paint | D) The Pocket,C
+173,Sports,Easy,Typing,What is the term for accumulating double-digit stats in two statistical categories in a game?,,double-double
+174,Sports,Easy,Typing,What is the term for accumulating double-digit stats in three statistical categories in a game?,,triple-double
+175,Sports,Easy,Typing,Which NBA team drafted LeBron James with the #1 overall pick in the 2003 NBA Draft?,,Cleveland Cavaliers
+176,Sports,Medium,Multiple Choice,"Which dominant center partnered with Kobe Bryant to win three consecutive NBA championships (2000, 2001, 2002) with the Los Angeles Lakers?",A) Tim Duncan | B) David Robinson | C) Patrick Ewing | D) Shaquille O'Neal,D
+177,Sports,Medium,Multiple Choice,Which quiet superstar power forward known as 'The Big Fundamental' won five NBA championships with the San Antonio Spurs?,A) Tim Duncan | B) Kevin Garnett | C) Dirk Nowitzki | D) Charles Barkley,A
+178,Sports,Medium,Multiple Choice,Who won the NBA regular season MVP award in 2008 and led the USA Olympic 'Redeem Team' to gold in Beijing that same year?,A) LeBron James | B) Kobe Bryant | C) Kevin Garnett | D) Dwyane Wade,B
+179,Sports,Medium,Multiple Choice,"Which dynamic point guard won the 2011 NBA regular season MVP at age 22, becoming the youngest MVP in NBA history with the Chicago Bulls?",A) Russell Westbrook | B) Chris Paul | C) Derrick Rose | D) Kyrie Irving,C
+180,Sports,Medium,Multiple Choice,"In the 2010 NBA Finals, which team did the Los Angeles Lakers defeat in a thrilling 7-game series to repeat as champions?",A) Orlando Magic | B) Miami Heat | C) San Antonio Spurs | D) Boston Celtics,D
+181,Sports,Medium,Multiple Choice,Who hit the dramatic game-winning three-pointer in Game 7 of the 2016 NBA Finals for the Cleveland Cavaliers against the Golden State Warriors?,A) Kyrie Irving | B) LeBron James | C) JR Smith | D) Kevin Love,A
+182,Sports,Medium,Multiple Choice,Which sharpshooter was named the only unanimous regular season MVP in NBA history after the 2015-2016 season?,A) LeBron James | B) Stephen Curry | C) Kevin Durant | D) James Harden,B
+183,Sports,Medium,Multiple Choice,Which superstar forward won back-to-back NBA Finals MVP awards with the Golden State Warriors in 2017 and 2018?,A) Stephen Curry | B) Klay Thompson | C) Kevin Durant | D) Draymond Green,C
+184,Sports,Medium,Multiple Choice,Which franchise won the NBA Championship in the 2020 Orlando Bubble season?,A) Miami Heat | B) Boston Celtics | C) Denver Nuggets | D) Los Angeles Lakers,D
+185,Sports,Medium,Multiple Choice,"What country won the FIBA Basketball World Cup tournament in 2023, defeating Serbia in the final in Manila?",A) Germany | B) United States | C) Spain | D) Canada,A
+186,Sports,Medium,Typing,Who was named the MVP of the 2023 FIBA Basketball World Cup playing for Germany?,,Dennis Schroder
+187,Sports,Medium,Multiple Choice,Which team did LeBron James win two championships with alongside Dwyane Wade and Chris Bosh?,A) Los Angeles Lakers | B) Miami Heat | C) Cleveland Cavaliers | D) Boston Celtics,B
+188,Sports,Hard,Multiple Choice,"Who holds the NBA playoff record for the most points scored in a single playoff game, dropping 63 points against the Celtics in 1986?",A) Elgin Baylor | B) Donovan Mitchell | C) Michael Jordan | D) LeBron James,C
+189,Sports,Hard,Multiple Choice,Which player was the #1 overall pick in the famous 1984 NBA Draft ahead of Michael Jordan (who went 3rd)?,A) Sam Bowie | B) Charles Barkley | C) John Stockton | D) Hakeem Olajuwon,D
+190,Sports,Hard,Multiple Choice,"Who is the only player in NBA history to win the MVP, Coach of the Year, and Executive of the Year awards in his career?",A) Larry Bird | B) Pat Riley | C) Jerry West | D) Phil Jackson,A
+191,Sports,Hard,Multiple Choice,"Who holds the record for the most career rebounds in NBA history with 23,924 total rebounds?",A) Bill Russell | B) Wilt Chamberlain | C) Kareem Abdul-Jabbar | D) Moses Malone,B
+192,Sports,Hard,Multiple Choice,Which team won the 2004 NBA Championship by upsetting the star-studded Los Angeles Lakers 4-1 with smothering defense?,A) San Antonio Spurs | B) Indiana Pacers | C) Detroit Pistons | D) New Jersey Nets,C
+193,Sports,Hard,Multiple Choice,Who was named the NBA Finals MVP in 2004 for leading the Detroit Pistons' championship victory?,A) Richard Hamilton | B) Ben Wallace | C) Rasheed Wallace | D) Chauncey Billups,D
+194,Sports,Hard,Multiple Choice,What college did Stephen Curry lead on a memorable Cinderella run to the NCAA Elite Eight in 2008?,A) Davidson | B) Duke | C) North Carolina | D) Gonzaga,A
+195,Sports,Medium,Multiple Choice,Who holds the record for the longest consecutive game winning streak in NBA regular-season history with 33 straight wins in 1971-72?,A) Golden State Warriors | B) Los Angeles Lakers | C) Miami Heat | D) Chicago Bulls,B
+196,Sports,Hard,Multiple Choice,"Who is the shortest player in NBA history, standing at just 5 feet 3 inches (1.60 m) tall?",A) Spud Webb | B) Nate Robinson | C) Muggsy Bogues | D) Earl Boykins,C
+197,Sports,Hard,Typing,What European club did Luka Doncic win the EuroLeague MVP and title with before entering the NBA in 2018?,,Real Madrid
+198,Sports,Hard,Typing,What team drafted Kobe Bryant 13th overall in the 1996 NBA Draft before trading him to the Lakers?,,Charlotte Hornets
+199,Sports,Hard,Multiple Choice,Who won the NBA Defensive Player of the Year award a record-tying 4 times along with Ben Wallace and Dikembe Mutombo?,A) Dwight Howard | B) Dennis Rodman | C) Kawhi Leonard | D) Rudy Gobert,D
+200,Sports,Easy,Multiple Choice,Which player holds the NBA record for most three-pointers made in a single regular season game with 14 threes for Golden State in 2018?,A) Klay Thompson | B) Stephen Curry | C) Damian Lillard | D) Zach LaVine,A
+201,Sports,Easy,Multiple Choice,How many players are on the field for one team at a time during an NFL American football play?,A) 10 | B) 11 | C) 12 | D) 9,B
+202,Sports,Easy,Multiple Choice,How many points is a touchdown worth in American football?,A) 3 points | B) 7 points | C) 6 points | D) 4 points,C
+203,Sports,Easy,Multiple Choice,How many points is a successful field goal kicked through the uprights worth?,A) 1 point | B) 2 points | C) 6 points | D) 3 points,D
+204,Sports,Easy,Multiple Choice,What is the primary offensive player position responsible for receiving the snap and throwing passes or handing off the football?,A) Quarterback | B) Running Back | C) Wide Receiver | D) Tight End,A
+205,Sports,Easy,Multiple Choice,How many downs (attempts) does an offensive team have to advance the football at least 10 yards to earn a new first down?,A) 3 downs | B) 4 downs | C) 5 downs | D) 2 downs,B
+206,Sports,Easy,Multiple Choice,What is the name of the annual championship game of the National Football League (NFL)?,A) World Series | B) NBA Finals | C) The Super Bowl | D) Stanley Cup,C
+207,Sports,Easy,Multiple Choice,What are the primary traditional colors of the Kansas City Chiefs franchise?,A) Navy and Silver | B) Black and Gold | C) Green and Yellow | D) Red and Gold,D
+208,Sports,Easy,Multiple Choice,What are the primary traditional team colors of the Dallas Cowboys ('America's Team')?,"A) Navy Blue, Metallic Silver, and White | B) Red and Gold | C) Black and Yellow | D) Green and White",A
+209,Sports,Easy,Multiple Choice,What are the famous team colors of the Green Bay Packers?,A) Red and Pewter | B) Dark Green and Gold | C) Purple and Gold | D) Blue and Orange,B
+210,Sports,Easy,Multiple Choice,What are the iconic team colors of the Pittsburgh Steelers?,A) Blue and White | B) Red and Black | C) Black and Gold | D) Orange and Brown,C
+211,Sports,Easy,Multiple Choice,What are the primary colors of the New England Patriots?,"A) Purple and White | B) Green and Black | C) Orange and Blue | D) Navy Blue, Red, and Silver",D
+212,Sports,Easy,Multiple Choice,What is the length of a standard NFL football field between the goal lines (excluding end zones)?,A) 100 yards | B) 120 yards | C) 80 yards | D) 110 yards,A
+213,Sports,Easy,Multiple Choice,How deep is each scoring end zone at the ends of an American football field?,A) 5 yards | B) 10 yards | C) 15 yards | D) 20 yards,B
+214,Sports,Easy,Multiple Choice,"What defensive scoring play occurs when the offensive ball carrier is tackled inside their own end zone, awarding 2 points to the defense?",A) Touchback | B) Fumble | C) Safety | D) Interception,C
+215,Sports,Easy,Multiple Choice,What is the term for a defensive player catching a forward pass thrown by the opposing team's quarterback?,A) Incompletion | B) Sack | C) Fumble | D) Interception,D
+216,Sports,Easy,Multiple Choice,What is it called when a defensive player tackles the quarterback behind the line of scrimmage before he can throw a pass?,A) Sack | B) Safety | C) Block | D) Interception,A
+217,Sports,Easy,Multiple Choice,What is it called when a ball carrier drops or loses possession of the football before being ruled down by contact?,A) Incomplete pass | B) Fumble | C) Interception | D) Penalty,B
+218,Sports,Easy,Multiple Choice,How many quarters are played in an NFL regulation football game?,A) 2 quarters | B) 3 quarters | C) 4 quarters | D) 5 quarters,C
+219,Sports,Easy,Multiple Choice,How long is each quarter in an official NFL football game?,A) 10 minutes | B) 12 minutes | C) 20 minutes | D) 15 minutes,D
+220,Sports,Easy,Multiple Choice,Which legendary quarterback won a record seven Super Bowl titles (six with New England and one with Tampa Bay)?,A) Tom Brady | B) Peyton Manning | C) Joe Montana | D) Patrick Mahomes,A
+221,Sports,Easy,Multiple Choice,Which superstar quarterback led the Kansas City Chiefs to multiple Super Bowl championships and won back-to-back Super Bowls (LVII and LVIII)?,A) Josh Allen | B) Patrick Mahomes | C) Lamar Jackson | D) Joe Burrow,B
+222,Sports,Easy,Multiple Choice,What is the name of the trophy awarded to the champion of the Super Bowl each year?,A) Stanley Cup | B) Larry O'Brien Trophy | C) Vince Lombardi Trophy | D) Heisman Trophy,C
+223,Sports,Easy,Typing,How many total players from both teams are on the field during an NFL snap?,,22
+224,Sports,Easy,Typing,How many points is a successful safety worth in American football?,,2
+225,Sports,Easy,Typing,What is the position of the player who throws forward passes in American football?,,quarterback
+226,Sports,Easy,Typing,What trophy is awarded to the top individual player in American college football each year?,,Heisman Trophy
+227,Sports,Medium,Multiple Choice,Which franchise won Super Bowl LVIII in February 2024 by defeating the San Francisco 49ers in overtime in Las Vegas?,A) Philadelphia Eagles | B) Detroit Lions | C) Baltimore Ravens | D) Kansas City Chiefs,D
+228,Sports,Medium,Multiple Choice,"Which franchise won Super Bowl LVII in February 2023 by defeating the Philadelphia Eagles 38-35 in Glendale, Arizona?",A) Kansas City Chiefs | B) Cincinnati Bengals | C) Los Angeles Rams | D) Buffalo Bills,A
+229,Sports,Medium,Multiple Choice,"Which team won Super Bowl LVI in February 2022, winning the championship in their home stadium (SoFi Stadium)?",A) Tampa Bay Buccaneers | B) Los Angeles Rams | C) Cincinnati Bengals | D) San Francisco 49ers,B
+230,Sports,Medium,Multiple Choice,"In February 2021, Tom Brady led which team to victory in Super Bowl LV, defeating the Kansas City Chiefs 31-9?",A) New England Patriots | B) Indianapolis Colts | C) Tampa Bay Buccaneers | D) Denver Broncos,C
+231,Sports,Medium,Multiple Choice,"Which two NFL franchises share the record for the most total Super Bowl victories in league history, with 6 titles each?",A) Dallas Cowboys and SF 49ers | B) Green Bay Packers and NY Giants | C) Chiefs and Broncos | D) Pittsburgh Steelers and New England Patriots,D
+232,Sports,Medium,Multiple Choice,Who was named the NFL regular-season Most Valuable Player (MVP) in both the 2019 and 2023 seasons playing for the Baltimore Ravens?,A) Lamar Jackson | B) Patrick Mahomes | C) Josh Allen | D) Aaron Rodgers,A
+233,Sports,Medium,Multiple Choice,Which quarterback won four NFL regular-season MVP awards while playing for the Green Bay Packers before moving to the New York Jets?,A) Brett Favre | B) Aaron Rodgers | C) Drew Brees | D) Peyton Manning,B
+234,Sports,Medium,Multiple Choice,Who holds the all-time NFL record for the most career regular-season passing yards and passing touchdowns?,A) Peyton Manning | B) Drew Brees | C) Tom Brady | D) Brett Favre,C
+235,Sports,Medium,Multiple Choice,"In Super Bowl LI (2017), the New England Patriots pulled off the greatest comeback in Super Bowl history by overcoming what deficit against the Atlanta Falcons?",A) 24-0 | B) 31-10 | C) 21-3 | D) 28-3,D
+236,Sports,Medium,Multiple Choice,"Which legendary wide receiver holds the all-time NFL records for career receptions, receiving yards, and receiving touchdowns?",A) Jerry Rice | B) Randy Moss | C) Terrell Owens | D) Larry Fitzgerald,A
+237,Sports,Medium,Multiple Choice,Which franchise is the only team in NFL history to complete a full 'Perfect Season' undefeated from start to finish (17-0 in 1972)?,A) 1985 Chicago Bears | B) 1972 Miami Dolphins | C) 2007 New England Patriots | D) 1989 San Francisco 49ers,B
+238,Sports,Medium,Multiple Choice,Which quarterback was famously selected with the 199th overall pick in the 6th round of the 2000 NFL Draft?,A) Peyton Manning | B) Aaron Rodgers | C) Tom Brady | D) Russell Wilson,C
+239,Sports,Medium,Multiple Choice,Which legendary San Francisco 49ers quarterback went a perfect 4-0 in Super Bowls and won three Super Bowl MVP awards in the 1980s?,A) Steve Young | B) Dan Marino | C) John Elway | D) Joe Montana,D
+240,Sports,Medium,Typing,Who was named the MVP of Super Bowl LVIII (2024) for the Kansas City Chiefs?,,Patrick Mahomes
+241,Sports,Medium,Typing,Which wide receiver made the famous helmet catch in Super Bowl XLII for the New York Giants against the Patriots?,,David Tyree
+242,Sports,Medium,Typing,What is the name of the NFL championship game played on the first Sunday of February?,,Super Bowl
+243,Sports,Hard,Multiple Choice,Which NFL franchise appeared in four consecutive Super Bowls from 1991 to 1994 (Super Bowls XXV through XXVIII) but lost all four?,A) Buffalo Bills | B) Minnesota Vikings | C) Philadelphia Eagles | D) Cincinnati Bengals,A
+244,Sports,Hard,Multiple Choice,"Who kicked the longest successful field goal in NFL history, converting a 66-yard field goal for the Baltimore Ravens as time expired in 2021?",A) Adam Vinatieri | B) Justin Tucker | C) Matt Prater | D) Harrison Butker,B
+245,Sports,Hard,Multiple Choice,"Who holds the single-season NFL record for the most passing yards (5,477 yards) and passing touchdowns (55 TDs), set with the Denver Broncos in 2013?",A) Tom Brady | B) Patrick Mahomes | C) Peyton Manning | D) Drew Brees,C
+246,Sports,Hard,Multiple Choice,Which defensive end holds the official NFL record for the most career sacks with 200.0 career sacks (primarily with the Buffalo Bills)?,A) Reggie White | B) Michael Strahan | C) Lawrence Taylor | D) Bruce Smith,D
+247,Sports,Hard,Multiple Choice,"Who holds the NFL record for the most rushing yards in a single game, rushing for 296 yards as a rookie for the Minnesota Vikings in 2007?",A) Adrian Peterson | B) Jamal Lewis | C) Barry Sanders | D) Emmitt Smith,A
+248,Sports,Hard,Multiple Choice,Which legendary Chicago Bears linebacker won NFL Defensive Player of the Year in 1985 and led one of the most dominant defenses in NFL history to a Super Bowl XX title?,A) Ray Lewis | B) Mike Singletary | C) Lawrence Taylor | D) Dick Butkus,B
+249,Sports,Hard,Multiple Choice,"Who holds the all-time NFL career rushing record with 18,355 career rushing yards, winning three Super Bowls with the Dallas Cowboys?",A) Walter Payton | B) Barry Sanders | C) Emmitt Smith | D) Frank Gore,C
+250,Sports,Hard,Multiple Choice,In what year was the first ever AFL-NFL World Championship Game (retroactively known as Super Bowl I) played between Green Bay and Kansas City?,A) 1969 | B) 1965 | C) 1970 | D) 1967,D
+251,Sports,Medium,Typing,What team did Peyton Manning win his second Super Bowl with in Super Bowl 50?,,Denver Broncos
+252,Sports,Easy,Typing,Which coach led the New England Patriots to six Super Bowl titles alongside Tom Brady?,,Bill Belichick
+253,Sports,Hard,Typing,What was the original nickname of the Washington NFL team before becoming the Commanders in 2022?,,Redskins
+254,Sports,Easy,Multiple Choice,"In American football, how many points is awarded for a successful point-after-touchdown (PAT) placekick?",A) 1 point | B) 2 points | C) 3 points | D) 0.5 points,A
+255,Sports,Easy,Multiple Choice,"What option can an offensive team choose after scoring a touchdown instead of kicking a PAT, running a play from the 2-yard line to score 2 points?",A) Field goal | B) Two-point conversion | C) Safety | D) Free kick,B
+256,Sports,Easy,Multiple Choice,What piece of protective equipment is worn on the player's head and features a protective face mask?,A) Visor | B) Shoulder pad | C) Helmet | D) Mouthguard,C
+257,Sports,Easy,Multiple Choice,What is the action of kicking the ball to the opposing team on 4th down when a team fails to convert a first down?,A) Kickoff | B) Field goal | C) Snap | D) Punt,D
+258,Sports,Easy,Multiple Choice,What is the opening kick that begins each half and follows every scoring play in American football?,A) Kickoff | B) Punt | C) Drop kick | D) Onside kick,A
+259,Sports,Easy,Multiple Choice,What color flag does an NFL referee throw onto the field to signal a penalty or rule infraction?,A) Red flag | B) Yellow flag | C) Blue flag | D) White flag,B
+260,Sports,Easy,Multiple Choice,What color flag does an NFL head coach throw onto the field to challenge an official's call on the field?,A) Yellow flag | B) Green flag | C) Red flag | D) Black flag,C
+261,Sports,Easy,Multiple Choice,What are the primary colors of the Las Vegas (formerly Oakland) Raiders?,A) Blue and Gold | B) Red and White | C) Green and Yellow | D) Silver and Black,D
+262,Sports,Easy,Multiple Choice,What are the primary colors of the Seattle Seahawks?,"A) College Navy, Action Green, and Wolf Grey | B) Red and Black | C) Purple and Gold | D) Orange and Brown",A
+263,Sports,Easy,Multiple Choice,What are the primary colors of the Minnesota Vikings?,A) Black and Gold | B) Purple and Gold | C) Blue and Silver | D) Red and Pewter,B
+264,Sports,Easy,Multiple Choice,What are the primary team colors of the Chicago Bears?,A) Red and White | B) Green and Gold | C) Navy Blue and Burnt Orange | D) Purple and Black,C
+265,Sports,Easy,Multiple Choice,What are the primary team colors of the Philadelphia Eagles?,"A) Navy Blue and Red | B) Black and Gold | C) Royal Blue and Red | D) Midnight Green, Silver, and Black",D
+266,Sports,Easy,Multiple Choice,What is the term for a pass that hits the ground without being caught by either team?,A) Incomplete pass | B) Fumble | C) Interception | D) Lateral,A
+267,Sports,Easy,Multiple Choice,What player position on the offensive line snaps the football between his legs to the quarterback?,A) Guard | B) Center | C) Tackle | D) Tight End,B
+268,Sports,Easy,Multiple Choice,What is the imaginary line across the width of the field where the ball is placed before each snap?,A) End line | B) Goal line | C) Line of scrimmage | D) Sideline,C
+269,Sports,Easy,Multiple Choice,What penalty is called when an offensive player crosses the line of scrimmage before the ball is snapped?,A) Holding | B) Pass interference | C) Facemask | D) False start / Offsides,D
+270,Sports,Easy,Multiple Choice,What penalty is called when a player illegally grabs and restricts an opponent who does not have the ball?,A) Holding | B) Offsides | C) Clipping | D) Delay of game,A
+271,Sports,Easy,Multiple Choice,What penalty occurs when a defender illegally makes physical contact with a receiver to prevent him from catching a catchable pass?,A) Holding | B) Defensive Pass Interference | C) False start | D) Roughing the passer,B
+272,Sports,Easy,Multiple Choice,Which legendary coach is the Super Bowl trophy named after?,A) John Madden | B) Bill Walsh | C) Vince Lombardi | D) Tom Landry,C
+273,Sports,Easy,Typing,What is the abbreviation for the top professional American football league?,,NFL
+274,Sports,Easy,Typing,What is the name of the yellow penalty marker thrown by NFL referees?,,flag
+275,Sports,Easy,Typing,What team won Super Bowl LVII and Super Bowl LVIII under coach Andy Reid?,,Kansas City Chiefs
+276,Sports,Medium,Multiple Choice,Which quarterback threw the game-winning touchdown pass in overtime to Mecole Hardman to win Super Bowl LVIII for Kansas City?,A) Brock Purdy | B) Lamar Jackson | C) Jalen Hurts | D) Patrick Mahomes,D
+277,Sports,Medium,Multiple Choice,Who won the NFL Offensive Rookie of the Year in 2023 after a historic rookie passing season for the Houston Texans?,A) C.J. Stroud | B) Bryce Young | C) Anthony Richardson | D) Puka Nacua,A
+278,Sports,Medium,Multiple Choice,"Which tight end holds the NFL postseason record for the most career playoff receptions, playing alongside Patrick Mahomes in Kansas City?",A) Rob Gronkowski | B) Travis Kelce | C) Tony Gonzalez | D) Antonio Gates,B
+279,Sports,Medium,Multiple Choice,Which dominant defensive tackle won three NFL Defensive Player of the Year awards before retiring as a champion with the Los Angeles Rams in 2024?,A) J.J. Watt | B) Khalil Mack | C) Aaron Donald | D) Myles Garrett,C
+280,Sports,Medium,Multiple Choice,Which franchise did Peyton Manning lead to a victory in Super Bowl XLI in February 2007 against the Chicago Bears?,A) Denver Broncos | B) Tennessee Titans | C) New York Giants | D) Indianapolis Colts,D
+281,Sports,Medium,Multiple Choice,Who is the legendary New York Giants quarterback who defeated Tom Brady and the New England Patriots twice in the Super Bowl (XLII and XLVI)?,A) Eli Manning | B) Peyton Manning | C) Phil Simms | D) Kurt Warner,A
+282,Sports,Medium,Multiple Choice,Which dynamic Seattle Seahawks quarterback led the 'Legion of Boom' defense to a blowout 43-8 victory over Denver in Super Bowl XLVIII?,A) Matt Hasselbeck | B) Russell Wilson | C) Geno Smith | D) Drew Brees,B
+283,Sports,Medium,Multiple Choice,"Which quarterback threw for 5,069 yards and 32 touchdowns to lead the New Orleans Saints to their only Super Bowl victory (Super Bowl XLIV)?",A) Aaron Rodgers | B) Eli Manning | C) Drew Brees | D) Philip Rivers,C
+284,Sports,Medium,Multiple Choice,In what city is the Pro Football Hall of Fame museum located?,"A) Cooperstown, New York | B) Springfield, Massachusetts | C) Green Bay, Wisconsin | D) Canton, Ohio",D
+285,Sports,Medium,Multiple Choice,What was the iconic nickname of the dominant 1970s Pittsburgh Steelers defensive front that won four Super Bowls?,A) The Steel Curtain | B) The Monsters of the Midway | C) The Purple People Eaters | D) The No-Name Defense,A
+286,Sports,Medium,Multiple Choice,"Which legendary running back spent his entire 10-season career with the Detroit Lions and retired in his prime in 1999 with 15,292 rushing yards?",A) Emmitt Smith | B) Barry Sanders | C) Walter Payton | D) Jim Brown,B
+287,Sports,Medium,Typing,What is the nickname of the Philadelphia Eagles' successful short-yardage quarterback sneak play?,,tush push
+288,Sports,Medium,Typing,Which team had an undefeated 16-0 regular season in 2007 before losing in the Super Bowl?,,New England Patriots
+289,Sports,Hard,Multiple Choice,Who caught the iconic game-winning 'The Catch' touchdown pass from Joe Montana in the 1981 NFC Championship Game for the 49ers?,A) Jerry Rice | B) John Taylor | C) Dwight Clark | D) Brent Jones,C
+290,Sports,Hard,Multiple Choice,Who was the only player in NFL history to win both the regular-season MVP and Super Bowl MVP in his rookie season (achieved in 1999 after playing in arena league)?,A) Tom Brady | B) Lamar Jackson | C) Dan Marino | D) Kurt Warner,D
+291,Sports,Hard,Multiple Choice,"Which player holds the NFL single-season record for the most sacks with 22.5 sacks, shared by Michael Strahan (2001) and which Pittsburgh Steelers edge rusher (2021)?",A) T.J. Watt | B) J.J. Watt | C) Aaron Donald | D) Nick Bosa,A
+292,Sports,Hard,Multiple Choice,Which running back scored a single-season NFL record 28 rushing touchdowns (31 total touchdowns) for the San Diego Chargers in 2006?,A) Shaun Alexander | B) LaDainian Tomlinson | C) Priest Holmes | D) Marshall Faulk,B
+293,Sports,Hard,Multiple Choice,"Who was the only defensive player in NFL history to win the Super Bowl MVP award without his defense allowing a single touchdown, winning Super Bowl XX with the Bears?",A) Ray Lewis | B) Malcolm Smith | C) Richard Dent | D) Von Miller,C
+294,Sports,Hard,Multiple Choice,"What was the lowest-scoring Super Bowl in NFL history, in which the New England Patriots defeated the Los Angeles Rams 13-3 in Super Bowl LIII (2019)?",A) Super Bowl VII | B) Super Bowl IX | C) Super Bowl XX | D) Super Bowl LIII,D
+295,Sports,Hard,Multiple Choice,"Who holds the record for the most touchdown receptions in a single NFL season with 23 touchdowns, caught from Tom Brady in 2007?",A) Randy Moss | B) Jerry Rice | C) Rob Gronkowski | D) Calvin Johnson,A
+296,Sports,Hard,Multiple Choice,"Which legendary wide receiver nicknamed 'Megatron' holds the NFL single-season receiving yards record with 1,964 yards for the Detroit Lions in 2012?",A) Julio Jones | B) Calvin Johnson | C) Antonio Brown | D) Cooper Kupp,B
+297,Sports,Hard,Typing,Who was the first overall pick in the famous 1998 NFL Draft by the Indianapolis Colts?,,Peyton Manning
+298,Sports,Hard,Typing,What kicker made the game-winning field goal in both Super Bowl XXXVI and Super Bowl XXXVIII for New England?,,Adam Vinatieri
+299,Sports,Hard,Typing,What is the nickname of the Green Bay Packers home stadium?,,Lambeau Field
+300,Sports,Hard,Multiple Choice,Which team drafted Patrick Mahomes with the 10th overall pick in the 2017 NFL Draft after trading up with Buffalo?,A) Chicago Bears | B) New York Jets | C) Kansas City Chiefs | D) Houston Texans,C
+301,Sports,Easy,Multiple Choice,"Which country has won the most FIFA World Cup titles in history, with five championships (1958, 1962, 1970, 1994, 2002)?",A) Germany | B) Italy | C) Argentina | D) Brazil,D
+302,Sports,Easy,Multiple Choice,What is the name of the prestigious individual trophy awarded annually by France Football to the best player in the world?,A) Ballon d'Or | B) Golden Shoe | C) FIFA Puskas Award | D) World Player Award,A
+303,Sports,Easy,Multiple Choice,Which Argentine superstar has won a record eight Ballon d'Or awards in his illustrious career?,A) Cristiano Ronaldo | B) Lionel Messi | C) Diego Maradona | D) Alfredo Di Stefano,B
+304,Sports,Easy,Multiple Choice,Which Portuguese icon has won five Ballon d'Or awards and is the all-time leading scorer in Real Madrid's history?,A) Eusebio | B) Luis Figo | C) Cristiano Ronaldo | D) Deco,C
+305,Sports,Easy,Multiple Choice,"In what year did England win their only FIFA World Cup title on home soil, defeating West Germany 4-2 in the final?",A) 1958 | B) 1974 | C) 1970 | D) 1966,D
+306,Sports,Easy,Multiple Choice,Which national team won back-to-back FIFA World Cups in 1958 and 1962 with a teenage and young Pele?,A) Brazil | B) Uruguay | C) Italy | D) Argentina,A
+307,Sports,Easy,Multiple Choice,Which nation won the 2006 FIFA World Cup in Germany by defeating France on penalties after a 1-1 draw in Berlin?,A) Brazil | B) Italy | C) Germany | D) Portugal,B
+308,Sports,Easy,Multiple Choice,"Which country won the 1998 FIFA World Cup on home soil, defeating Brazil 3-0 in the final at Stade de France?",A) Italy | B) Netherlands | C) France | D) Germany,C
+309,Sports,Easy,Multiple Choice,"Which country won the 1986 FIFA World Cup in Mexico, inspired by the genius of Diego Maradona?",A) West Germany | B) France | C) Brazil | D) Argentina,D
+310,Sports,Easy,Multiple Choice,Which German club won the UEFA Champions League title in 2020 by defeating Paris Saint-Germain 1-0 in Lisbon?,A) Bayern Munich | B) Borussia Dortmund | C) RB Leipzig | D) Bayer Leverkusen,A
+311,Sports,Easy,Multiple Choice,Which English club won the UEFA Champions League in 2019 by defeating Tottenham Hotspur 2-0 in Madrid?,A) Manchester City | B) Liverpool FC | C) Chelsea | D) Manchester United,B
+312,Sports,Easy,Multiple Choice,What is the maximum number of yellow cards a single player can receive in one match before being shown a red card and sent off?,A) 3 yellow cards | B) 1 yellow card | C) 2 yellow cards | D) 4 yellow cards,C
+313,Sports,Easy,Multiple Choice,What is the award given to the top goalscorer of a FIFA World Cup tournament called?,A) Golden Ball | B) Golden Glove | C) Fair Play Award | D) Golden Boot,D
+314,Sports,Easy,Multiple Choice,What is the award given to the best overall player of a FIFA World Cup tournament called?,A) Golden Ball | B) Golden Boot | C) Silver Shoe | D) Yashin Award,A
+315,Sports,Easy,Multiple Choice,What is the award given to the best goalkeeper of a FIFA World Cup tournament called?,A) Golden Ball | B) Golden Glove | C) Golden Boot | D) Puskas Award,B
+316,Sports,Easy,Multiple Choice,Which stadium hosted the thrilling 2022 FIFA World Cup final between Argentina and France in Qatar?,A) Al Bayt Stadium | B) Education City Stadium | C) Lusail Iconic Stadium | D) Khalifa International,C
+317,Sports,Easy,Multiple Choice,Which club plays in the Spanish La Liga and is famous for its strict policy of only fielding players born or raised in the Basque Country?,A) Real Sociedad | B) Osasuna | C) Deportivo Alaves | D) Athletic Club,D
+318,Sports,Easy,Multiple Choice,What is the famous derby match between Spanish giants Real Madrid and FC Barcelona called worldwide?,A) El Clasico | B) Derby della Madonnina | C) The Old Firm | D) Superclasico,A
+319,Sports,Easy,Multiple Choice,What is the famous Argentine derby match between Buenos Aires rivals Boca Juniors and River Plate called?,A) El Clasico | B) Superclasico | C) Fla-Flu | D) Derby de Lisboa,B
+320,Sports,Easy,Multiple Choice,What is the famous Glasgow Scottish football derby played between Celtic and Rangers called?,A) North London Derby | B) Merseyside Derby | C) The Old Firm | D) The Steel City Derby,C
+321,Sports,Easy,Multiple Choice,What is the famous Liverpool city football derby played between Liverpool FC and Everton called?,A) Manchester Derby | B) Tyne-Wear Derby | C) London Derby | D) Merseyside Derby,D
+322,Sports,Easy,Multiple Choice,What is the famous North London football derby played between Arsenal and Tottenham Hotspur called?,A) North London Derby | B) West London Derby | C) East London Derby | D) South London Derby,A
+323,Sports,Easy,Typing,What country hosted the first ever FIFA World Cup in 1930?,,Uruguay
+324,Sports,Easy,Typing,Which nation won the 1978 and 1986 World Cups?,,Argentina
+325,Sports,Easy,Typing,Which country won the 1994 World Cup by defeating Italy in a penalty shootout?,,Brazil
+326,Sports,Easy,Typing,What is the nickname of the national football team of Spain?,,La Roja
+327,Sports,Medium,Multiple Choice,"Who won the Ballon d'Or in 2007, becoming the last player to win the award before the decade-long Messi-Ronaldo era began?",A) Ronaldinho | B) Kaka | C) Thierry Henry | D) Andrea Pirlo,B
+328,Sports,Medium,Multiple Choice,Which Italian defender captained Italy to the 2006 World Cup title and won the 2006 Ballon d'Or as a center-back?,A) Paolo Maldini | B) Alessandro Nesta | C) Fabio Cannavaro | D) Gianluigi Buffon,C
+329,Sports,Medium,Multiple Choice,Which Brazilian magician won the Ballon d'Or in 2005 after dazzling fans worldwide with FC Barcelona?,A) Rivaldo | B) Kaka | C) Ronaldo Nazario | D) Ronaldinho,D
+330,Sports,Medium,Multiple Choice,Which Ukrainian striker won the Ballon d'Or in 2004 while starring for AC Milan?,A) Andriy Shevchenko | B) Serhiy Rebrov | C) Anatoliy Tymoshchuk | D) Victor Kovalenko,A
+331,Sports,Medium,Multiple Choice,Which Czech playmaker won the Ballon d'Or in 2003 after leading Juventus to the Champions League final?,A) Petr Cech | B) Pavel Nedved | C) Tomas Rosicky | D) Milan Baros,B
+332,Sports,Medium,Multiple Choice,In what year did Jose Mourinho lead FC Porto to a miraculous UEFA Champions League title against AS Monaco?,A) 2002 | B) 2006 | C) 2004 | D) 2000,C
+333,Sports,Medium,Multiple Choice,Which club won the UEFA Champions League in 2010 to complete an Italian treble under manager Jose Mourinho?,A) AC Milan | B) Juventus | C) AS Roma | D) Inter Milan,D
+334,Sports,Medium,Multiple Choice,"Who was the top goalscorer in the Spanish La Liga (Pichichi) in the 2011-2012 season, scoring an all-time record 50 league goals?",A) Lionel Messi | B) Cristiano Ronaldo | C) Radamel Falcao | D) Gonzalo Higuain,A
+335,Sports,Medium,Multiple Choice,Who won the European Golden Boot in 2015-2016 by scoring 40 league goals for FC Barcelona in La Liga?,A) Lionel Messi | B) Luis Suarez | C) Cristiano Ronaldo | D) Neymar Jr,B
+336,Sports,Medium,Multiple Choice,"Which national football team won three consecutive major international tournaments: Euro 2008, 2010 World Cup, and Euro 2012?",A) Germany | B) France | C) Spain | D) Brazil,C
+337,Sports,Medium,Multiple Choice,Who scored the winning penalty in the shootout for Italy against France in the 2006 FIFA World Cup final?,A) Francesco Totti | B) Andrea Pirlo | C) Daniele De Rossi | D) Fabio Grosso,D
+338,Sports,Medium,Multiple Choice,"Who scored both goals for Real Madrid in the 2018 UEFA Champions League final against Liverpool, including a famous bicycle kick?",A) Gareth Bale | B) Cristiano Ronaldo | C) Karim Benzema | D) Luka Modric,A
+339,Sports,Medium,Multiple Choice,Which English player was the top goalscorer (Golden Boot winner) at the 2018 FIFA World Cup in Russia with 6 goals?,A) Raheem Sterling | B) Harry Kane | C) Marcus Rashford | D) Dele Alli,B
+340,Sports,Medium,Typing,Who was the manager of the Spanish national team that won the 2010 World Cup and Euro 2012?,,Vicente del Bosque
+341,Sports,Medium,Typing,What Colombian star won the Golden Boot at the 2014 World Cup and scored a stunning volley against Uruguay?,,James Rodriguez
+342,Sports,Medium,Typing,Which club won the German Bundesliga title in 2024 without losing a single league match (undefeated season)?,,Bayer Leverkusen
+343,Sports,Hard,Multiple Choice,"Who is the only player in football history to have won the FIFA World Cup, UEFA Champions League, Ballon d'Or, and Copa Libertadores?",A) Rivaldo | B) Kaka | C) Ronaldinho | D) Neymar Jr,C
+344,Sports,Hard,Multiple Choice,Who was the first ever recipient of the Ballon d'Or award presented by France Football in 1956?,A) Alfredo Di Stefano | B) Raymond Kopa | C) Ferenc Puskas | D) Stanley Matthews,D
+345,Sports,Hard,Multiple Choice,"Which player holds the record for the most goals scored in a single European Cup / Champions League season, scoring 17 goals in 2013-14?",A) Cristiano Ronaldo | B) Lionel Messi | C) Robert Lewandowski | D) Karim Benzema,A
+346,Sports,Hard,Multiple Choice,Which nation won the 1992 UEFA European Championship in Sweden after entering the tournament as late replacements for war-torn Yugoslavia?,A) Sweden | B) Denmark | C) Germany | D) Netherlands,B
+347,Sports,Medium,Multiple Choice,"Which country won the UEFA Euro 2004 tournament in one of the biggest underdog upsets in sports history, beating hosts Portugal in the final?",A) Czech Republic | B) Sweden | C) Greece | D) Turkey,C
+348,Sports,Hard,Multiple Choice,Who scored the winning goal for West Germany in the 1990 FIFA World Cup final against Argentina from an 85th-minute penalty kick in Rome?,A) Lothar Matthaus | B) Rudi Voller | C) Jurgen Klinsmann | D) Andreas Brehme,D
+349,Sports,Hard,Multiple Choice,"Who is the only manager in history to win the UEFA Champions League three consecutive times (2016, 2017, 2018 with Real Madrid)?",A) Zinedine Zidane | B) Pep Guardiola | C) Alex Ferguson | D) Carlo Ancelotti,A
+350,Sports,Hard,Multiple Choice,"Which player scored the fastest goal in FIFA World Cup history, scoring in just 10.8 seconds for Turkey against South Korea in 2002?",A) Nihat Kahveci | B) Hakan Sukur | C) Emre Belozoglu | D) Ilhan Mansiz,B
+351,Sports,Hard,Typing,Who was the German captain who lifted the 1990 FIFA World Cup and won the Ballon d'Or that same year?,,Lothar Matthaus
+352,Sports,Hard,Typing,Which club won the 1986 European Cup by defeating FC Barcelona on penalties with goalkeeper Helmuth Duckadam saving 4 penalties?,,Steaua Bucharest
+353,Sports,Hard,Typing,Who was the Italian striker known as 'Toto' who won the Golden Boot at the 1990 World Cup in Italy?,,Salvatore Schillaci
+354,Sports,Easy,Multiple Choice,How many years are there between each standard FIFA Men's World Cup tournament?,A) 2 years | B) 3 years | C) 4 years | D) 5 years,C
+355,Sports,Easy,Multiple Choice,How many teams competed in the group stage of the FIFA World Cup from 1998 through 2022?,A) 24 teams | B) 16 teams | C) 48 teams | D) 32 teams,D
+356,Sports,Easy,Multiple Choice,What color jersey does the referee typically wear if both teams are wearing dark shirts?,A) Bright Yellow / Neon Green | B) Black | C) Red | D) Navy Blue,A
+357,Sports,Easy,Multiple Choice,In what continent is the Africa Cup of Nations (AFCON) football tournament held?,A) Europe | B) Africa | C) Asia | D) South America,B
+358,Sports,Easy,Multiple Choice,Which country won the Africa Cup of Nations on home soil in early 2024 in Abidjan?,A) Nigeria | B) Senegal | C) Ivory Coast | D) Egypt,C
+359,Sports,Easy,Multiple Choice,"Which national team has won the most Africa Cup of Nations titles in history, with seven championships?",A) Cameroon | B) Ghana | C) Nigeria | D) Egypt,D
+360,Sports,Easy,Multiple Choice,What Asian football club championship crowns the top club on the Asian continent?,A) AFC Champions League | B) UEFA Champions League | C) Copa Libertadores | D) CAF Champions League,A
+361,Sports,Easy,Multiple Choice,Which South American country won the Copa America title in 2021 by defeating Brazil 1-0 at the Maracana Stadium?,A) Uruguay | B) Argentina | C) Chile | D) Colombia,B
+362,Sports,Easy,Multiple Choice,"Which nation won the 1974 FIFA World Cup on home soil, led by Franz Beckenbauer and Gerd Muller?",A) Netherlands | B) Poland | C) West Germany | D) Brazil,C
+363,Sports,Easy,Multiple Choice,"What legendary stadium in Rio de Janeiro, Brazil hosted the 1950 and 2014 World Cup finals?",A) Morumbi | B) Allianz Parque | C) Mineirao | D) Maracana Stadium,D
+364,Sports,Easy,Multiple Choice,What legendary stadium in Mexico City is the only venue to host two World Cup finals (1970 and 1986)?,A) Estadio Azteca | B) Estadio Jalisco | C) Estadio BBVA | D) Estadio Olimpico,A
+365,Sports,Easy,Multiple Choice,"Which team won the 1982 FIFA World Cup in Spain, inspired by 6 goals from striker Paolo Rossi?",A) West Germany | B) Italy | C) Brazil | D) France,B
+366,Sports,Easy,Multiple Choice,What is the name of the annual match played between the Champions League winner and the Europa League winner?,A) FIFA Club World Cup | B) Community Shield | C) UEFA Super Cup | D) International Champions Cup,C
+367,Sports,Easy,Multiple Choice,Which English club won the Premier League title five times between 2018 and 2023 under manager Pep Guardiola?,A) Liverpool | B) Chelsea | C) Arsenal | D) Manchester City,D
+368,Sports,Easy,Multiple Choice,Which German club won 11 consecutive Bundesliga titles between 2013 and 2023?,A) Bayern Munich | B) Borussia Dortmund | C) RB Leipzig | D) Bayer Leverkusen,A
+369,Sports,Easy,Multiple Choice,"What is the term for a team winning the Domestic League, Domestic Cup, and continental Champions League in the same season?",A) The Double | B) The Treble | C) The Derby | D) The Quadruple,B
+370,Sports,Easy,Multiple Choice,"Which country hosted the 2002 FIFA World Cup jointly, marking the first time the tournament was held in Asia?",A) China and Japan | B) Australia and New Zealand | C) South Korea and Japan | D) Qatar and UAE,C
+371,Sports,Easy,Multiple Choice,"Which European country hosted the 1990 FIFA World Cup, famous for the opera aria 'Nessun Dorma'?",A) France | B) Spain | C) Germany | D) Italy,D
+372,Sports,Easy,Multiple Choice,What is the nickname of the Egyptian national football team?,A) The Pharaohs | B) The Desert Foxes | C) The Atlas Lions | D) The Super Eagles,A
+373,Sports,Easy,Multiple Choice,What is the nickname of the Nigerian national football team?,A) The Indomitable Lions | B) The Super Eagles | C) The Black Stars | D) The Elephants,B
+374,Sports,Easy,Typing,What is the nickname of the Morocco national football team?,,Atlas Lions
+375,Sports,Easy,Typing,What is the nickname of the Senegal national football team that won AFCON in 2022?,,Lions of Teranga
+376,Sports,Easy,Typing,What is the nickname of the national football team of Brazil?,,Selecao
+377,Sports,Medium,Multiple Choice,Who scored the winning goal in the 113th minute of the 2014 World Cup final for Germany against Argentina?,A) Thomas Muller | B) Miroslav Klose | C) Mario Gotze | D) Bastian Schweinsteiger,C
+378,Sports,Medium,Multiple Choice,Who was the goalkeeper who made a crucial 123rd-minute save against Randal Kolo Muani in the 2022 World Cup final?,A) Hugo Lloris | B) Thibaut Courtois | C) Dominik Livakovic | D) Emiliano Martinez,D
+379,Sports,Medium,Multiple Choice,Which Real Madrid goalkeeper was awarded the Man of the Match in the 2022 Champions League final after making 9 saves against Liverpool?,A) Thibaut Courtois | B) Keylor Navas | C) Iker Casillas | D) Andriy Lunin,A
+380,Sports,Medium,Multiple Choice,"Who was the top goalscorer in the English Premier League in the 2017-2018 season, scoring 32 goals in a 38-game season for Liverpool?",A) Harry Kane | B) Mohamed Salah | C) Sergio Aguero | D) Pierre-Emerick Aubameyang,B
+381,Sports,Medium,Multiple Choice,Which French superstar won the Golden Boot at the 2022 World Cup by scoring a hat-trick in the final against Argentina?,A) Karim Benzema | B) Antoine Griezmann | C) Kylian Mbappe | D) Olivier Giroud,C
+382,Sports,Medium,Multiple Choice,Which Croatian midfield maestro won the Golden Ball at the 2018 World Cup and the 2018 Ballon d'Or?,A) Ivan Rakitic | B) Mateo Kovacic | C) Marcelo Brozovic | D) Luka Modric,D
+383,Sports,Medium,Multiple Choice,In what year did Chelsea FC win their first ever UEFA Champions League title by beating Bayern Munich on penalties in Munich?,A) 2012 | B) 2008 | C) 2010 | D) 2014,A
+384,Sports,Medium,Multiple Choice,Which German coach led Liverpool FC to the Champions League title in 2019 and their first Premier League title in 30 years in 2020?,A) Thomas Tuchel | B) Jurgen Klopp | C) Hansi Flick | D) Julian Nagelsmann,B
+385,Sports,Medium,Multiple Choice,Which club won the 1999 UEFA Champions League final with dramatic stoppage-time goals from Teddy Sheringham and Ole Gunnar Solskjaer?,A) Bayern Munich | B) Juventus | C) Manchester United | D) Real Madrid,C
+386,Sports,Medium,Typing,Who was the manager of Manchester City that led them to the European Treble in 2023?,,Pep Guardiola
+387,Sports,Medium,Typing,Which country hosted the 1998 FIFA World Cup and won it on home soil?,,France
+388,Sports,Hard,Multiple Choice,"Who won the Ballon d'Or in 1995, becoming the first and only African player in football history to win the award?",A) Roger Milla | B) Didier Drogba | C) Samuel Eto'o | D) George Weah,D
+389,Sports,Hard,Multiple Choice,Which player holds the record for the most goals scored in a single European Cup / Champions League match with 5 goals (shared with Luiz Adriano and Erling Haaland)?,A) Lionel Messi | B) Cristiano Ronaldo | C) Robert Lewandowski | D) Neymar Jr,A
+390,Sports,Hard,Multiple Choice,Which legendary Hungarian forward was the talisman of the 1950s 'Mighty Magyars' and has the FIFA goal of the year award named after him?,A) Sandor Kocsis | B) Ferenc Puskas | C) Nandor Hidegkuti | D) Jozsef Bozsik,B
+391,Sports,Hard,Multiple Choice,"Which club won three consecutive European Cups from 1971 to 1973, playing revolutionary 'Total Football' led by Johan Cruyff?",A) Bayern Munich | B) Feyenoord | C) AFC Ajax | D) Liverpool,C
+392,Sports,Hard,Multiple Choice,Who scored the winning goal in extra time for Real Madrid in 'La Decima' (their 10th Champions League title) against Atletico Madrid in 2014?,A) Sergio Ramos | B) Cristiano Ronaldo | C) Angel Di Maria | D) Gareth Bale,D
+393,Sports,Hard,Multiple Choice,"Which country won the 1954 FIFA World Cup in a famous final known as the 'Miracle of Bern', upsetting the heavily favored Hungarian Golden Team?",A) West Germany | B) Austria | C) Switzerland | D) Uruguay,A
+394,Sports,Hard,Multiple Choice,"Who is the only player to have won the UEFA Champions League with three different clubs (Ajax, Real Madrid, and AC Milan)?",A) Cristiano Ronaldo | B) Clarence Seedorf | C) Zlatan Ibrahimovic | D) Samuel Eto'o,B
+395,Sports,Hard,Multiple Choice,"Who scored the fastest hat-trick in UEFA Champions League history, netting three goals in 6 minutes and 12 seconds for Liverpool against Rangers in 2022?",A) Robert Lewandowski | B) Cristiano Ronaldo | C) Mohamed Salah | D) Bafetimbi Gomis,C
+396,Sports,Hard,Multiple Choice,Which goalkeeper famously stopped two penalties in the shootout of the 2005 Champions League final using his 'spaghetti legs' routine for Liverpool?,A) Pepe Reina | B) Sander Westerveld | C) David James | D) Jerzy Dudek,D
+397,Sports,Hard,Typing,Who was the manager of Arsenal who signed Thierry Henry from Juventus in 1999?,,Arsene Wenger
+398,Sports,Hard,Typing,Which club won the 1979 and 1980 European Cups back-to-back under manager Brian Clough?,,Nottingham Forest
+399,Sports,Hard,Multiple Choice,Who holds the record for the most red cards in football history with 46 career red cards?,A) Gerardo Bedoya | B) Sergio Ramos | C) Pepe | D) Roy Keane,A
+400,Sports,Hard,Multiple Choice,"In what year did the tragic Munich air disaster occur, claiming the lives of eight Manchester United 'Busby Babes' players?",A) 1955 | B) 1958 | C) 1960 | D) 1968,B
+401,Sports,Easy,Multiple Choice,How many interlocking colored rings are on the official Olympic flag?,A) 6 rings | B) 4 rings | C) 5 rings | D) 7 rings,C
+402,Sports,Easy,Multiple Choice,How often are the Summer Olympic Games held under normal circumstances?,A) Every 2 years | B) Every 3 years | C) Every 5 years | D) Every 4 years,D
+403,Sports,Easy,Multiple Choice,Which Jamaican sprinter holds the men's 100m world record at 9.58 seconds and is an eight-time Olympic gold medalist?,A) Usain Bolt | B) Tyson Gay | C) Yohan Blake | D) Justin Gatlin,A
+404,Sports,Easy,Multiple Choice,Which American swimmer is the most decorated Olympian in history with 28 total Olympic medals (23 gold medals)?,A) Ryan Lochte | B) Michael Phelps | C) Ian Thorpe | D) Caeleb Dressel,B
+405,Sports,Easy,Multiple Choice,What surface is the Wimbledon tennis tournament played on in London?,A) Red Clay | B) Hard Court | C) Natural Grass | D) Carpet,C
+406,Sports,Easy,Multiple Choice,What surface is the French Open (Roland Garros) tennis tournament played on in Paris?,A) Grass | B) Hard Court | C) Wood | D) Red Clay,D
+407,Sports,Easy,Multiple Choice,Which Spanish tennis player is known as the 'King of Clay' after winning an astonishing 14 French Open titles?,A) Rafael Nadal | B) Roger Federer | C) Carlos Alcaraz | D) Novak Djokovic,A
+408,Sports,Easy,Multiple Choice,Which Serbian tennis champion has won a men's record 24 Grand Slam singles titles?,A) Roger Federer | B) Novak Djokovic | C) Rafael Nadal | D) Andy Murray,B
+409,Sports,Easy,Multiple Choice,Which Swiss tennis legend won 20 Grand Slam singles titles and a record eight Wimbledon men's singles titles?,A) Stan Wawrinka | B) Stefan Edberg | C) Roger Federer | D) Boris Becker,C
+410,Sports,Easy,Multiple Choice,Which American tennis icon won 23 Grand Slam women's singles titles in the Open Era?,A) Venus Williams | B) Steffi Graf | C) Martina Navratilova | D) Serena Williams,D
+411,Sports,Easy,Multiple Choice,"In tennis scoring, what special term is used to describe a score of zero points?",A) Love | B) Nil | C) Blank | D) Zero,A
+412,Sports,Easy,Multiple Choice,"In tennis, what is a tied score of 40-40 called?",A) Advantage | B) Deuce | C) Break point | D) Match point,B
+413,Sports,Easy,Multiple Choice,What is the premier international open-wheel auto racing series regulated by the FIA?,A) NASCAR | B) IndyCar | C) Formula 1 | D) Formula E,C
+414,Sports,Easy,Multiple Choice,Which British racing driver has won a record-equaling seven Formula 1 World Drivers' Championships?,A) Max Verstappen | B) Sebastian Vettel | C) Fernando Alonso | D) Lewis Hamilton,D
+415,Sports,Easy,Multiple Choice,"Which legendary German driver also won seven Formula 1 World Championships, five of them with Ferrari?",A) Michael Schumacher | B) Ayrton Senna | C) Alain Prost | D) Niki Lauda,A
+416,Sports,Easy,Multiple Choice,What is the international distance of a standard marathon race?,A) 20 miles | B) 42.195 km | C) 25 miles | D) 50 kilometers,B
+417,Sports,Easy,Multiple Choice,"Which American heavyweight boxer famously proclaimed 'Float like a butterfly, sting like a bee'?",A) Mike Tyson | B) Joe Frazier | C) Muhammad Ali | D) George Foreman,C
+418,Sports,Easy,Multiple Choice,Which ferocious American heavyweight became the youngest heavyweight world champion in history at age 20 in 1986?,A) Evander Holyfield | B) Lennox Lewis | C) Sonny Liston | D) Mike Tyson,D
+419,Sports,Easy,Multiple Choice,"In golf, what term describes scoring one stroke under par on a specific hole?",A) Birdie | B) Eagle | C) Bogey | D) Albatross,A
+420,Sports,Easy,Multiple Choice,"In golf, what term describes scoring two strokes under par on a specific hole?",A) Birdie | B) Eagle | C) Bogey | D) Par,B
+421,Sports,Easy,Multiple Choice,"Which American golfer has won 15 Major championships and 82 PGA Tour titles, tied for the all-time record?",A) Jack Nicklaus | B) Phil Mickelson | C) Tiger Woods | D) Arnold Palmer,C
+422,Sports,Easy,Multiple Choice,How many holes are played in a standard round of professional golf?,A) 9 holes | B) 24 holes | C) 12 holes | D) 18 holes,D
+423,Sports,Easy,Typing,What sport is played at the Roland Garros stadium in Paris?,,tennis
+424,Sports,Easy,Typing,What is the distance of a marathon race in kilometers?,,42.195
+425,Sports,Easy,Typing,What country invented modern golf at the Old Course at St Andrews?,,Scotland
+426,Sports,Easy,Typing,What colored belt represents the highest beginner master rank in traditional martial arts like Karate and Judo?,,black belt
+427,Sports,Medium,Multiple Choice,"Which Dutch driver won three consecutive Formula 1 World Championships in 2021, 2022, and 2023 with Red Bull Racing?",A) Max Verstappen | B) Charles Leclerc | C) Lando Norris | D) Carlos Sainz,A
+428,Sports,Medium,Multiple Choice,"Which legendary Brazilian racing driver won three Formula 1 World Championships (1988, 1990, 1991) before his tragic passing at Imola in 1994?",A) Nelson Piquet | B) Ayrton Senna | C) Emerson Fittipaldi | D) Rubens Barrichello,B
+429,Sports,Medium,Multiple Choice,"In tennis, what term describes winning all four Grand Slam tournaments in a single calendar year?",A) Golden Slam | B) Career Slam | C) Calendar Grand Slam | D) Triple Crown,C
+430,Sports,Medium,Multiple Choice,"Who is the only tennis player in history to achieve the 'Golden Slam' (winning all four Grand Slams and Olympic Singles Gold in the same year, 1988)?",A) Serena Williams | B) Martina Navratilova | C) Chris Evert | D) Steffi Graf,D
+431,Sports,Medium,Multiple Choice,Which American gymnast won four gold medals at the 2016 Rio Olympics and is widely considered the greatest gymnast of all time?,A) Simone Biles | B) Gabby Douglas | C) Aly Raisman | D) Sunisa Lee,A
+432,Sports,Medium,Multiple Choice,"In what year were the first modern Olympic Games held in Athens, Greece?",A) 1900 | B) 1896 | C) 1904 | D) 1920,B
+433,Sports,Medium,Multiple Choice,"Which boxing bout in 1974 between Muhammad Ali and George Foreman in Kinshasa, Zaire is famously known as the 'Rumble in the Jungle'?",A) Muhammad Ali vs Joe Frazier | B) Mike Tyson vs Evander Holyfield | C) Muhammad Ali vs George Foreman | D) Sugar Ray Leonard vs Roberto Duran,C
+434,Sports,Medium,Multiple Choice,What was the legendary 1975 third boxing match between Muhammad Ali and Joe Frazier in the Philippines called?,A) The Fight of the Century | B) The Rumble in the Jungle | C) The Battle of the Giants | D) The Thrilla in Manila,D
+435,Sports,Medium,Multiple Choice,Which Kenyan distance runner became the first human in history to run a marathon in under two hours (1:59:40) in a special event in Vienna in 2019?,A) Eliud Kipchoge | B) Haile Gebrselassie | C) Kenenisa Bekele | D) Kelvin Kiptum,A
+436,Sports,Medium,Multiple Choice,Which golfer holds the all-time record for the most men's Major championship victories in golf history with 18 titles?,A) Tiger Woods | B) Jack Nicklaus | C) Arnold Palmer | D) Walter Hagen,B
+437,Sports,Medium,Multiple Choice,"In cricket, how many players are on the field for one team during an innings?",A) 9 players | B) 10 players | C) 11 players | D) 12 players,C
+438,Sports,Medium,Multiple Choice,Which country won the ICC Men's Cricket World Cup in 2023 by defeating hosts India in the final in Ahmedabad?,A) England | B) New Zealand | C) South Africa | D) Australia,D
+439,Sports,Medium,Multiple Choice,"What prestigious annual bicycle stage race covers roughly 3,500 kilometers across France in July?",A) Tour de France | B) Giro d'Italia | C) Vuelta a Espana | D) Paris-Roubaix,A
+440,Sports,Medium,Multiple Choice,What is the color of the jersey worn by the overall leader of the Tour de France?,A) Red | B) Yellow | C) Green | D) White,B
+441,Sports,Medium,Typing,In which city were the 2024 Summer Olympic Games hosted?,,Paris
+442,Sports,Medium,Typing,In which city were the 2020 Summer Olympic Games hosted (held in 2021)?,,Tokyo
+443,Sports,Hard,Multiple Choice,"Who ran the first officially authenticated sub-four-minute mile in track and field history, clocking 3:59.4 in Oxford in May 1954?",A) John Landy | B) Steve Ovett | C) Roger Bannister | D) Sebastian Coe,C
+444,Sports,Medium,Multiple Choice,"Which African-American track star won four gold medals at the 1936 Berlin Olympics, defying Adolf Hitler's racial propaganda?",A) Carl Lewis | B) Bob Beamon | C) Tommie Smith | D) Jesse Owens,D
+445,Sports,Hard,Multiple Choice,Who set the long-standing long jump world record of 8.95 meters (29 ft 4.25 in) at the 1991 World Championships in Tokyo?,A) Mike Powell | B) Carl Lewis | C) Bob Beamon | D) Dwight Phillips,A
+446,Sports,Hard,Multiple Choice,Which team holds the record for the most Formula 1 Constructors' World Championships in history with 16 titles?,A) McLaren | B) Scuderia Ferrari | C) Williams | D) Mercedes,B
+447,Sports,Hard,Multiple Choice,"Who was the first female driver to score points in a Formula 1 Grand Prix, finishing 6th at the 1975 Spanish Grand Prix?",A) Maria Teresa de Filippis | B) Michele Mouton | C) Lella Lombardi | D) Danica Patrick,C
+448,Sports,Hard,Multiple Choice,"What is the longest professional tennis match in history, lasting 11 hours and 5 minutes over three days at Wimbledon in 2010?",A) Roger Federer vs Rafael Nadal | B) Novak Djokovic vs Rafael Nadal | C) Andy Roddick vs Roger Federer | D) John Isner vs Nicolas Mahut,D
+449,Sports,Hard,Multiple Choice,What was the final score in the 5th set of the marathon 2010 Wimbledon match between John Isner and Nicolas Mahut?,A) 70-68 | B) 24-22 | C) 40-38 | D) 50-48,A
+450,Sports,Hard,Multiple Choice,Who is the only boxer in history to win world titles in eight different weight divisions (Flyweight to Super Welterweight)?,A) Floyd Mayweather Jr | B) Manny Pacquiao | C) Oscar De La Hoya | D) Canelo Alvarez,B
+451,Sports,Hard,Multiple Choice,Which undefeated boxing champion retired with a perfect professional record of 50 wins and 0 losses (50-0)?,A) Rocky Marciano | B) Sugar Ray Robinson | C) Floyd Mayweather Jr | D) Joe Calzaghe,C
+452,Sports,Medium,Multiple Choice,"Which city has hosted the modern Summer Olympic Games a record three times (1908, 1948, and 2012)?",A) Paris | B) Los Angeles | C) Athens | D) London,D
+453,Sports,Hard,Typing,What Romanian gymnast was the first to score a perfect 10.0 at the 1976 Montreal Olympics?,,Nadia Comaneci
+454,Sports,Easy,Multiple Choice,What is the sport where two or four players use stringed rackets to hit a feathered shuttlecock back and forth over a net?,A) Badminton | B) Tennis | C) Squash | D) Table tennis,A
+455,Sports,Easy,Multiple Choice,What sport is also widely known by the trademarked name 'Ping Pong'?,A) Badminton | B) Table tennis | C) Pickleball | D) Squash,B
+456,Sports,Easy,Multiple Choice,How many players are on the court for one team in a standard indoor volleyball match?,A) 5 | B) 7 | C) 6 | D) 8,C
+457,Sports,Easy,Multiple Choice,"What sport features events called the vault, balance beam, uneven bars, and floor exercise for women?",A) Figure skating | B) Diving | C) Synchronized swimming | D) Gymnastics,D
+458,Sports,Easy,Multiple Choice,In which combat sport do athletes wear thick padded gloves and fight in rounds inside a square ring?,A) Boxing | B) Judo | C) Karate | D) Taekwondo,A
+459,Sports,Easy,Multiple Choice,"What Japanese martial art and Olympic sport emphasizes throwing opponents to the mat and pinning them, wearing a white gi?",A) Taekwondo | B) Judo | C) Karate | D) Kung Fu,B
+460,Sports,Easy,Multiple Choice,"What Korean martial art and Olympic sport is famous for its high, fast, and spinning head kicks?",A) Judo | B) Karate | C) Taekwondo | D) Jujitsu,C
+461,Sports,Easy,Multiple Choice,What is the winter team sport played on ice where players use sticks to shoot a rubber puck into a net?,A) Curling | B) Figure skating | C) Bobsleigh | D) Ice hockey,D
+462,Sports,Easy,Multiple Choice,How many players (including the goaltender) are on the ice for one team in an NHL ice hockey game?,A) 6 | B) 5 | C) 7 | D) 8,A
+463,Sports,Easy,Multiple Choice,What is the name of the championship trophy awarded annually to the champion of the National Hockey League (NHL)?,A) Vince Lombardi Trophy | B) The Stanley Cup | C) Larry O'Brien Trophy | D) Commissioner's Trophy,B
+464,Sports,Easy,Multiple Choice,Which Canadian ice hockey icon is universally known as 'The Great One' and holds virtually every major NHL scoring record?,A) Mario Lemieux | B) Sidney Crosby | C) Wayne Gretzky | D) Bobby Orr,C
+465,Sports,Easy,Multiple Choice,"In baseball, how many strikes result in a batter being called out?",A) 4 strikes | B) 2 strikes | C) 5 strikes | D) 3 strikes,D
+466,Sports,Easy,Multiple Choice,"In baseball, how many balls (pitches outside the strike zone) result in a walk to first base?",A) 4 balls | B) 3 balls | C) 5 balls | D) 2 balls,A
+467,Sports,Easy,Multiple Choice,How many innings are in a standard Major League Baseball (MLB) regulation game?,A) 7 innings | B) 9 innings | C) 8 innings | D) 10 innings,B
+468,Sports,Easy,Multiple Choice,What is the term for a baseball hit that allows the batter to round all four bases and score a run in one play?,A) Double | B) Triple | C) Home run | D) Bunt,C
+469,Sports,Easy,Multiple Choice,"What is a home run hit when all three bases are loaded with runners called, scoring four runs?",A) Walk-off | B) Strikeout | C) Double play | D) Grand slam,D
+470,Sports,Easy,Multiple Choice,What are the traditional team colors and pinstripes of the New York Yankees?,A) Navy Blue and White | B) Red and White | C) Blue and Orange | D) Black and Gold,A
+471,Sports,Easy,Multiple Choice,What are the primary colors of the Boston Red Sox?,"A) Green and Gold | B) Navy Blue, Red, and White | C) Black and Orange | D) Purple and Black",B
+472,Sports,Easy,Multiple Choice,What sport uses a heavy ball with three finger holes to knock down 10 wooden pins at the end of a lane?,A) Curling | B) Croquet | C) Ten-pin bowling | D) Cricket,C
+473,Sports,Easy,Typing,What is the term for knocking down all 10 pins on the first roll in bowling?,,strike
+474,Sports,Easy,Typing,What is the term for knocking down all remaining pins on the second roll in bowling?,,spare
+475,Sports,Easy,Typing,What is the highest possible score in a single game of ten-pin bowling?,,300
+476,Sports,Medium,Multiple Choice,"Which Japanese baseball sensation made sports history by pitching and hitting at an MVP level in MLB, signing a record $700 million contract with the LA Dodgers in 2023?",A) Ichiro Suzuki | B) Yu Darvish | C) Masahiro Tanaka | D) Shohei Ohtani,D
+477,Sports,Medium,Multiple Choice,Which legendary baseball player broke MLB's color barrier in 1947 when he started at first base for the Brooklyn Dodgers?,A) Jackie Robinson | B) Willie Mays | C) Hank Aaron | D) Satchel Paige,A
+478,Sports,Medium,Multiple Choice,Who held the all-time MLB home run record for over 30 years with 755 career home runs before Barry Bonds?,A) Babe Ruth | B) Hank Aaron | C) Mickey Mantle | D) Lou Gehrig,B
+479,Sports,Medium,Multiple Choice,Which iconic baseball legend was known as 'The Sultan of Swat' and hit 714 career home runs for the New York Yankees?,A) Joe DiMaggio | B) Ted Williams | C) Babe Ruth | D) Ty Cobb,C
+480,Sports,Medium,Multiple Choice,"In ice hockey, what term describes a team playing with more skaters on the ice than the opponent because of a penalty?",A) Penalty kill | B) Face-off | C) Icing | D) Power play,D
+481,Sports,Medium,Multiple Choice,Which nation has won the most Rugby World Cup men's championships in history with four titles (including back-to-back in 2019 and 2023)?,A) South Africa | B) New Zealand | C) Australia | D) England,A
+482,Sports,Medium,Multiple Choice,What is the traditional pre-match Maori ceremonial dance performed by the New Zealand All Blacks rugby team called?,A) Sipi Tau | B) The Haka | C) Siva Tau | D) Cibi,B
+483,Sports,Medium,Multiple Choice,Which country hosted the first Winter Olympic Games in 1924 in the alpine resort of Chamonix?,A) Switzerland | B) Norway | C) France | D) Austria,C
+484,Sports,Medium,Multiple Choice,What winter sport combines cross-country skiing with precision rifle target shooting?,A) Nordic combined | B) Skeleton | C) Luge | D) Biathlon,D
+485,Sports,Medium,Multiple Choice,What winter Olympic sport is nicknamed 'Chess on Ice' and involves sliding polished granite stones across a sheet of ice toward a target?,A) Curling | B) Bobsleigh | C) Short track | D) Skeleton,A
+486,Sports,Medium,Multiple Choice,What is the name of the ice hockey trophy awarded to the NHL champion?,A) Calder Cup | B) Stanley Cup | C) Memorial Cup | D) President's Trophy,B
+487,Sports,Medium,Typing,What is the national team nickname of the New Zealand rugby union team?,,All Blacks
+488,Sports,Hard,Multiple Choice,Who holds the record for the most career Grand Slam singles titles in tennis history across both men and women with 24 Major titles (tied with Novak Djokovic)?,A) Serena Williams | B) Steffi Graf | C) Margaret Court | D) Martina Navratilova,C
+489,Sports,Medium,Multiple Choice,"In what year did the 'Miracle on Ice' occur, where the underdog USA men's ice hockey team defeated the powerhouse Soviet Union at the Lake Placid Winter Olympics?",A) 1976 | B) 1984 | C) 1988 | D) 1980,D
+490,Sports,Hard,Multiple Choice,"Which track athlete jumped a staggering 8.90 meters (29 ft 2.5 in) at the 1968 Mexico City Olympics, shattering the long jump world record by 55 cm?",A) Bob Beamon | B) Jesse Owens | C) Carl Lewis | D) Ralph Boston,A
+491,Sports,Hard,Multiple Choice,"Who is the only person in Olympic history to win gold medals in the same individual track and field event in four consecutive Olympic Games (Long Jump, 1984-1996)?",A) Usain Bolt | B) Carl Lewis | C) Al Oerter | D) Michael Johnson,B
+492,Sports,Hard,Multiple Choice,"What is the record for the most total points scored by a single player in a single NHL hockey game, achieved by Darryl Sittler for the Toronto Maple Leafs in 1976?",A) 8 points | B) 9 points | C) 10 points | D) 11 points,C
+493,Sports,Hard,Multiple Choice,"Which MLB pitcher threw a record 7 career no-hitters and struck out an all-time record 5,714 batters in his 27-season career?",A) Cy Young | B) Randy Johnson | C) Sandy Koufax | D) Nolan Ryan,D
+494,Sports,Hard,Multiple Choice,What was the official winning time of Usain Bolt's current men's 200-meter world record set at the 2009 World Athletics Championships in Berlin?,A) 19.19 seconds | B) 19.30 seconds | C) 19.32 seconds | D) 19.15 seconds,A
+495,Sports,Hard,Multiple Choice,"Who holds the men's pole vault world record, continuously clearing heights above 6.20 meters in recent years representing Sweden?",A) Sergey Bubka | B) Armand 'Mondo' Duplantis | C) Renaud Lavillenie | D) Sam Kendricks,B
+496,Sports,Medium,Multiple Choice,"Which famous horse racing trophy in the United States is awarded to a three-year-old thoroughbred that wins the Kentucky Derby, Preakness Stakes, and Belmont Stakes?",A) Breeders' Cup | B) Gold Cup | C) The Triple Crown | D) Arlington Million,C
+497,Sports,Hard,Typing,What legendary thoroughbred racehorse won the 1973 Triple Crown by a record 31 lengths at the Belmont Stakes?,,Secretariat
+498,Sports,Hard,Typing,What Cuban high jumper has held the men's world record of 2.45 meters since 1993?,,Javier Sotomayor
+499,Sports,Easy,Multiple Choice,Who was the first female gymnast to be awarded a score of 10.0 in an Olympic gymnastics event in 1976?,A) Olga Korbut | B) Mary Lou Retton | C) Shannon Miller | D) Nadia Comaneci,D
+500,Sports,Easy,Multiple Choice,"Which city is scheduled to host the 2028 Summer Olympic Games, marking its third time hosting the Summer Olympics (previously in 1932 and 1984)?",A) Los Angeles | B) Brisbane | C) Rome | D) Madrid,A
