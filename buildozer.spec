@@ -1,4 +1,4 @@
-﻿[app]
+[app]
 
 # (str) Title of your application
 title = Dump's Test v17.0
@@ -28,7 +28,7 @@ source.exclude_dirs = tests,tools,build,dist,.pytest_cache,__pycache__
 version = 17.0
 
 # (list) Application requirements
-requirements = python3,pygame-ce,arabic-reshaper,python-bidi,openpyxl,sqlite3
+requirements = python3,pygame-ce,arabic-reshaper,python-bidi,openpyxl,et-xmlfile,sqlite3
 
 # (str) Presplash of the application
 presplash.filename = %(source.dir)s/icon.png
@@ -63,17 +63,14 @@ android.skip_update = False
 # (bool) If True, then automatically accept SDK license
 android.accept_sdk_license = True
 
-# (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
-android.archs = arm64-v8a, armeabi-v7a
+# (str) The Android arch to build for
+android.archs = arm64-v8a
 
 # (bool) enables Android auto backup feature (Android API >=23)
 android.allow_backup = True
 
 # (str) Bootstrap to use for android build
 p4a.bootstrap = sdl2
-
-# (str) python-for-android branch to use
-p4a.branch = develop
 
 # (int) Android logcat filters to use
 android.logcat_filters = *:S python:D

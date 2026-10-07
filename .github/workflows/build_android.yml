@@ -1,4 +1,4 @@
-﻿name: Build Android APK (Dump''s Test v17.0)
+name: Build Android APK (Dump''s Test v17.0)
 
 on:
   push:
