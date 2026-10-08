@@ -53,18 +53,23 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
                     os.remove(mf)
 
             # 3. Patch setup.py:
-            # - Ensure current directory is on sys.path so 'import buildconfig' succeeds under pip/setuptools.build_meta
+            # - Ensure working directory and sys.path are set to setup.py's directory so relative paths and buildconfig work
+            # - Safe header removal so empty/missing scale.h doesn't raise ValueError
             # - Bypass Cython so pre-generated C sources are used
             with open("setup.py", "r", encoding="utf-8") as f:
                 setup_content = f.read()
             patch_header = (
                 "import sys, os\n"
+                "os.chdir(os.path.dirname(os.path.abspath(__file__)))\n"
                 "sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))\n"
                 "import setuptools\n"
             )
             setup_content = patch_header + setup_content.replace(
                 "compile_cython = not no_compilation",
                 "compile_cython = False"
+            ).replace(
+                "headers.remove(os.path.join('src_c', 'scale.h'))",
+                "if os.path.join('src_c', 'scale.h') in headers: headers.remove(os.path.join('src_c', 'scale.h'))"
             )
             with open("setup.py", "w", encoding="utf-8") as f:
                 f.write(setup_content)
