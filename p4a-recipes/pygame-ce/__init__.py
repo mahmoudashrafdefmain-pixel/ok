@@ -1,5 +1,8 @@
+import os
 from os.path import join, exists
+import sh
 from pythonforandroid.recipe import CompiledComponentsPythonRecipe
+from pythonforandroid.logger import shprint
 from pythonforandroid.toolchain import current_directory
 
 
@@ -18,11 +21,25 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
     call_hostpython_via_targetpython = False
     install_in_hostpython = False
 
+    setup_extra_args = ['--no-build-isolation', '--no-deps']
+
     def prebuild_arch(self, arch):
         super().prebuild_arch(arch)
 
+        # Ensure wheel is installed in hostpython for --no-build-isolation
+        try:
+            hostpython = sh.Command(self.ctx.hostpython)
+            shprint(hostpython, '-m', 'pip', 'install', 'wheel')
+        except Exception as e:
+            print(f"[pygame-ce] hostpython wheel note: {e}")
+
         with current_directory(self.get_build_dir(arch.arch)):
-            # 1. Patch setup.py to bypass Cython and use pre-generated C sources
+            # 1. Remove pyproject.toml and meson files so pip uses setuptools/setup.py instead of meson
+            for f in ["pyproject.toml", "meson.build", "meson_options.txt"]:
+                if exists(f):
+                    os.remove(f)
+
+            # 2. Patch setup.py to bypass Cython and use pre-generated C sources
             with open("setup.py", "r", encoding="utf-8") as f:
                 setup_content = f.read()
             setup_content = "import setuptools\n" + setup_content.replace(
@@ -32,10 +49,9 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
             with open("setup.py", "w", encoding="utf-8") as f:
                 f.write(setup_content)
 
-            # 2. Build Setup file from template
+            # 3. Build Setup file from template
             setup_template = open(join("buildconfig", "Setup.Android.SDL2.in")).read()
             env = self.get_recipe_env(arch)
-            env['ANDROID_ROOT'] = join(self.ctx.ndk.sysroot, 'usr')
 
             png = self.get_recipe('png', self.ctx)
             png_lib_dir = join(png.get_build_dir(arch.arch), '.libs')
@@ -73,7 +89,7 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
                 freetype_includes=""
             )
 
-            # 3. Filter out any modules whose C source files are not present on disk
+            # 4. Filter out any modules whose C source files are not present on disk
             out_lines = []
             for line in setup_file.splitlines():
                 stripped = line.strip()
@@ -94,6 +110,7 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
         env['USE_SDL2'] = '1'
         env["PYGAME_CROSS_COMPILE"] = "TRUE"
         env["PYGAME_ANDROID"] = "TRUE"
+        env['ANDROID_ROOT'] = join(self.ctx.ndk.sysroot, 'usr')
         return env
 
 
