@@ -1,4 +1,4 @@
-from os.path import join
+from os.path import join, exists
 from pythonforandroid.recipe import CompiledComponentsPythonRecipe
 from pythonforandroid.toolchain import current_directory
 
@@ -72,7 +72,22 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
                 png_includes="-I" + png_inc_dir,
                 freetype_includes=""
             )
-            open("Setup", "w").write(setup_file)
+
+            # 3. Filter out any modules whose C source files are not present on disk
+            out_lines = []
+            for line in setup_file.splitlines():
+                stripped = line.strip()
+                if stripped and not stripped.startswith('#') and '=' not in stripped:
+                    tokens = stripped.split()
+                    c_files = [t for t in tokens[1:] if t.endswith('.c')]
+                    if any(not exists(c) for c in c_files):
+                        out_lines.append('# ' + line)
+                        continue
+                out_lines.append(line)
+            setup_file = '\n'.join(out_lines) + '\n'
+
+            with open("Setup", "w", encoding="utf-8") as f:
+                f.write(setup_file)
 
     def get_recipe_env(self, arch):
         env = super().get_recipe_env(arch)
