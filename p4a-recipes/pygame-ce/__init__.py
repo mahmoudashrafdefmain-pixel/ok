@@ -1,7 +1,5 @@
 from os.path import join
-import sh
 from pythonforandroid.recipe import CompiledComponentsPythonRecipe
-from pythonforandroid.logger import shprint
 from pythonforandroid.toolchain import current_directory
 
 
@@ -10,27 +8,31 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
     Recipe to build apps based on SDL2-based pygame-ce.
     """
 
-    version = '2.5.0'
+    version = '2.5.8'
     url = 'https://files.pythonhosted.org/packages/source/p/pygame-ce/pygame_ce-{version}.tar.gz'
 
     site_packages_name = 'pygame'
     name = 'pygame-ce'
 
-    depends = ['sdl2', 'sdl2_image', 'sdl2_mixer', 'sdl2_ttf', 'setuptools', 'cython', 'jpeg', 'png']
+    depends = ['sdl2', 'sdl2_image', 'sdl2_mixer', 'sdl2_ttf', 'setuptools', 'jpeg', 'png']
     call_hostpython_via_targetpython = False
     install_in_hostpython = False
 
     def prebuild_arch(self, arch):
         super().prebuild_arch(arch)
 
-        # Ensure cython is installed in hostpython
-        try:
-            hostpython = sh.Command(self.ctx.hostpython)
-            shprint(hostpython, '-m', 'pip', 'install', 'cython')
-        except Exception as e:
-            print(f"[pygame-ce] hostpython pip cython note: {e}")
-
         with current_directory(self.get_build_dir(arch.arch)):
+            # 1. Patch setup.py to bypass Cython and use pre-generated C sources
+            with open("setup.py", "r", encoding="utf-8") as f:
+                setup_content = f.read()
+            setup_content = "import setuptools\n" + setup_content.replace(
+                "compile_cython = not no_compilation",
+                "compile_cython = False"
+            )
+            with open("setup.py", "w", encoding="utf-8") as f:
+                f.write(setup_content)
+
+            # 2. Build Setup file from template
             setup_template = open(join("buildconfig", "Setup.Android.SDL2.in")).read()
             env = self.get_recipe_env(arch)
             env['ANDROID_ROOT'] = join(self.ctx.ndk.sysroot, 'usr')
