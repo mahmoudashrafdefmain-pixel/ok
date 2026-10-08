@@ -25,13 +25,6 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
     def prebuild_arch(self, arch):
         super().prebuild_arch(arch)
 
-        # Ensure wheel and setuptools are installed in hostpython
-        try:
-            hostpython = sh.Command(self.ctx.hostpython)
-            shprint(hostpython, '-m', 'pip', 'install', 'wheel', 'setuptools')
-        except Exception as e:
-            print(f"[pygame-ce] hostpython pip note: {e}")
-
         bdir = self.get_build_dir(arch.arch)
         with current_directory(bdir):
             # 1. Update pyproject.toml: keep version metadata for get_version.py,
@@ -54,31 +47,52 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
                     os.remove(mf)
 
             # 3. Patch setup.py:
-            # - Ensure working directory is hardcoded to bdir so os.path.isfile('Setup') is True under pip exec
-            # - Safe header removal so empty/missing scale.h doesn't raise ValueError
+            # - Ensure working directory stays in bdir regardless of sys.argv[0] (which is _in_process.py under pip)
+            # - Force AUTO_CONFIG = False to prevent buildconfig/config.py running desktop unix configs
             # - Bypass Cython so pre-generated C sources are used
+            # - Safe header removal so empty/missing scale.h doesn't raise ValueError
+            # - Prevent -Werror on CI so Android Clang warnings don't fail the build
+            # - Ensure Setup file path is resolved relative to setup.py location
             with open("setup.py", "r", encoding="utf-8") as f:
                 setup_content = f.read()
+
             patch_header = (
-                f"import sys, os\n"
-                f"os.chdir({repr(bdir)})\n"
-                f"if {repr(bdir)} not in sys.path:\n"
-                f"    sys.path.insert(0, {repr(bdir)})\n"
-                f"import setuptools\n"
+                "import sys, os\n"
+                "__SETUP_DIR__ = os.path.dirname(os.path.abspath(__file__))\n"
+                "os.chdir(__SETUP_DIR__)\n"
+                "if __SETUP_DIR__ not in sys.path:\n"
+                "    sys.path.insert(0, __SETUP_DIR__)\n"
+                "import setuptools\n"
             )
+
             setup_content = patch_header + setup_content.replace(
+                "path = os.path.split(os.path.abspath(sys.argv[0]))[0]",
+                "path = os.path.dirname(os.path.abspath(__file__))"
+            ).replace(
+                "AUTO_CONFIG = not os.path.isfile('Setup') and not no_compilation",
+                "AUTO_CONFIG = False"
+            ).replace(
                 "compile_cython = not no_compilation",
                 "compile_cython = False"
             ).replace(
                 "headers.remove(os.path.join('src_c', 'scale.h'))",
                 "if os.path.join('src_c', 'scale.h') in headers: headers.remove(os.path.join('src_c', 'scale.h'))"
+            ).replace(
+                "extensions = read_setup_file('Setup')",
+                "extensions = read_setup_file(os.path.join(path, 'Setup'))"
+            ).replace(
+                's_mtime = os.stat("Setup")[stat.ST_MTIME]',
+                's_mtime = os.stat(os.path.join(path, "Setup"))[stat.ST_MTIME]'
+            ).replace(
+                'e.extra_compile_args.append("/WX" if sys.platform == "win32" else "-Werror")',
+                'pass'
             )
+
             with open("setup.py", "w", encoding="utf-8") as f:
                 f.write(setup_content)
 
             # 4. Build Setup file from template
             setup_template = open(join("buildconfig", "Setup.Android.SDL2.in")).read()
-            env = self.get_recipe_env(arch)
 
             png = self.get_recipe('png', self.ctx)
             png_lib_dir = join(png.get_build_dir(arch.arch), '.libs')
@@ -139,6 +153,10 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
         bdir = self.get_build_dir(arch.arch)
         with current_directory(bdir):
             hostpython = sh.Command(self.ctx.hostpython)
+            try:
+                shprint(hostpython, '-m', 'pip', 'install', 'wheel', 'setuptools')
+            except Exception as e:
+                pass
             env = env.copy()
             env['PYTHONPATH'] = bdir + ((':' + env['PYTHONPATH']) if 'PYTHONPATH' in env else '')
             shprint(hostpython, '-m', 'pip', 'install', '.',
