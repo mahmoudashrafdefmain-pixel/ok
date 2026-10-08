@@ -1,6 +1,7 @@
 from os.path import join
-
+import sh
 from pythonforandroid.recipe import CompiledComponentsPythonRecipe
+from pythonforandroid.logger import shprint
 from pythonforandroid.toolchain import current_directory
 
 
@@ -10,17 +11,25 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
     """
 
     version = '2.5.0'
-    url = 'https://github.com/pygame-community/pygame-ce/archive/refs/tags/{version}.tar.gz'
+    url = 'https://files.pythonhosted.org/packages/source/p/pygame-ce/pygame_ce-{version}.tar.gz'
 
     site_packages_name = 'pygame'
     name = 'pygame-ce'
 
-    depends = ['sdl2', 'sdl2_image', 'sdl2_mixer', 'sdl2_ttf', 'setuptools', 'jpeg', 'png']
+    depends = ['sdl2', 'sdl2_image', 'sdl2_mixer', 'sdl2_ttf', 'setuptools', 'cython', 'jpeg', 'png']
     call_hostpython_via_targetpython = False
     install_in_hostpython = False
 
     def prebuild_arch(self, arch):
         super().prebuild_arch(arch)
+
+        # Ensure cython is installed in hostpython
+        try:
+            hostpython = sh.Command(self.ctx.hostpython)
+            shprint(hostpython, '-m', 'pip', 'install', 'cython')
+        except Exception as e:
+            print(f"[pygame-ce] hostpython pip cython note: {e}")
+
         with current_directory(self.get_build_dir(arch.arch)):
             setup_template = open(join("buildconfig", "Setup.Android.SDL2.in")).read()
             env = self.get_recipe_env(arch)

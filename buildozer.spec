@@ -28,7 +28,7 @@ source.exclude_dirs = tests,tools,build,dist,.pytest_cache,__pycache__,p4a-recip
 version = 17.0
 
 # (list) Application requirements
-requirements = python3,pygame-ce,arabic-reshaper,python-bidi==0.4.2,openpyxl,et-xmlfile,sqlite3
+requirements = python3,cython,pygame-ce,arabic-reshaper,python-bidi==0.4.2,openpyxl,et-xmlfile,sqlite3
 
 # (str) Presplash of the application
 presplash.filename = %(source.dir)s/icon.png
