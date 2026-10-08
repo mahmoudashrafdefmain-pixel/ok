@@ -32,7 +32,8 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
         except Exception as e:
             print(f"[pygame-ce] hostpython pip note: {e}")
 
-        with current_directory(self.get_build_dir(arch.arch)):
+        bdir = self.get_build_dir(arch.arch)
+        with current_directory(bdir):
             # 1. Update pyproject.toml: keep version metadata for get_version.py,
             # but replace build-system backend with setuptools to prevent meson invocation
             if exists("pyproject.toml"):
@@ -53,16 +54,17 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
                     os.remove(mf)
 
             # 3. Patch setup.py:
-            # - Ensure working directory and sys.path are set to setup.py's directory so relative paths and buildconfig work
+            # - Ensure working directory is hardcoded to bdir so os.path.isfile('Setup') is True under pip exec
             # - Safe header removal so empty/missing scale.h doesn't raise ValueError
             # - Bypass Cython so pre-generated C sources are used
             with open("setup.py", "r", encoding="utf-8") as f:
                 setup_content = f.read()
             patch_header = (
-                "import sys, os\n"
-                "os.chdir(os.path.dirname(os.path.abspath(__file__)))\n"
-                "sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))\n"
-                "import setuptools\n"
+                f"import sys, os\n"
+                f"os.chdir({repr(bdir)})\n"
+                f"if {repr(bdir)} not in sys.path:\n"
+                f"    sys.path.insert(0, {repr(bdir)})\n"
+                f"import setuptools\n"
             )
             setup_content = patch_header + setup_content.replace(
                 "compile_cython = not no_compilation",
@@ -134,10 +136,10 @@ class Pygame2Recipe(CompiledComponentsPythonRecipe):
         if env is None:
             env = self.get_recipe_env(arch)
         info(f'Installing {self.name} into site-packages')
-        with current_directory(self.get_build_dir(arch.arch)):
+        bdir = self.get_build_dir(arch.arch)
+        with current_directory(bdir):
             hostpython = sh.Command(self.ctx.hostpython)
             env = env.copy()
-            bdir = self.get_build_dir(arch.arch)
             env['PYTHONPATH'] = bdir + ((':' + env['PYTHONPATH']) if 'PYTHONPATH' in env else '')
             shprint(hostpython, '-m', 'pip', 'install', '.',
                     '--no-build-isolation',
